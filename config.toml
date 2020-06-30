@@ -1,6 +1,6 @@
 # Site settings
 #baseURL = "https://github.com/minaraja/mansiart/"
-baseURL = "http://mansiart.js.org/"
+baseURL = "https://mansiart.js.org/"
 #baseURL = "https://mansiart.github.io/mansiart/"
 languageCode = "es-ES"
 title = "Mans&Art"
@@ -36,7 +36,7 @@ summaryLength = 20
   image = ""
   
   # parametro baseURL misma que sitesettings baseURL pero sin la /
-  baseURL = "http://mansiart.js.org"
+  baseURL = "https://mansiart.js.org"
   #baseURL = "https://mansiart.github.io/mansiart"
 
   # Content types which are excludes Disqus comments.
