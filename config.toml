@@ -128,23 +128,23 @@ summaryLength = 20
       image = "jarron.png"
       url = "posts/post-7"
 
-    [[params.tiles.showcase]]
-      title = "Destacado 4: Typography"
-      subtitle = "Typography and syntax"
-      image = "pic04.jpg"
-      url = "posts/post-5"
+   # [[params.tiles.showcase]]
+   #   title = "Destacado 4: Typography"
+   #   subtitle = "Typography and syntax"
+   #   image = "pic04.jpg"
+   #   url = "posts/post-5"
 
-    [[params.tiles.showcase]]
-      title = "Destacado 5: How I Learned to Stop Procrastinating, & Love Letting Go"
-      subtitle = "The art of letting go."
-      image = "costura.png"
-      url = "posts/post-3"
+  #  [[params.tiles.showcase]]
+   #   title = "Destacado 5: How I Learned to Stop Procrastinating, & Love Letting Go"
+    #  subtitle = "The art of letting go."
+    #  image = "costura.png"
+  #    url = "posts/post-3"
 
-    [[params.tiles.showcase]]
-      title = "Descatado 6: Getting Started with Traveling Ultralight"
-      subtitle = "Start by getting a small backpack (less than 20 liters) and then just travel with what fits in that."
-      image = "pintura.png"
-      url = "posts/post-4"
+ #   [[params.tiles.showcase]]
+   #   title = "Descatado 6: Getting Started with Traveling Ultralight"
+ #     subtitle = "Start by getting a small backpack (less than 20 liters) and then just travel with what fits in that."
+ #     image = "pintura.png"
+ #     url = "posts/post-4"
       
     # You can make more showcases by copy and pasting the code above
 
