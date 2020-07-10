@@ -47,9 +47,8 @@ summaryLength = 20
 
   # 404 error customization
   [params.error404]
-    heading = """The page you're looking for doesn't exist. 
-    Perhaps you'd like to gopher something else? 
-    Sorry"""
+    heading = """La página que estás buscando no existe.  
+    Lo sentimos."""
     text = "Please visit [this page](/)"
 
   # Navigation Section
@@ -111,38 +110,38 @@ summaryLength = 20
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Destacado 1: Primer: When You Have Too Much to Do"
-      subtitle = "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
+      title = "Scrap a l'illa"
+      subtitle = "Toda la información de este I encuentro en Mallorca"
       image = "ideas.png"
       url = "posts/post-1"
 
     [[params.tiles.showcase]]
-      title = "Destacado 2: Hugo shortcodes"
-      subtitle = "Here is a demo of all shortcodes available in Hugo."
+      title = "Talleres"
+      subtitle = "Conoce todos los talleres presenciales que estamos preparando."
       image = "arcoiris.png"
       url = "posts/post-6"
 
     [[params.tiles.showcase]]
-      title = "Destacado 3: How to test dark mode?"
-      subtitle = "Here is how you can setup dark mode for Ezhil and test on various OS like iOS, Android, macOS and Windows 10."
+      title = "Formación"
+      subtitle = "¿Buscas un curso que te ayude a formarte como artista? Aquí encontrarás formación complementaria on-line para tus aficiones."
       image = "jarron.png"
       url = "posts/post-7"
 
    [[params.tiles.showcase]]
-      title = "Destacado 4: Typography"
-      subtitle = "Typography and syntax"
+      title = "Conociendo a..."
+      subtitle = "Un rincón donde conocer a nuestr@s artistas, las técnicas y los lugares del mundo de las manualidades"
       image = "pic04.jpg"
       url = "posts/post-5"
 
     [[params.tiles.showcase]]
-      title = "Destacado 5: How I Learned to Stop Procrastinating, & Love Letting Go"
-      subtitle = "The art of letting go."
+      title = "Solidaridad"
+      subtitle = "Te presentamos los proyectos solidarios con los que colaboramos."
       image = "costura.png"
       url = "posts/post-3"
 
     [[params.tiles.showcase]]
-     title = "Descatado 6: Getting Started with Traveling Ultralight"
-      subtitle = "Start by getting a small backpack (less than 20 liters) and then just travel with what fits in that."
+     title = "Calendario"
+      subtitle = "No te pierdas ninguna de nuestras actividades."
       image = "pintura.png"
       url = "posts/post-4"
       
