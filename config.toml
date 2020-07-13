@@ -110,7 +110,7 @@ summaryLength = 20
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Scrap a l'illa"
+      title = "Scrapal'illa"
       subtitle = "Toda la información de este I encuentro en Mallorca"
       image = "../uploads/scrapalilla_inicio-2020-07-13.jpg"
       url = "posts/scrapalilla"
