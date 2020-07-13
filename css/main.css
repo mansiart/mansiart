@@ -2966,13 +2966,15 @@
 			background-color: #2e3450;
 		}
 
-			.spotlights > section > .image {
+				.spotlights > section > .image {
 				background-position: center center;
 				background-size: cover;
 				border-radius: 0;
 				display: block;
 				position: relative;
 				width: 30%;
+				padding-top: 2.25em;
+				padding-right: 1em;
 			}
 
 				.spotlights > section > .image img {
