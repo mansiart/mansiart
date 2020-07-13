@@ -5,7 +5,7 @@ description: Aquí encontrarás toda la información que poco a poco te iremos d
   sobre este primer encuentro que vamos a realizar en Mallorca.
 tags:
 - Scrapal'illa
-image: scrapalilla_vertical-2020-07-13.png
+image: ''
 
 ---
 Scrapal'illa es el encuentro dedicado al scrapbooking y el mixmedia que desde Mans&Art estamos preparando en Mallorca.
@@ -48,4 +48,4 @@ Cuando te inscribas al evento una parte del precio será destinado a una acción
 
 ## Más información
 
-Sigue la cuenta de instagram de Scapal'illa para no perderte las novedades: @scrapalilla o [https://www.instagram.com/scrapalilla/](https://www.instagram.com/scrapalilla/ "https://www.instagram.com/scrapalilla/")
+Sigue la cuenta de instagram de Scapal'illa para no perderte las novedades: @scrapalilla o [https://www.instagram.com/scrapalilla/](https://www.instagram.com/scrapalilla/ "https://www.instagram.com/scrapalilla/")![](/uploads/scrapalilla_horizontal-2020-07-13.png)
