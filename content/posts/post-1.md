@@ -25,7 +25,7 @@ En fin, de lo que un "encuentro" se trata, de conocernos entre risas y colores..
 
 Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un precioso hotel de Mallorca, situado en un enclave maravilloso rodeado de naturaleza.
 
-Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. Pero también tendremos tiempo el sábado por la noche para conocernos más en profundidad y reírnos con una noche **????? no sé como acabar la frase**
+Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. Y la noche del sábado seguiremos las risas y la fiesta para conocernos mejor
 
 ## ¿Cuándo será el I encuentro Scrapal'illa?
 
