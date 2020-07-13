@@ -1,5 +1,5 @@
 ---
-title: I Encuentro Scrapal'illa
+title: I Encuentro Scrapal'illa test
 date: 
 description: Aquí encontrarás toda la información que poco a poco te iremos desvelando
   sobre este primer encuentro que vamos a realizar en Mallorca.
