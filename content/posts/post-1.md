@@ -45,3 +45,7 @@ Será en un precioso hotel situado en la sierra mallorquina, rodeado de naturale
 ## Acción solidaria
 
 Cuando te inscribas al evento una parte del precio será destinado a una acción solidaria de las islas. Pronto te desvelaremos con que causa colaboraremos para este I encuentro Scrapal'illa.
+
+## Más información
+
+Sigue la cuenta de instagram de Scapal'illa para no perderte las novedades: @scrapalilla o [https://www.instagram.com/scrapalilla/](https://www.instagram.com/scrapalilla/ "https://www.instagram.com/scrapalilla/")
