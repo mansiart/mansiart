@@ -112,7 +112,7 @@ summaryLength = 20
     [[params.tiles.showcase]]
       title = "Scrap a l'illa"
       subtitle = "Toda la información de este I encuentro en Mallorca"
-      image = "scrapalilla_horizontal.png"
+      image = "scrapalilla_horizontal_web.png"
       url = "posts/post-1"
 
     [[params.tiles.showcase]]
