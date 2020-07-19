@@ -129,7 +129,7 @@ summaryLength = 20
    [[params.tiles.showcase]]
       title = "Conociendo a..."
       subtitle = "Un rincón donde conocer a nuestr@s artistas, las técnicas y los lugares del mundo de las manualidades"
-      image = "../uploads/conociendo-2020-07-19.jpg"
+      image = "../uploads/conociendo-2020-07-19.png"
       url = "posts/conociendo"
 
     [[params.tiles.showcase]]
