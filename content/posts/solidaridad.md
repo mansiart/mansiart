@@ -3,7 +3,7 @@ title: Solidaridad
 date: 2018-03-18T12:13:32.000+05:30
 description: Descubre las causas benéficas con las que participamos
 tags: []
-image: "/uploads/solidaridad-2020-07-19.jpg"
+image: solidaridad-2020-07-19.jpg
 
 ---
 Te presentamos los proyectos solidarios con los que participamos, y todo gracias a ti.
