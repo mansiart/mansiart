@@ -2,7 +2,7 @@
 date = ""
 description = "Formación en línea para que crezcas como artista"
 image = "/uploads/jarron-2020-07-19.png"
-tags = ["formacion"]
+tags = ["formación"]
 title = "Formación"
 
 +++
