@@ -1,10 +1,9 @@
 +++
 date = ""
-description = "test"
-draft = true
+description = "Formación en línea para que crezcas como artista"
 image = "/uploads/jarron-2020-07-19.png"
-tags = []
+tags = ["formacion"]
 title = "Formación"
 
 +++
-hazfta er aer 
+Aquí encontraras cursos en linea que te ayudaran a completar tu formación como artista.
