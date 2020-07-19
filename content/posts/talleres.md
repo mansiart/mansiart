@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 image = "/uploads/arcoiris-2020-07-19.png"
 tags = []
 title = "Talleres"
