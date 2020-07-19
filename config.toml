@@ -98,9 +98,8 @@ summaryLength = 20
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Mans & Art"
-    subtitle = """Asociación sin ánimo de lucro. 
-	Compartimos nuestra pasión por el DIY, la costura, el scrap, el crochet, el mixmedia, el lettering y mucho más. 
-	En Mallorca."""
+    subtitle = """Asociación mallorquina sin ánimo de lucro. 
+	Compartimos nuestra pasión por el DIY, la costura, el scrap, el crochet, el mixmedia, el lettering y mucho más."""
     buttonText = "Hazte socio"
     buttonURL = "socios"
 
