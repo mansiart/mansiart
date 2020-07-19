@@ -1,7 +1,7 @@
 ---
 title: Typography
 date: 2018-03-18T12:13:38.000+05:30
-image: pic04.jpg
+image: conociendo-2020-07-19.jpg
 draft: true
 
 ---
