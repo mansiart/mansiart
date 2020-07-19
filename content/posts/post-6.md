@@ -3,6 +3,7 @@ title: Hugo shortcodes
 date: 2018-03-18T12:13:36.000+05:30
 description: Here is a demo of all shortcodes available in Hugo.
 image: arcoiris.png
+draft: true
 
 ---
 ## Images
@@ -30,5 +31,3 @@ image: arcoiris.png
 ## Instagram
 
 {{< instagram BWNjjyYFxVx >}}
-
-<a href='[https://www.freepik.es/fotos-vectores-gratis/arte](https://www.freepik.es/fotos-vectores-gratis/arte "https://www.freepik.es/fotos-vectores-gratis/arte")'>Imagen creada por freepik - www.freepik.es</a>
