@@ -33,7 +33,9 @@ Será un fin de semana que os desvelaremos más adelante. Pero será muy especia
 
 ## Talleres
 
-Te informaremos de los talleres que realizaremos y del material imprescindible que deberás traer.
+Durante este fin de semana realizaremos dos talleres.
+
+Te informaremos de todos los detalles y del material imprescindible que deberás traer.
 
 ## Juegos
 
