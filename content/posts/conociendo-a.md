@@ -1,9 +1,8 @@
 +++
 date = 2018-03-18T06:43:32Z
-description = "Descubre las causas benéficas con las que participamos"
-draft = true
-image = "solidaridad-2020-07-19.jpg"
-tags = []
+description = "Conoce de tú a tú a los artistas y tiendas de nuestras islas, y profundiza o aprende nuevas técnicas"
+image = "conociendo-2020-07-19.png"
+tags = ["conociendo", "artistas", "técnicas", "tiendas"]
 title = "Conociendo a..."
 
 +++
