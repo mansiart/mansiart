@@ -6,3 +6,6 @@ tags = ["solidaridad"]
 title = "Solidaridad"
 
 +++
+Te presentamos los proyectos solidarios con los que participamos, y todo gracias a ti.
+
+Con cada taller que haces, ayudamos a una causa benéfica de las islas.
