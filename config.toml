@@ -117,8 +117,8 @@ summaryLength = 20
     [[params.tiles.showcase]]
       title = "Talleres"
       subtitle = "Conoce todos los talleres presenciales que estamos preparando."
-      image = "arcoiris.png"
-      url = "posts/post-6"
+      image = "arcoiris-2020-07-19.png"
+      url = "posts/talleres"
 
     [[params.tiles.showcase]]
       title = "Formación"
