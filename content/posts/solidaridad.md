@@ -1,11 +1,12 @@
 ---
-title: "How I Learned to Stop Procrastinating, & Love Letting Go"
-date: 2018-03-18T12:13:32+05:30
-description: "The art of letting go."
-tags: [Procrastinating]
+title: How I Learned to Stop Procrastinating, & Love Letting Go
+date: 2018-03-18T12:13:32.000+05:30
+description: The art of letting go.
+tags:
+- Procrastinating
 image: costura.png
----
 
+---
 The end of procrastination is the art of letting go.
 
 I’ve been a lifelong procrastinator, at least until recent years. I would put things off until deadline, because I knew I could come through. I came through on tests after cramming last minute, I turned articles in at the deadline after waiting until the last hour, I got things done.
