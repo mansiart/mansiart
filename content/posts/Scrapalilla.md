@@ -39,7 +39,7 @@ Te informaremos de todos los detalles y del material imprescindible que deberás
 
 ## Juegos
 
-En caso necesario te desvelaremos  un poquito, pero no todo, para mantener la emoción
+En caso necesario te desvelaremos un poquito, pero no todo, para mantener la emoción
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
