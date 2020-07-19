@@ -1,10 +1,12 @@
 ---
-title: "Getting Started with Traveling Ultralight"
-date: 2018-03-18T12:13:35+05:30
-description: "Start by getting a small backpack (less than 20 liters) and then just travel with what fits in that."
+title: Getting Started with Traveling Ultralight
+date: 2018-03-18T12:13:35.000+05:30
+description: Start by getting a small backpack (less than 20 liters) and then just
+  travel with what fits in that.
 image: pintura.png
----
+draft: true
 
+---
 I’m on a trip at the moment, and a friend who generously let me sleep on his couch looked at my small travel backpack and commented on how little I travel with: “That’s impressive,” he said.
 
 I was a little surprised, because though I’ve gotten that comment before, it’s become normal for me to travel with just a small bag (10 lbs. or less, usually), and I have friends who travel with even less. But then I remembered that I’m far from normal in this way.
@@ -28,4 +30,3 @@ I really love traveling this way, and am more than willing to sacrifice bringing
 By the way, you don’t need much more than this kind of setup even in everyday life.
 
 For more info on this, check out my Ultralight ebook, and my friend Tynan has a great book called Forever Nomad.
-
