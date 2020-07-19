@@ -1,4 +1,22 @@
 ---
 label: calendario
 hide_body: true
-fields: []
+fields:
+- name: presentacion
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: presentacion
+- name: calendario
+  type: datetime
+  label: calendario
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
