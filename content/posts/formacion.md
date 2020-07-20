@@ -7,3 +7,5 @@ title = "Formación"
 
 +++
 Aquí encontraras cursos en linea que te ayudaran a completar tu formación como artista.
+
+![](/uploads/jarron-2020-07-19.png)
