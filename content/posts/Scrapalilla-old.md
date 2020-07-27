@@ -7,6 +7,7 @@ tags:
 - Scrapal'illa
 - " encuentro"
 image: scrapalilla_horizontal-2020-07-13.png
+draft: true
 
 ---
 Scrapal'illa es el encuentro dedicado al scrapbooking y el mixmedia que desde Mans&Art estamos preparando en Mallorca.
