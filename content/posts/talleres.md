@@ -1,7 +1,7 @@
 +++
-date = 2018-03-18T06:43:32Z
+date = ""
 description = "Descubre todos los talleres que organizamos"
-image = "arcoiris-2020-07-19.png"
+image = "/uploads/arcoiris-2020-07-27.png"
 tags = ["talleres"]
 title = "Talleres"
 
