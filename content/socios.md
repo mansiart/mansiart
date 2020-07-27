@@ -10,7 +10,7 @@ Para hacerte socio debes enviar un correo electrónico con el formulario de insc
 
 ## Ventajas para socios
 
-En este apartado conocerás todas las ventajas de las que puedes disfrutar por ser socios de Mans & Art.
+En este apartado conocerás todas las ventajas de las que puedes disfrutar por ser socio de Mans & Art.
 
 * Inscripción prioritaria a los talleres y eventos que realicemos.
 * Publicidad de tu marca o negocio.
