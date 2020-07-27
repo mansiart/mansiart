@@ -168,6 +168,8 @@ summaryLength = 20
   # Contact section
   [params.contact]
     enable = true
+    title = "Contacto"
+    subtitle = """Cuentanos algo de ti, déjanos una sugerencia para mejorar, o si ves algo que no funciona. Queremos mejorar en lo que hacemos"""
     buttonSend = "Contacta con nosotros"
     buttonClear = "Limpiar"
 
