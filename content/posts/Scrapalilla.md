@@ -41,6 +41,12 @@ Te informaremos de todos los detalles y del material imprescindible que deberás
 
 En caso necesario te desvelaremos un poquito, pero no todo, para mantener la emoción
 
+## Colaboradores
+
+Te vamos a ir desvelando todos los colaboradores que harán de este fin de semana un momento único lleno de sorpresas y regalos. 
+
+Porque lo que más nos gusta, además de los papeles bonitos, son los regalos bonitos.
+
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
 Será en un precioso hotel situado en la sierra mallorquina, rodeado de naturaleza, para que nada estropee este fin de semana tan especial.
