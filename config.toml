@@ -71,6 +71,10 @@ summaryLength = 20
     [[params.navigation.links]]
       name = "Conócenos"
       url = "about"
+      
+    [[params.navigation.links]]
+      name = "Calendario"
+      url = "calendario"
 
     [[params.navigation.links]]
       name = "Tags"
