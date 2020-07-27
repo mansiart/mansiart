@@ -1,7 +1,7 @@
 +++
 date = ""
 description = "Conoce de tú a tú a los artistas y tiendas de nuestras islas, y profundiza o aprende nuevas técnicas"
-image = "uploads/conociendo-2020-07-27.png"
+image = "conociendo-2020-07-27.png"
 tags = ["conociendo", "artistas", "técnicas", "tiendas"]
 title = "Conociendo a..."
 
