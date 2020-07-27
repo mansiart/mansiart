@@ -20,5 +20,3 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-pages:
-- content/posts/calendario.md
