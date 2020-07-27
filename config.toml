@@ -142,7 +142,7 @@ summaryLength = 20
      title = "Calendario"
       subtitle = "No te pierdas ninguna de nuestras actividades."
       image = "../uploads/pintura-2020-07-19.png"
-      url = "posts/calendario"
+      url = "calendario"
       
     # You can make more showcases by copy and pasting the code above
 
