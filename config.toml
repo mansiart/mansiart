@@ -189,9 +189,9 @@ summaryLength = 20
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
-    [[params.contact.email]]
-    title = "Correo electrónico"
-    email = "info.mansiart@gmail.com"
+    #[[params.contact.email]]
+    #title = "Correo electrónico"
+    #email = "info.mansiart@gmail.com"
 
     #[[params.contact.phone]]
     #title = "Phone"
