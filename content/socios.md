@@ -17,3 +17,5 @@ En este apartado conocerás todas las ventajas de las que puedes disfrutar por s
 * Inscripción prioritaria a los talleres y eventos que realicemos.
 * Publicidad de tu marca o negocio.
 * Acceso a cursos online exclusivos.
+
+Esperamos que esta lista se pueda ir ampliando.
