@@ -32,7 +32,15 @@ Será un fin de semana que os desvelaremos más adelante. Pero será muy especia
 
 Durante este fin de semana realizaremos dos talleres.
 
-Te informaremos de todos los detalles y del material imprescindible que deberás traer.
+#### Taller de MixMedia
+
+![](/uploads/proyectomixmedia-2020-07-28.png)
+
+En el primer taller de este fin de semana especial dedicado a las manualidades que más nos gustan realizaremos estos tags con la técnica de MixMedia. Están realizados en acetato rígido y son preciosos.
+
+El taller será impartido por Nany ([@niara.art](https://www.instagram.com/niara.art/?hl=es)), una artista apasionada del mixmedia que desde hace 2 años nos sorprende con sus proyectos en esta técnica con trabajos tanto de estilo Steampunk como Vintage.
+
+#### Segundo taller por desvelar.
 
 ## Juegos
 
