@@ -207,7 +207,7 @@ summaryLength = 20
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Copyright - Mans & Art"
+    copyright = "2020 - Mans & Art. calle San Miguel, núm. 52, CP 07002, Palma, Illes Balears. NIF: G01761964"
 
     # Uses font awesome icons
     #[[params.footer.social]]
