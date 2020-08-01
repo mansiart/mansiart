@@ -34,6 +34,10 @@ Durante este fin de semana realizaremos dos talleres.
 
 #### Taller de MixMedia
 
+{{< rawhtml >}}
+
+{{/< rawhtml >}}
+
 ![](/uploads/proyectomixmedia-2020-07-28.png)
 
 En el primer taller de este fin de semana especial dedicado a las manualidades que más nos gustan realizaremos estos tags con la técnica de MixMedia. Están realizados en acetato rígido y son preciosos.
