@@ -36,13 +36,13 @@ Durante este fin de semana realizaremos dos talleres.
 
 {{< rawhtml >}}
 
-<div style="width: 20%; float:left">
+<div style="width: 30%; float:left">
 
 ![](/uploads/proyectomixmedia-2020-07-28.png)
 
 </div>
 
-<div style="width: 80%; float:right">
+<div style="width: 70%; float:right">
 
 En el primer taller de este fin de semana especial dedicado a las manualidades que más nos gustan realizaremos estos tags con la técnica de MixMedia. Están realizados en acetato rígido y son preciosos.
 
