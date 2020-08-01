@@ -38,7 +38,7 @@ Durante este fin de semana realizaremos dos talleres.
 
 <div style="width: 30%; float:left">
 
-![](/uploads/proyectomixmedia-2020-07-28.png)
+<img src="/uploads/proyectomixmedia-2020-07-28.png"
 
 </div>
 
@@ -48,8 +48,6 @@ En el primer taller de este fin de semana especial dedicado a las manualidades q
 
 </div>
 
-<pr>
-
 <div style="width: 70%; float:left">
 
 El taller será impartido por Nany ([@niara.art](https://www.instagram.com/niara.art/?hl=es)), una artista apasionada del mixmedia que desde hace 2 años nos sorprende con sus proyectos en esta técnica con trabajos tanto de estilo Steampunk como Vintage.
@@ -58,7 +56,7 @@ El taller será impartido por Nany ([@niara.art](https://www.instagram.com/niara
 
 <div style="width: 30%; float:right">
 
-![](/uploads/nany-2020-08-01.png)
+<img src="/uploads/nany-2020-08-01.png">
 
 </div>
 
