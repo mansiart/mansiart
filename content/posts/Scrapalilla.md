@@ -36,7 +36,21 @@ Durante este fin de semana realizaremos dos talleres.
 
 {{< rawhtml >}}
 
-<div> <span style="display: inline-block;width: 30%;"> <img src="/uploads/proyectomixmedia-2020-07-28.png"></span> <span style="display: inline-block;vertical-align: top;width: 65%;">En el primer taller de este fin de semana especial dedicado a las manualidades que más nos gustan realizaremos estos tags con la técnica de MixMedia. Están realizados en acetato rígido y son preciosos.</span> </div>
+<div>
+
+   <span style="display: inline-block;width: 30%;"><img src="/uploads/proyectomixmedia-2020-07-28.png"></span>
+
+   <span style="display: inline-block;vertical-align: top;width: 65%;">En el primer taller de este fin de semana especial dedicado a las manualidades que más nos gustan realizaremos estos tags con la técnica de MixMedia. Están realizados en acetato rígido y son preciosos.</span>
+
+</div>
+
+<div>
+
+   <span style="display: inline-block;width: 65%;">El taller será impartido por Nany (<a href="https://www.instagram.com/niara.art/?hl=es">@niara.art</a>), una artista apasionada del mixmedia que desde hace 2 años nos sorprende con sus proyectos en esta técnica con trabajos tanto de estilo Steampunk como Vintage.</span>
+
+   <span style="display: inline-block;vertical-align: top;"><img src="/uploads/nany-2020-08-01.png" align="right"></span>
+
+</div>
 
 {{< /rawhtml >}}
 
