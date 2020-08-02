@@ -168,8 +168,6 @@ summaryLength = 20
   # Contact section
   [params.contact]
     enable = true
-    title = "Contacto"
-    subtitle = """Cuentanos algo de ti, déjanos una sugerencia para mejorar, o si ves algo que no funciona. Queremos mejorar en lo que hacemos"""
     buttonSend = "Contacta con nosotros"
     buttonClear = "Limpiar"
 
@@ -189,9 +187,9 @@ summaryLength = 20
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
-    #[[params.contact.email]]
-    #title = "Correo electrónico"
-    #email = "info.mansiart@gmail.com"
+    [[params.contact.email]]
+    title = "Correo electrónico"
+    email = "info.mansiart@gmail.com"
 
     #[[params.contact.phone]]
     #title = "Phone"
