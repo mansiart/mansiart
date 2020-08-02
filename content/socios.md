@@ -22,24 +22,16 @@ Esperamos que esta lista se pueda ir ampliando.
 
 <section><form method="post" action="[https://formspree.io/info.mansiart@gmail.com](https://formspree.io/info.mansiart@gmail.com "https://formspree.io/info.mansiart@gmail.com")">
 
-<div class="field half first">
+<div class="field"><label for="name">Nombre</label><input type="text" name="name" id="name"></div>
 
-<label for="name">Nombre</label>
+<div class="field"><label for="email">Correo electrónico</label><input type="text" name="email" id="email"></div>
 
-<input type="text" name="name" id="name"></div>
-
-<div class="field half"><label for="email">Correo electrónico</label>
-
-<input type="text" name="email" id="email"></div>
-
-<div class="field"><label for="message">Mensaje</label>
-
-<textarea name="message" id="message" rows="6"></textarea></div>
+<div class="field"><label for="message">Mensaje</label><textarea name="message" id="message" rows="6"></textarea></div>
 
 <ul class="actions"><li><input type="submit" value="Enviar" class="special"></li>
 
 <li><input type="reset" value="Limpiar"></li></ul></form></section>
 
-<p style="font-size:50%">En Mans&Art tratamos la información que nos facilitas con el fin de prestarte el servicio solicitado o enviarte la información que nos pideds. Los datos proporcionados se conservarán mientras no nos solicites el cese de la actividad. Los datos no se cederán a terceros salvo en los casos en que exista una obligación legal. Tienes derecho a obtener información sobre si en Mans&Art estamos tratando tus datos personales, por lo que puede ejercer tus derechos de acceso, rectificación, supresión y portabilidad de datos y oposición y limitación a su tratamiento ante Mans&Art, calle San Miguel, núm. 52, CP 07002, Palma, Illes Balears o en la dirección de correo electrónico info.mansiart@gmail.com, adjuntando copia de tu DNI o documento equivalente. Asimismo, y especialmente si considera que no has obtenido satisfacción plena en el ejercicio de tus derechos, podrás presentar una reclamación ante la autoridad nacional de control dirigiéndote a estos efectos a la Agencia Española de Protección de Datos, C/ Jorge Juan, 6 – 28001 Madrid.<p>
+<p style="font-size:50%">En Mans&Art tratamos la información que nos facilitas con el fin de prestarte el servicio solicitado o enviarte la información que nos pideds. Los datos proporcionados se conservarán mientras no nos solicites el cese de la actividad. Los datos no se cederán a terceros salvo en los casos en que exista una obligación legal. Tienes derecho a obtener información sobre si en Mans&Art estamos tratando tus datos personales, por lo que puede ejercer tus derechos de acceso, rectificación, supresión y portabilidad de datos y oposición y limitación a su tratamiento ante Mans&Art, calle San Miguel, núm. 52, CP 07002, Palma, Illes Balears o en la dirección de correo electrónico info.mansiart@gmail.com, adjuntando copia de tu DNI o documento equivalente. Asimismo, y especialmente si considera que no has obtenido satisfacción plena en el ejercicio de tus derechos, podrás presentar una reclamación ante la autoridad nacional de control dirigiéndote a estos efectos a la Agencia Española de Protección de Datos, C/ Jorge Juan, 6 – 28001 Madrid.</p>
 
     {{< /rawhtml >}}
