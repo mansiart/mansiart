@@ -2,7 +2,10 @@
     <section id="contact">
         <div class="inner">
             <section>
-                <form method="post" action="https://formspree.io/{{ .Site.Params.Contact.formEmail }}">
+                <div style="font-size: 1em">
+                Contacta con nnosotros para contarnos algo de ti, para dejarnos una sugerencia o para informarnos de algo que no funciona o podemos mejorar. ¡Nos encanta escucharte!
+                </div>
+                    <form method="post" action="https://formspree.io/{{ .Site.Params.Contact.formEmail }}">
                     <div class="field half first">
                         <label for="name">Nombre</label>
                         <input type="text" name="name" id="name" />
