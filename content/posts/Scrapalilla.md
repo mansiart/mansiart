@@ -8,19 +8,19 @@ title = "I Encuentro Scrapal'illa"
 +++
 Scrapal'illa es el encuentro dedicado al scrapbooking y el mixmedia que desde Mans&Art estamos preparando en Mallorca.
 
-Un primer encuentro para conocernos y compartir nuestras aficiones, reírnos y desconectar, rodeados de vistas maravillosas.
+Un primer encuentro para conocernos y compartir nuestras aficiones, reírnos y desconectar.
 
 ## La esencia
 
-La esencia de Scrapal'illa reside en que en las islas podamos hacer talleres sin tener que coger un vuelo e ir a la península...porque aquí, en las Islas tenemos maravillos@s artistas de todas las modalidades.
+La esencia de Scrapal'illa reside en que en las islas podamos hacer talleres sin tener que coger un vuelo e ir a la península. Porque aquí, en las islas, tenemos artistas maravillos@s de todas las modalidades.
 
-Queremos hacer talleres de calidad, con talleristas y artistas de las Islas, a precios asequibles...y que también incluya sorteos, retos, concursos, premios, regalos, candybar, fotocall...
+Queremos hacer talleres de calidad, con talleristas y artistas de las islas, a precios asequibles y que también incluya sorteos, retos, concursos, premios, regalos, candybar, photocall, etc.
 
-En fin, de lo que un "encuentro" se trata, de conocernos entre risas y colores...y que año tras año podamos ser más y más. Y no tener nada que envidiar a todos aquellos encuentros que se realizan fuera de nuestras bonitas islas.
+En fin, de lo que un encuentro se trata, de conocernos entre risas y colores. Y que año tras año podamos ser más y más. Y no tener nada que envidiar a todos aquellos encuentros que se realizan fuera de nuestras bonitas islas.
 
 ## ¿Qué incluye este evento?
 
-Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un precioso hotel de Mallorca, situado en un enclave maravilloso.
+Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un precioso hotel de Mallorca.
 
 Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. Y la noche del sábado seguiremos las risas y la fiesta para conocernos mejor
 
@@ -68,7 +68,7 @@ Porque lo que más nos gusta, además de los papeles bonitos, son los regalos bo
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
-Será en un precioso hotel situado en la sierra mallorquina, rodeado de naturaleza, para que nada estropee este fin de semana tan especial.
+Te lo desvelaremos en su momento.
 
 ## Acción solidaria
 
@@ -76,4 +76,4 @@ Cuando te inscribas al evento una parte del precio será destinado a una acción
 
 ## Más información
 
-Sigue la cuenta de instagram de Scapal'illa para no perderte las novedades: @scrapalilla o [https://www.instagram.com/scrapalilla/](https://www.instagram.com/scrapalilla/ "https://www.instagram.com/scrapalilla/")
+Sigue la cuenta de Instagram de Scapal'illa para no perderte las novedades: @scrapalilla o [https://www.instagram.com/scrapalilla/](https://www.instagram.com/scrapalilla/ "https://www.instagram.com/scrapalilla/")
