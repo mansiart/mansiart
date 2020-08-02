@@ -12,15 +12,15 @@ Un primer encuentro para conocernos y compartir nuestras aficiones, reírnos y d
 
 ## La esencia
 
-La esencia de Scrapal'illa reside en que en las islas podamos hacer talleres sin tener que coger un vuelo e ir a la península...porque aquí, en las Islas tenemos maravillos@s artistas de todas las modalidades...
+La esencia de Scrapal'illa reside en que en las islas podamos hacer talleres sin tener que coger un vuelo e ir a la península...porque aquí, en las Islas tenemos maravillos@s artistas de todas las modalidades.
 
 Queremos hacer talleres de calidad, con talleristas y artistas de las Islas, a precios asequibles...y que también incluya sorteos, retos, concursos, premios, regalos, candybar, fotocall...
 
-En fin, de lo que un "encuentro" se trata, de conocernos entre risas y colores...y que año tras año podamos ser más y más ... Y no tener nada que envidiar a todos aquellos encuentros que se realizan fuera de nuestras bonitas islas.
+En fin, de lo que un "encuentro" se trata, de conocernos entre risas y colores...y que año tras año podamos ser más y más. Y no tener nada que envidiar a todos aquellos encuentros que se realizan fuera de nuestras bonitas islas.
 
 ## ¿Qué incluye este evento?
 
-Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un precioso hotel de Mallorca, situado en un enclave maravilloso rodeado de naturaleza.
+Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un precioso hotel de Mallorca, situado en un enclave maravilloso.
 
 Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. Y la noche del sábado seguiremos las risas y la fiesta para conocernos mejor
 
@@ -54,15 +54,15 @@ Durante este fin de semana realizaremos dos talleres.
 
 {{< /rawhtml >}}
 
-#### Segundo taller por desvelar.
+#### Segundo taller por descubrir.
 
 ## Juegos
 
-En caso necesario te desvelaremos un poquito, pero no todo, para mantener la emoción
+En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoción
 
 ## Colaboradores
 
-Te vamos a ir desvelando todos los colaboradores que harán de este fin de semana un momento único lleno de sorpresas y regalos.
+Te vamos a ir presentando a todos los colaboradores que harán de este fin de semana un momento único lleno de sorpresas y regalos.
 
 Porque lo que más nos gusta, además de los papeles bonitos, son los regalos bonitos.
 
@@ -72,7 +72,7 @@ Será en un precioso hotel situado en la sierra mallorquina, rodeado de naturale
 
 ## Acción solidaria
 
-Cuando te inscribas al evento una parte del precio será destinado a una acción solidaria de las islas. Pronto te desvelaremos con que causa colaboraremos para este I encuentro Scrapal'illa.
+Cuando te inscribas al evento una parte del precio será destinado a una acción solidaria de las islas. Pronto te informaremos con que causa colaboraremos para este I encuentro Scrapal'illa.
 
 ## Más información
 
