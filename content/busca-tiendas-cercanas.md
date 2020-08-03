@@ -6,7 +6,6 @@ tags = ["tiendas"]
 title = "Busca tiendas cercanas"
 
 +++
-# Busca tu tienda más cercana
 
     {{< rawhtml >}}
 
