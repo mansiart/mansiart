@@ -11,3 +11,7 @@ image: solidaridad-2020-07-27.png
 Te presentamos los proyectos solidarios con los que participamos, y todo gracias a ti.
 
 Con cada taller que haces, ayudamos a una causa benéfica de las islas.
+
+### Da un paso con Rodrigo
+
+Para el I encuentro Scrapal'Illa la asociación Mans&Art ha decidido colaborar con 
