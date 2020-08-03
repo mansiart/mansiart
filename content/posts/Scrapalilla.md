@@ -72,7 +72,11 @@ Te lo desvelaremos en su momento.
 
 ## Acción solidaria
 
-Cuando te inscribas al evento una parte del precio será destinado a una acción solidaria de las islas. Pronto te informaremos con que causa colaboraremos para este I encuentro Scrapal'illa.
+Cuando te inscribas al evento una parte del precio será destinado a una acción solidaria de las islas. En este I encuentro Scrapal'illa la asociación Mans&Art ha decidido colaborar con la **Asociación Stop-Sandhoff** y su causa "**Da un paso con con Rodrigo**".
+
+Rodrigo es un niño de 11 años que sufre la enfermedad de Sandhoof o Gangliosidosis GM2, una enfermedad rara que afecta al sistema nervioso central y que va causando un daño irreversible en las células que deriva en desórdenes neurológicos progresivos. Por lo que gradualmente los niños se van deteriorando, perdiendo sus habilidades para caminar, comer y comunicarse.
+
+Te invitamos a que conozcas más de esta causa y otras formas de ayudarles.
 
 ## Más información
 
