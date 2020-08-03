@@ -15,3 +15,5 @@ Navega por el mapa para encontrar tiendas, colaboradores, socios o talleres
 <p><a href="https://www.google.com/maps/d/edit?mid=1zxGeesLVPRcTlBFy3Elh8EOxy-8IjKDo&usp=sharing">Abrir mapa</a></p>
 
     {{< /rawhtml >}}
+
+¿Quieres salir en el mapa? Escríbenos y te añadimos.
