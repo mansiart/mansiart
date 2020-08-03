@@ -26,6 +26,6 @@ Quieren concienciar al mundo de que no por ser enfermedades raras se tienen que 
 
 Podéis seguir su historia a través de su página de Facebook "[Da un paso con Rodrigo](https://www.facebook.com/daunpasoconrodrigo)", y en Twitter "[Da un paso conmigo](https://twitter.com/daunpasoconmigo)".
 
-Para colaborar con nuestra causa podéis uniros a su grupo de teaming, en [www.teaming.net/daunpasoconrodrigo](www.teaming.net/daunpasoconrodrigo) o hacer una donación en su cuenta de la Caixa **ES48 2100 0207 5302 0039 3713** 
+Para colaborar con nuestra causa podéis uniros a su grupo de teaming, en [teaming.net/daunpasoconrodrigo](https://www.teaming.net/daunpasoconrodrigo) o hacer una donación en su cuenta de la Caixa **ES48 2100 0207 5302 0039 3713**
 
 **_“Mientras hay vida hay Esperanza, no nos rendiremos jamás.”_**
