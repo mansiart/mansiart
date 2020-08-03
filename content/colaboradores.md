@@ -3,7 +3,7 @@ date = 2020-08-02T22:00:00Z
 description = "Nuestros colaboradores"
 image = ""
 tags = []
-title = "colaboradores"
+title = "Colaboradores"
 
 +++
 Conoce a nuestros colaboradores
