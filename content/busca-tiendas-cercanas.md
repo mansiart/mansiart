@@ -2,7 +2,7 @@
 date = 2020-08-02T22:00:00Z
 description = "Mapa de tiendas, socios, talleres y colaboradores"
 image = ""
-tags = []
+tags = ["tiendas"]
 title = "Busca tiendas cercanas"
 
 +++
