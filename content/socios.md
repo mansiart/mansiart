@@ -18,13 +18,13 @@ En este apartado conocerás todas las ventajas de las que puedes disfrutar por s
 
 Esperamos que esta lista se pueda ir ampliando.
 
-    {{< rawhtml >}}
+{{< rawhtml >}}
 
 <section id="contact">
 
 <div class="inner">
 
-<section><form method="post" action="[https://formspree.io/info.mansiart@gmail.com](https://formspree.io/info.mansiart@gmail.com "https://formspree.io/info.mansiart@gmail.com")">
+<section><form method="post" action="https://formspree.io/info.mansiart@gmail.com">
 
 <div class="field half first"><label for="name">Nombre</label><input type="text" name="name" id="name"></div>
 
@@ -40,4 +40,4 @@ Esperamos que esta lista se pueda ir ampliando.
 
 </section>
 
-    {{< /rawhtml >}}
+{{< /rawhtml >}}
