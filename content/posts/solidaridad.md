@@ -8,9 +8,7 @@ image: solidaridad-2020-07-27.png
 ---
 ###### <a href='[https://www.freepik.es/fotos/personas](https://www.freepik.es/fotos/personas "https://www.freepik.es/fotos/personas")'>Foto de Personas creado por pressfoto - www.freepik.es</a>
 
-Te presentamos los proyectos solidarios con los que participamos, y todo gracias a ti.
-
-Con cada taller que haces, ayudamos a una causa benéfica de las islas.
+Te presentamos los proyectos solidarios con los que participamos, y todo gracias a ti. Con cada taller que haces, ayudamos a una causa benéfica de las islas.
 
 ### Da un paso con Rodrigo
 
@@ -28,4 +26,6 @@ Quieren concienciar al mundo de que no por ser enfermedades raras se tiene que d
 
 Podéis seguir su historia a través de su página de Facebook "[Da un paso con Rodrigo](https://www.facebook.com/daunpasoconrodrigo)", y en Twitter "[Da un paso conmigo](https://twitter.com/daunpasoconmigo)".
 
-Para colaborar con nuestra causa podéis uniros a su grupo de teaming, en [www.teaming.net/daunpasoconrodrigo.](www.teaming.net/daunpasoconrodrigo)
+Para colaborar con nuestra causa podéis uniros a su grupo de teaming, en [www.teaming.net/daunpasoconrodrigo](www.teaming.net/daunpasoconrodrigo) o hacer una donación en su cuenta de la Caixa **ES48 2100 0207 5302 0039 3713** 
+
+**_“Mientras hay vida hay Esperanza, no nos rendiremos jamás.”_**
