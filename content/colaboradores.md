@@ -12,34 +12,36 @@ Conoce a nuestros colaboradores
 
 <div class="box alt">
 
-	<div class="row uniform">
-
-	<div class="4u"><span class="image fit"><img src="images/pic08.jpg" alt="" /></span></div>
-
-	<div class="4u"><span class="image fit"><img src="images/pic09.jpg" alt="" /></span></div>
-
-	<div class="4u$"><span class="image fit"><img src="images/pic10.jpg" alt="" /></span></div>
-
-	<!-- Break -->
-
-	<div class="4u"><span class="image fit"><img src="images/pic10.jpg" alt="" /></span></div>
-
-	<div class="4u"><span class="image fit"><img src="images/pic08.jpg" alt="" /></span></div>
-
-	<div class="4u$"><span class="image fit"><img src="images/pic09.jpg" alt="" /></span></div>
-
-	<!-- Break -->
-
-	<div class="4u"><span class="image fit"><img src="images/pic09.jpg" alt="" /></span></div>
-
-	<div class="4u"><span class="image fit"><img src="images/pic10.jpg" alt="" /></span></div>
-
-	<div class="4u$"><span class="image fit"><img src="images/pic08.jpg" alt="" /></span></div>
-
-	</div>
+    <div class="row uniform">
+    
+    <div class="4u"><span class="image fit"><img src="images/pic08.jpg" alt="" /></span></div>
+    
+    <div class="4u"><span class="image fit"><img src="images/pic09.jpg" alt="" /></span></div>
+    
+    <div class="4u$"><span class="image fit"><img src="images/pic10.jpg" alt="" /></span></div>
+    
+    <!-- Break -->
+    
+    <div class="4u"><span class="image fit"><img src="images/pic10.jpg" alt="" /></span></div>
+    
+    <div class="4u"><span class="image fit"><img src="images/pic08.jpg" alt="" /></span></div>
+    
+    <div class="4u$"><span class="image fit"><img src="images/pic09.jpg" alt="" /></span></div>
+    
+    <!-- Break -->
+    
+    <div class="4u"><span class="image fit"><img src="images/pic09.jpg" alt="" /></span></div>
+    
+    <div class="4u"><span class="image fit"><img src="images/pic10.jpg" alt="" /></span></div>
+    
+    <div class="4u$"><span class="image fit"><img src="images/pic08.jpg" alt="" /></span></div>
+    
+    </div>
 
 </div>
 
     {{< /rawhtml >}}
 
 ¿Quieres formar parte de esta familia? Escríbenos.
+
+![](/uploads/pic08-2020-08-03.jpg)
