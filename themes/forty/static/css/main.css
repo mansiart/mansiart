@@ -1634,7 +1634,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		/*color: #ffffff;*/
+		color: #ffffff;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
@@ -1939,6 +1939,8 @@
 	input[type="tel"],
 	input[type="search"],
 	input[type="url"],
+/*añadido el imput date para que mantenga las mismas propiedades que el resto del formulario de contacto*/
+	input[type="date"],
 	select,
 	textarea {
 		-moz-appearance: none;
@@ -1962,6 +1964,7 @@
 		input[type="tel"]:invalid,
 		input[type="search"]:invalid,
 		input[type="url"]:invalid,
+		input[type="date"]:invalid,
 		select:invalid,
 		textarea:invalid {
 			box-shadow: none;
@@ -1973,6 +1976,7 @@
 		input[type="tel"]:focus,
 		input[type="search"]:focus,
 		input[type="url"]:focus,
+		input[type="date"],
 		select:focus,
 		textarea:focus {
 			border-color: #9bf1ff;
@@ -2018,6 +2022,7 @@
 	input[type="tel"],
 	input[type="search"],
 	input[type="url"],
+	input[type="date"],
 	select {
 		height: 2.75em;
 	}
