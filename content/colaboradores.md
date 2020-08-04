@@ -10,6 +10,10 @@ Conoce a nuestros colaboradores
 
     {{< rawhtml >}}
 
+<h4>Fit</h4>
+
+<span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span>
+
 <div class="box alt">
 
 <div class="row 50% uniform">
