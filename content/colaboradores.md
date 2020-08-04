@@ -8,7 +8,7 @@ title = "Colaboradores"
 +++
 Conoce a nuestros colaboradores
 
-    {{< rawhtml >}}
+{{< rawhtml >}}
 
 <h4>Fit</h4>
 
@@ -44,7 +44,7 @@ Conoce a nuestros colaboradores
 
 </div>
 
-    {{< /rawhtml >}}
+{{< /rawhtml >}}
 
 ¿Quieres formar parte de esta familia? Escríbenos.
 
