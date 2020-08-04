@@ -1939,7 +1939,7 @@
 	input[type="tel"],
 	input[type="search"],
 	input[type="url"],
-/*añadido el imput date para que mantenga las mismas propiedades que el resto del formulario de contacto*/
+/*añadido el imput date para que mantenga las mismas propiedades que el resto del formulario de contacto
 	input[type="date"],*/
 	select,
 	textarea {
