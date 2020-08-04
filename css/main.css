@@ -3986,3 +3986,7 @@
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+//Caja selección fecha en form 4 ago 2020 Marga
+input#birth {background-color: #2B304A; }
