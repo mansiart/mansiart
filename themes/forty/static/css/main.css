@@ -3989,4 +3989,5 @@
 
 
 /*Caja selección fecha en form 4 ago 2020 Marga*/
-#birth {color: black;}
+#birth {color: black !important;}
+.birthday {color: black !important;}
