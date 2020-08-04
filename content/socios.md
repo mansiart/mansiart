@@ -26,9 +26,13 @@ Esperamos que esta lista se pueda ir ampliando.
 
 <section><form method="post" action="https://formspree.io/info.mansiart@gmail.com">
 
-<div class="field half first"><label for="name">Nombre</label><input type="text" name="name" id="name"></div>
+<div class="field half first"><label for="name">Nombre y apellidos</label><input type="text" name="name" id="name"></div>
 
 <div class="field half"><label for="email">Correo electrónico</label><input type="text" name="email" id="email"></div>
+
+<div class="field half first"><label for="birth">Fecha nacimiento</label><input type="date" name="birth" id="birth"></div>
+
+<div class="field half"><label for="dni">DNI o NIE</label><input type="text" name="dni" id="dni"></div>
 
 <div class="field"><label for="message">Mensaje</label><textarea name="message" id="message" rows="6"></textarea></div>
 
