@@ -1940,7 +1940,7 @@
 	input[type="search"],
 	input[type="url"],
 /*añadido el imput date para que mantenga las mismas propiedades que el resto del formulario de contacto*/
-	input[type="date"],
+	input[type="date"],*/
 	select,
 	textarea {
 		-moz-appearance: none;
@@ -1964,7 +1964,7 @@
 		input[type="tel"]:invalid,
 		input[type="search"]:invalid,
 		input[type="url"]:invalid,
-		input[type="date"]:invalid,
+		/*input[type="date"]:invalid,*/
 		select:invalid,
 		textarea:invalid {
 			box-shadow: none;
@@ -1976,7 +1976,7 @@
 		input[type="tel"]:focus,
 		input[type="search"]:focus,
 		input[type="url"]:focus,
-		input[type="date"],
+		/*input[type="date"],*/
 		select:focus,
 		textarea:focus {
 			border-color: #9bf1ff;
