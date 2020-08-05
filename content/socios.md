@@ -30,7 +30,7 @@ Esperamos que esta lista se pueda ir ampliando.
 
 <div class="field half"><label for="email">Correo electrónico</label><input type="text" name="email" id="email"></div>
 
-<div class="field half first" id="birth"><label for="birth">Fecha nacimiento</label><input type="date" name="birth" id="birthday"></div>
+<div class="field half first" id="birth"><label for="birth">Fecha nacimiento</label><input type="date" name="birth" id="birthday" style="color: black"></div>
 
 <div class="field half"><label for="dni">DNI o NIE</label><input type="text" name="dni" id="dni"></div>
 
