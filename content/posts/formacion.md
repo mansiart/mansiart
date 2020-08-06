@@ -8,6 +8,6 @@ categories: []
 date: 
 
 ---
-###### <a href="[https://www.freepik.es/fotos/fondo](https://www.freepik.es/fotos/fondo "https://www.freepik.es/fotos/fondo")">Foto de Fondo creado por freepik - www.freepik.es</a>
+###### <a href='[https://www.freepik.es/fotos/fondo](https://www.freepik.es/fotos/fondo "https://www.freepik.es/fotos/fondo")'>Foto de Fondo creado por freepik - www.freepik.es</a>
 
 Aquí encontraras cursos en linea complementarios que te ayudaran a completar tu formación como artista.
