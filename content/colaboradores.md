@@ -8,6 +8,8 @@ title = "Colaboradores"
 +++
 Conoce a nuestros colaboradores
 
+¿Quieres formar parte de esta familia? Escríbenos y te explicamos cómo hacerlo.
+
 {{< rawhtml >}}
 
 <div class="box alt">
@@ -41,7 +43,5 @@ Conoce a nuestros colaboradores
 </div>
 
 {{< /rawhtml >}}
-
-¿Quieres formar parte de esta familia? Escríbenos.
 
 ![](/uploads/pic08-2020-08-03.jpg)
