@@ -18,7 +18,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="4u"><span class="image"><img src="/uploads/flores-de-guirior-2020-08-11.jpg" alt="" /></span></div>
 
-<div class="4u$"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="/uploads/quely-logo-2020-08-11.jpg" alt="" /></span></div>
 
 <!-- Break -->
 
