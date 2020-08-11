@@ -1,10 +1,10 @@
 +++
 date = ""
-description = "Colaboradores de Scrapal'illa"
+description = "ColaboradoresScrapalilla1"
 draft = true
 image = ""
 tags = ["Scrapal'illa", "encuentro", "colaboradores"]
-title = "colaboradores scrapalilla"
+title = "ColaboradoresScrapalilla2"
 
 +++
 Conoce en más profundidad a los colaboradores que nos ayudan a que Scrapal'illa sea un evento único y especial.
