@@ -1,13 +1,15 @@
 +++
-date = ""
-description = "ColaboradoresScrapalilla1"
+date = 2020-08-02T22:00:00Z
+description = "Nuestros colaboradores"
 draft = true
 image = ""
-tags = ["Scrapal'illa", "encuentro", "colaboradores"]
-title = "colaboradores scrapalilla"
+tags = []
+title = "Colaboradores-scrapalilla"
 
 +++
-Conoce en más profundidad a los colaboradores que nos ayudan a que Scrapal'illa sea un evento único y especial.
+Conoce a nuestros colaboradores
+
+¿Quieres formar parte de esta familia? Escríbenos y te explicamos cómo hacerlo.
 
 {{< rawhtml >}}
 
@@ -42,3 +44,5 @@ Conoce en más profundidad a los colaboradores que nos ayudan a que Scrapal'illa
 </div>
 
 {{< /rawhtml >}}
+
+![](/uploads/pic08-2020-08-03.jpg)
