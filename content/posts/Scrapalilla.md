@@ -64,7 +64,7 @@ En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoc
 
 Te vamos a ir presentando a todos los colaboradores que harán de este fin de semana un momento único lleno de sorpresas y regalos. Porque lo que más nos gusta, además de los papeles bonitos, son los regalos bonitos.
 
-[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](/scrapalilla_colaboradores/) ![](/uploads/flores-de-guirior-2020-08-11.jpg)
+![](/uploads/trucos-y-dulces-2020-08-11.jpg)    [![](/uploads/flores-de-guirior-2020-08-11.jpg)](https://mansiart.js.org/calendario/)
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 

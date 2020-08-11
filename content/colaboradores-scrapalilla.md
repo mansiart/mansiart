@@ -14,9 +14,9 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'lla
 
 <div class="row 50% uniform">
 
-<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="/uploads/trucos-y-dulces-2020-08-11.jpg" alt="" /></span></div>
 
-<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="/uploads/flores-de-guirior-2020-08-11.jpg" alt="" /></span></div>
 
 <div class="4u$"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
 
@@ -41,5 +41,3 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'lla
 </div>
 
 {{< /rawhtml >}}
-
-![](/uploads/pic08-2020-08-03.jpg)
