@@ -1,15 +1,12 @@
 +++
 date = 2020-08-02T22:00:00Z
 description = "Nuestros colaboradores"
-draft = true
 image = ""
 tags = []
 title = "Colaboradores-scrapalilla"
 
 +++
-Conoce a nuestros colaboradores
-
-¿Quieres formar parte de esta familia? Escríbenos y te explicamos cómo hacerlo.
+Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'lla un evento único y especial.
 
 {{< rawhtml >}}
 
