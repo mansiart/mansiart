@@ -8,7 +8,7 @@ title = "Colaboradores"
 +++
 Conoce a nuestros colaboradores
 
-¿Quieres formar parte de esta familia? Escríbenos y te explicamos cómo hacerlo. Buuuu
+¿Quieres formar parte de esta familia? Escríbenos y te explicamos cómo hacerlo. **Buuuu**
 
 {{< rawhtml >}}
 
