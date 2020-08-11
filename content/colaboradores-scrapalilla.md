@@ -3,10 +3,10 @@ date = 2020-08-02T22:00:00Z
 description = "Nuestros colaboradores"
 image = ""
 tags = []
-title = "Colaboradores-scrapalilla"
+title = "Colaboradores de Scrapal'illa"
 
 +++
-Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'lla un evento único y especial.
+Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'illa un evento único y especial.
 
 {{< rawhtml >}}
 
