@@ -1,0 +1,1 @@
+hugo server -D -E -F --renderToDisk -d public
