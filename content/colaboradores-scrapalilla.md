@@ -15,5 +15,3 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 ### Flores de Guirior.
 
 ![](/uploads/flores-de-guirior-2020-08-11.jpg)  Joyería artesanal hecha en plata con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en [instagram ](https://www.instagram.com/flores_de_guirior/)o en su [tienda](https://esmosaik.com/es/flores-de-guirior/).
-
-Aquí irá otro colaborador
