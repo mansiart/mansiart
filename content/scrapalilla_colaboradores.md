@@ -4,7 +4,7 @@ description = "Colaboradores de Scrapal'illa"
 draft = true
 image = ""
 tags = ["Scrapal'illa", "encuentro", "colaboradores"]
-title = "colaboradores_scrapalilla"
+title = "colaboradores scrapalilla"
 
 +++
 Conoce en más profundidad a los colaboradores que nos ayudan a que Scrapal'illa sea un evento único y especial.
