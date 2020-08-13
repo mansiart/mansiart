@@ -52,7 +52,7 @@ La información personal recopilada nos llegará por tres vías: **1)** la recop
 
 Esta información consistirá en:
 
-– La recopilada mediante cookies o mecanismos similares almacenados en tu dispositivo, siempre con tu consentimiento. Consulta nuestra [Política de Cookies](https://terminosycondiciones.es/politica-de-cookies/) para más información.
+– La recopilada mediante cookies o mecanismos similares almacenados en tu dispositivo, siempre con tu consentimiento. Consulta nuestra Política de Cookies para más información.
 
 – La IP desde la que se realiza la conexión, el tipo de dispositivo usado y sus características, la versión del sistema operativo, el tipo de navegador, el idioma, la fecha, el país, la hora de la solicitud, la URL de referencia o la red móvil empleada, entre otros.
 
@@ -68,8 +68,6 @@ Esta información consistirá en:
 
 – Si contratas nuestros servicios o productos, nos proporcionarás la información fiscal necesaria para realizar la gestión administrativa y contable.
 
-– Si te das de alta en el boletín informativo con nuestras últimas novedades, productos y servicios, nos proporcionarás tu correo electrónico y las materias que más te interesan.
-
 **4.1.3.- Los proporcionados por terceros**
 
 Esta información consistirá en:
@@ -82,7 +80,7 @@ Te informamos que la cumplimentación de los formularios tiene carácter volunta
 
 Los datos personales que nos facilites quedan incorporados y serán tratados en los ficheros titularidad de Términos y Condiciones, con el fin de poder atender tus peticiones.
 
-Puedes ejercer en cualquier momento los derechos de acceso, rectificación, supresión, limitación de tu tratamiento, oposición y portabilidad de tus datos de carácter personal mediante correo electrónico dirigido a: [**hola@terminosycondiciones.es**](mailto:hola@terminosycondiciones.es) O la dirección postal: Pasaje de Joan XXIII, número 6, Entresuelo, CP 07002, Palma de Mallorca, Illes Balears, España.
+Puedes ejercer en cualquier momento los derechos de acceso, rectificación, supresión, limitación de tu tratamiento, oposición y portabilidad de tus datos de carácter personal mediante correo electrónico dirigido a: **info.mansiart@gmail.com** O la dirección postal: Pasaje de Joan XXIII, número 6, Entresuelo, CP 07002, Palma de Mallorca, Illes Balears, España.
 
 En ambos casos deberás identificarte con tu nombre y apellidos, además de una copia de tu DNI o ID nacional.
 
