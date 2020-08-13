@@ -10,21 +10,15 @@ title = "Condiciones de uso y privacidad"
 **SUMARIO**
 
 * Responsable de la web: **Mans&Art**
-
-
 * Propiedad intelectual: **el contenido del blog está bajo licencia CC BY-SA 4.0**
-
-
 * Datos recopilados: **Mediante el uso de la web, comentarios y consultas realizadas**
-
-
 * **Mail de contacto: info.mansiart@gmail.com**
 
 #### **1.- Titularidad**
 
-El responsable del tratamiento y titular de esta web es: Mans&Art (en adelante “Términos y Condiciones”), con domicilio en San Miquel, número 52, Palma de Mallorca, Illes Balears, España.
+El responsable del tratamiento y titular de esta web es: Mans&Art (en adelante “Términos y Condiciones”), con domicilio en San Miquel, número 52, CP 07002, Palma de Mallorca, Illes Balears, España.
 
-NIF: B16641151
+NIF: G01761964
 
 Correo electrónico: [hola@terminosycondiciones.es](mailto:hola@terminosycondiciones.es)
 
