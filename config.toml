@@ -79,6 +79,14 @@ summaryLength = 20
     [[params.navigation.links]]
       name = "Tiendas"
       url = "busca-tiendas-cercanas"
+      
+      [[params.navigation.links]]
+      name = "Uso y Privacidad"
+      url = "condiciones-de-uso-y-privacidad"
+      
+      [[params.navigation.links]]
+      name = "Política de Cookies"
+      url = "cookies"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
