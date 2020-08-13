@@ -20,13 +20,9 @@ El responsable del tratamiento y titular de esta web es: Mans&Art (en adelante �
 
 NIF: G01761964
 
-Correo electrónico: [hola@terminosycondiciones.es](mailto:hola@terminosycondiciones.es)
+Correo electrónico: **info.mansiart@gmail.com**
 
-La sociedad está inscrita en el Registro Mercantil de Palma de Mallorca, Tomo 2824, Folio 124, Hoja PM-87269, Inscripción 1.
-
-Jorge Morell Ramos es Licenciado en Derecho por la Universidad de les Illes Balears – España; colegiado en el Ilustre Colegio de Abogados de les Illes Balears con el número 5663.
-
-Normas profesionales aplicables al ejercicio de la profesión: [Estatuto General de la Abogacía Española](http://noticias.juridicas.com/base_datos/Admin/rd658-2001.html) y [Código Deontológico de la Abogacía Española](http://www.abogacia.es/wp-content/uploads/2012/06/codigo_deontologico1.pdf).
+La asociación está inscrita en el Registro de Asociaciones de las Islas Baleares, en la cual se le atribuye el número 311000010729, de la Sección Primera
 
 El uso de la web atribuye la condición de usuario, con lo que aceptas los términos y condiciones a continuación indicados.
 
