@@ -22,7 +22,7 @@ NIF: G01761964
 
 Correo electrónico: **info.mansiart@gmail.com**
 
-La asociación está inscrita en el Registro de Asociaciones de las Islas Baleares, en la cual se le atribuye el número 311000010729, de la Sección Primera
+La asociación está inscrita en el Registro de Asociaciones de las Islas Baleares, en la cual se le atribuye el número 311000010729, de la Sección Primera. El fin de la cual es el fomento de la artesanía y la cultura.
 
 El uso de la web atribuye la condición de usuario, con lo que aceptas los términos y condiciones a continuación indicados.
 
