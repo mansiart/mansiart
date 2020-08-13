@@ -80,60 +80,29 @@ Te informamos que la cumplimentación de los formularios tiene carácter volunta
 
 Los datos personales que nos facilites quedan incorporados y serán tratados en los ficheros titularidad de Términos y Condiciones, con el fin de poder atender tus peticiones.
 
-Puedes ejercer en cualquier momento los derechos de acceso, rectificación, supresión, limitación de tu tratamiento, oposición y portabilidad de tus datos de carácter personal mediante correo electrónico dirigido a: **info.mansiart@gmail.com** O la dirección postal: Pasaje de Joan XXIII, número 6, Entresuelo, CP 07002, Palma de Mallorca, Illes Balears, España.
+Puedes ejercer en cualquier momento los derechos de acceso, rectificación, supresión, limitación de tu tratamiento, oposición y portabilidad de tus datos de carácter personal mediante correo electrónico dirigido a: **info.mansiart@gmail.com** O la dirección postal: San Miquel, número 52, CP 07002, Palma de Mallorca, Illes Balears, España..
 
 En ambos casos deberás identificarte con tu nombre y apellidos, además de una copia de tu DNI o ID nacional.
 
-[Aquí](http://www.agpd.es/portalwebAGPD/CanalDelCiudadano/derechos/principales_derchos/index-ides-idphp.php) puedes encontrar los diferentes modelos para ejercer tales derechos.
-
 En el caso de que hayas otorgado el consentimiento para alguna finalidad específica, tienes derecho a retirar el consentimiento en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada.
 
-Además, si consideras que hay un problema con la forma en la que estamos manejando tus datos, puedes dirigir tus reclamaciones a la [autoridad de protección de datos](https://www.agpd.es/portalwebAGPD/enlaces/index-ides-idphp.php) que corresponda, siendo la [Agencia Española de Protección de Datos](https://www.agpd.es/) la indicada en el caso de España.
+Además, si consideras que hay un problema con la forma en la que estamos manejando tus datos, puedes dirigir tus reclamaciones a la autoridad de protección de datos que corresponda, siendo la Agencia Española de Protección de Datos la indicada en el caso de España.
 
 4\.3.- Uso de los Datos
 
 Los datos proporcionados a Términos y Condiciones serán usados para:
 
-– Atender tus peticiones (siendo la base legal nuestro interés legítimo en responder las consultas de nuestros usuarios).
+– Atender tus peticiones.
 
 – Administrar los comentarios del blog, si realizas uno (siendo la base legal tu consentimiento)
 
 – Prestar el servicio, si finalmente es contratado (siendo la base legal el contrato).
-
-– Enviarte el boletín informativo con nuestras últimas novedades, servicios y productos (siendo la base legal, según el caso, tu consentimiento o nuestro interés legítimo para mercadotecnia directa de acuerdo a la previa relación contractual según el artículo 21.2 LSSICE).
 
 **4.3.1.- En mails y formularios de contacto**
 
 La web del sitio cuenta con un cifrado SSL que permite usuario el envío seguro de sus datos personales a través de formularios de contacto de tipo estándar.
 
 Los datos personales recogidos serán objeto de tratamiento automatizado e incorporados a los correspondientes ficheros del registro de actividad y de los que Términos y Condiciones es titular.
-
-En ese sentido:
-
-* Nos llegará tu IP, que será usada para comprobar el origen del mensaje con objeto de ofrecerte recomendaciones adecuadas (por ejemplo presentar la información en el idioma correcto) y para detectar posibles irregularidades (por ejemplo posibles intentos de ciberataque al Servicio), así como datos relativos a tu ISP.
-* Asimismo, podrás facilitarnos tus datos a través de teléfono, correo electrónico y otros medios de comunicación indicados.
-
-Respecto a los medios de comunicación usados:
-
-* Nuestro prestador de servicios de correo electrónico es Google Inc, mediante GSuite y por otro lado GoDaddy Inc.
-
-**4.3.2.- En redes sociales**
-
-Contamos con perfiles en algunas de las principales redes sociales de Internet, siendo Términos y Condiciones responsable del tratamiento en relación con los datos publicados en las mismas (por ejemplo, fotos subidas por Términos y Condiciones en las que aparezcan caras de personas).
-
-Esos datos serán tratados según la red social permita a los perfiles corporativos. Por tanto, podremos informar, cuando la ley no lo prohíba, a nuestros seguidores por cualquier vía que la red social permita sobre sus actividades u ofertas, así como prestar un servicio personalizado de atención al cliente.
-
-En ningún caso extraeremos datos de las redes sociales, a menos que se obtuviera puntual y expresamente el consentimiento del usuario para ello.
-
-Cuando debido a la propia naturaleza de las redes sociales, ejercer tus derechos dependa de la modificación de tu perfil, te ayudaremos y aconsejaremos en la medida de nuestras posibilidades.
-
-**4.3.4.- En ofertas de empleo**
-
-Únicamente serán valoradas por Términos y Condiciones las solicitudes de empleo o prácticas que el candidato remita a través de los medios indicados en la página correspondiente o por los dispuestos en las áreas de empleo y prácticas en sitios web en los que hayamos publicado una oferta concreta.
-
-El resto de solicitudes serán rechazadas.
-
-El aspirante nos autoriza a analizar los documentos que remita, todo el contenido que sea directamente accesible a través de los buscadores, los perfiles que mantenga en redes sociales profesionales, los datos obtenidos en las pruebas de acceso y la información que revele en la entrevista de trabajo, con el objetivo de valorar su candidatura y poder, en su caso, ofrecerle un puesto.
 
 **4.4.- Conservación de los datos**
 
