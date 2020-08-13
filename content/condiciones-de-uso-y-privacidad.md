@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "Condiciones legales"
-draft = true
 image = ""
 tags = []
 title = "Condiciones de uso y privacidad"
@@ -38,7 +37,7 @@ Términos y Condiciones es titular o licenciatario de todos los derechos de prop
 
 Por ello, prohibimos la reproducción, distribución, comunicación pública y transformación de la totalidad o parte de los contenidos de esta web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de Términos y Condiciones.
 
-En cualquier caso, los contenidos del blog están sujetos a una licencia [Creative Commons Reconocimiento – Compartir Igual – 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+En cualquier caso, los contenidos del blog están sujetos a una licencia Creative Commons Reconocimiento – Compartir Igual – 4.0.
 
 #### **4.- Protección de datos**
 
