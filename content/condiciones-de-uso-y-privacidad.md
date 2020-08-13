@@ -41,7 +41,7 @@ En cualquier caso, los contenidos del blog están sujetos a una licencia Creativ
 
 #### **4.- Protección de datos**
 
-4\.1.- Información recopilada
+##### 4.1.- Información recopilada
 
 La información personal recogida cambiará en función del uso que hagas de la página web y sus características.
 
@@ -73,7 +73,7 @@ Esta información consistirá en:
 
 * La proporcionada por redes sociales o servicios similares.
 
-4\.2.- Derechos
+##### 4.2.- Derechos
 
 Te informamos que la cumplimentación de los formularios tiene carácter voluntario. Ahora bien, si no rellenas los campos obligatorios (marcados con un asterisco) el uso de algunas funciones del sitio no será posible o se verá limitado.
 
@@ -87,7 +87,7 @@ En el caso de que hayas otorgado el consentimiento para alguna finalidad especí
 
 Además, si consideras que hay un problema con la forma en la que estamos manejando tus datos, puedes dirigir tus reclamaciones a la autoridad de protección de datos que corresponda, siendo la Agencia Española de Protección de Datos la indicada en el caso de España.
 
-4\.3.- Uso de los Datos
+##### 4.3.- Uso de los Datos
 
 Los datos proporcionados a Términos y Condiciones serán usados para:
 
