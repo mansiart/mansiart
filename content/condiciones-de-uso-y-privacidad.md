@@ -104,24 +104,6 @@ La web del sitio cuenta con un cifrado SSL que permite usuario el envío seguro 
 
 Los datos personales recogidos serán objeto de tratamiento automatizado e incorporados a los correspondientes ficheros del registro de actividad y de los que Términos y Condiciones es titular.
 
-**4.4.- Conservación de los datos**
-
-A continuación se indican por cuánto tiempo se conservan los datos tratados por Términos y Condiciones:
-
-– Los datos desagregados serán conservados sin plazo de supresión.
-
-– Los datos de los clientes serán conservados en función del servicio contratado. En cualquier caso, será el mínimo necesario, pudiendo mantenerse hasta:
-
-_– 5 años, según el art. 1964 del Código Civil (acciones personales sin plazo especial)._
-
-_– 6 años, según el art. 30 del Código de Comercio (libros de contabilidad o factura, por ejemplo)._
-
-– Los datos de usuarios subidos por Términos y Condiciones a páginas y perfiles en redes sociales se conservarán desde que el usuario ofrece su consentimiento hasta que lo retira.
-
-– Los datos de los candidatos a una oferta de empleo, si el candidato no fuera seleccionado, se conservarán durante un máximo de dos años para incorporarlos a futuras convocatorias, a menos que el candidato se manifieste en contra.
-
-– Los datos sobre tu alta en nuestro boletín informativo se conservarán hasta que te des de baja.
-
 #### **5.- Responsabilidad**
 
 Hasta donde la ley lo permita, Términos y Condiciones no se hace responsable de: **a)** los errores u omisiones en los contenidos; **b)** la falta de disponibilidad de la web o; **c)** la transmisión de programas maliciosos en los contenidos, a pesar de haber adoptado todas las medidas tecnológicas necesarias para evitarlo.
@@ -134,4 +116,4 @@ Por otro lado, podremos actualizar estos términos y condiciones. Las modificaci
 
 #### **7.- Cookies**
 
-Consulta nuestra [Política de Cookies](https://terminosycondiciones.es/politica-de-cookies/) para conocer el uso que hacemos de ellas.
+Consulta nuestra Política de Cookies para conocer el uso que hacemos de ellas.
