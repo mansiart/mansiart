@@ -35,4 +35,10 @@ En función del tiempo que están activas, hay:
 
 Finalmente, y según su finalidad, tenemos:
 
+* Cookies técnicas; mejoran la navegación y el buen funcionamiento de la web.
+
+
+* Cookies de personalización; permiten acceder al servicio con unas características predefinidas en función de una serie de criterios.
+
+
 * Cookies de análisis; permiten medir y analizar estadísticamente el uso que se hace del servicio prestado.
