@@ -20,11 +20,11 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/flores-de-guirior-2020-08-11.jpg" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Joyería artesanal hecha en plata con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en <a href="https://www.instagram.com/flores_de_guirior_">_instagram_<_/a> o en su <a href="https://esmosaik.com/es/flores-de-guirior/">tienda</a>.</span></div>
+<div class="3u$"><span class="image fit">Joyería artesanal hecha en plata con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en <a href="https://www.instagram.com/flores_de_guirior/">instagram<_/a> o en su <a href="https://esmosaik.com/es/flores-de-guirior/">tienda</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/quely-logo-2020-08-11.jpg" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Galletas Quely, desde los años 60 en el corazón de los mallorquines. Galletas dulces, saladas, snacks...conoce <a href="https://quely.com/es/">aquí</a> todas las variedades de las que puedes disfrutar y su historia.</span></div>
+<div class="3u$"><span class="image fit">Galletas Quely, desde siempre en el corazón de los mallorquines. Galletas dulces, saladas, snacks...conoce <a href="https://quely.com/es/">aquí</a> todas las variedades de las que puedes disfrutar.</span></div>
 
 </div>
 
