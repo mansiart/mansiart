@@ -3991,3 +3991,8 @@
 .image.main img{
 	width: 75% !important;
 }
+
+/*para quitar el recuadro de la X para cerrar el tema de las cookies*/
+button#ckyModalClose {
+box-shadow: none;
+}
