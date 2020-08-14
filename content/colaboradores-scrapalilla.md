@@ -14,13 +14,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="row 50% uniform">
 
-<div class="4u"><span><img src="/uploads/trucos-y-dulces-2020-08-11.jpg" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/trucos-y-dulces-2020-08-11.jpg" alt="" /></span></div>
 
-<div class="4u"><span class="image fit">Con Trucos y Dulces Eventos tus celebraciones serán espectaculares. Mesas dulces, decoraciones de bodas, cumpleaños... Contacta con ella en su [página de facebook](https://www.facebook.com/trucosydulceseventos) o en su cuenta de [instagram](https://www.instagram.com/trucosydulces_eventos/).</span></div>
+<div class="3u"><span class="image fit">Con Trucos y Dulces Eventos tus celebraciones serán espectaculares. Mesas dulces, decoraciones de bodas, cumpleaños... Contacta con ella en su [página de facebook](https://www.facebook.com/trucosydulceseventos) o en su cuenta de [instagram](https://www.instagram.com/trucosydulces_eventos/).</span></div>
 
-<div class="4u"><span><img src="/uploads/flores-de-guirior-2020-08-11.jpg" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/flores-de-guirior-2020-08-11.jpg" alt="" /></span></div>
 
-<div class="4u$"><span class="image fit">Joyería artesanal hecha en plata con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en [instagram ](https://www.instagram.com/flores_de_guirior/)o en su [tienda](https://esmosaik.com/es/flores-de-guirior/).</span></div>
+<div class="3u$"><span class="image fit">Joyería artesanal hecha en plata con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en instagram o en su tienda.</span></div>
 
 </div>
 
