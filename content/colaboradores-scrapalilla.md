@@ -2,7 +2,7 @@
 date = 2020-08-02T22:00:00Z
 description = "Nuestros colaboradores"
 image = ""
-tags = []
+tags = ["colaboradores", "Scrapal'illa"]
 title = "Colaboradores de Scrapal'illa"
 
 +++
