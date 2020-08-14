@@ -66,7 +66,7 @@ Te vamos a ir presentando a todos los colaboradores que harán de este fin de se
 
 Puedes conocerlos de cerca haciendo click en sus logos.
 
-[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)    [![](/uploads/flores-de-guirior-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)
+[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)    [![](/uploads/flores-de-guirior-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)  [![](/uploads/quely-logo-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
