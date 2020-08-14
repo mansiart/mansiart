@@ -6,14 +6,14 @@ tags = []
 title = "cookies"
 
 +++
-**SUMARIO**
+##### **Sumario**
 
 * Cookies usadas: **Propias y de Terceros**
 * ¿Se usan para obtener estadísticas? **Sí, siendo la base legal nuestro interés legítimo en realizar una mejor gestión del servicio.**
 * ¿Se usan para publicidad? **No**
 * Servicios de terceros que instalan cookies a través de esta web: **Google Analytics** y **CookieYes**.
 
-##### **TIPOS Y USOS**
+##### **Tipos y usos**
 
 **Mans&Art** usa cookies propias y de terceros para mejorar la navegación, proporcionar el servicio y obtener estadísticas sobre el uso de la página web.
 
@@ -42,3 +42,10 @@ Finalmente, y según su finalidad, tenemos:
 
 
 * Cookies de análisis; permiten medir y analizar estadísticamente el uso que se hace del servicio prestado.
+
+##### **¿Qué cookies utiliza Mans&Art?**
+
+En Mans&Art utilizamos dos tipos de cookies de terceros:
+
+* de análisis: para uso estadístico
+* de personalización: para la política de cookies, para que puedas definir tus preferencias
