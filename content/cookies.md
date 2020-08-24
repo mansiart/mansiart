@@ -3,7 +3,7 @@ date = ""
 description = "Plolítica de Cookies"
 image = ""
 tags = []
-title = "cookies"
+title = "Cookies"
 
 +++
 ##### **Sumario**
