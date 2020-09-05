@@ -28,7 +28,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u$"><span><img src="/uploads/nuneka-2020-09-05.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Nuneka.</span></div>
+<div class="3u"><span class="image fit">"_Meraki significa hacer algo con AMOR y CREATIVIDAD, poniendo tu alma en ello. Es tu propia esencia reflejada en lo que haces_" Así es Nuneka, pone su alma en todo lo que hace. Nuneka es artista y profesora Mix-Media, puedes conocer sus trabajos a través de su <a href="https://www.instagram.com/nuneka__/">instagram</a></span></div>
 
 </div>
 
