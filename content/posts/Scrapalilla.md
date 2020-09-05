@@ -66,7 +66,7 @@ Te vamos a ir presentando a todos los colaboradores que harán de este fin de se
 
 Puedes conocerlos de cerca haciendo click en sus logos.
 
-[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)    [![](/uploads/flores-de-guirior2-2020-08-24.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)   [![](/uploads/quely-logo-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) ![](/uploads/nuneka-2020-09-05.png) ![](/uploads/sweetmoma-2020-09-05.png) ![](/uploads/whayssa-2020-09-05.png) ![](/uploads/scrapealo-2020-09-05.png) ![](/uploads/coquitoscrapero-2020-09-05.png)
+[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)    [![](/uploads/flores-de-guirior2-2020-08-24.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)   [![](/uploads/quely-logo-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/nuneka-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/sweetmoma-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/whayssa-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/scrapealo-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/coquitoscrapero-2020-09-05.png)
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
