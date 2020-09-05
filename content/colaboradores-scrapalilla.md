@@ -30,6 +30,14 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u$"><span class="image fit"><i>"Meraki significa hacer algo con AMOR y CREATIVIDAD, poniendo tu alma en ello. Es tu propia esencia reflejada en lo que haces"</i> Así es Nuneka, pone su alma en todo lo que hace. Nuneka es artista y profesora Mix-Media, puedes conocer sus trabajos a través de su <a href="https://www.instagram.com/nuneka__/">instagram.</a></span></div>
 
+<div class="3u"><span><img src="/uploads/sweetmoma-2020-09-05.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Sweet Möma<a href="[https://www.facebook.com/trucosydulceseventos](https://www.facebook.com/trucosydulceseventos "https://www.facebook.com/trucosydulceseventos")">página de facebook</a> o en su cuenta de <a href="[https://www.instagram.com/trucosydulces_eventos/](https://www.instagram.com/trucosydulces_eventos/ "https://www.instagram.com/trucosydulces_eventos/")">instagram</a>.</span></div>
+
+<div class="3u"><span><img src="/uploads/whayssa-2020-09-05.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Whassya <a href="[https://www.instagram.com/flores_de_guirior/](https://www.instagram.com/flores_de_guirior/ "https://www.instagram.com/flores_de_guirior/")">instagram</a> o en su <a href="[https://esmosaik.com/es/flores-de-guirior/](https://esmosaik.com/es/flores-de-guirior/ "https://esmosaik.com/es/flores-de-guirior/")">tienda</a>.</span></div>
+
 </div>
 
 </div>
