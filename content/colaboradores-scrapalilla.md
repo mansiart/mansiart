@@ -24,7 +24,11 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/quely-logo-2020-08-11.jpg" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Galletas Quely, desde siempre en el corazón de los mallorquines. Galletas dulces, saladas, snacks...conoce <a href="https://quely.com/es/">aquí</a> todas las variedades de las que puedes disfrutar.</span></div>
+<div class="3u"><span class="image fit">Galletas Quely, desde siempre en el corazón de los mallorquines. Galletas dulces, saladas, snacks...conoce <a href="https://quely.com/es/">aquí</a> todas las variedades de las que puedes disfrutar.</span></div>
+
+<div class="3u$"><span><img src="/uploads/nuneka-2020-09-05.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Nuneka.</span></div>
 
 </div>
 
