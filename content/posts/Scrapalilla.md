@@ -58,15 +58,7 @@ Durante este fin de semana realizaremos dos talleres.
 
 ## Juegos
 
-En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoción
-
-## Colaboradores
-
-Te vamos a ir presentando a todos los colaboradores que harán de este fin de semana un momento único lleno de sorpresas y regalos. Porque lo que más nos gusta, además de los papeles bonitos, son los regalos bonitos.
-
-Puedes conocerlos de cerca haciendo click en sus logos.
-
-[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)    [![](/uploads/flores-de-guirior2-2020-08-24.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)   [![](/uploads/quely-logo-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/nuneka-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/sweetmoma-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/whayssa-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/scrapealo-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/coquitoscrapero-2020-09-05.png)[![Tombow](/uploads/tombow-2020-09-07.jpg "Tombow")](https://www.instagram.com/tombow.spain/ "Tombow Spain")[![Arte Laser Design](/uploads/artlaser-2020-09-07.png "Arte Laser Design")](https://www.artelaserdesign.com/ "Arte Laser Design")
+En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoción.
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
@@ -83,3 +75,11 @@ Rodrigo es un niño de 11 años que sufre la enfermedad de Sandhoof o Gangliosid
 ## Más información
 
 Sigue la cuenta de Instagram de Scapal'illa para no perderte las novedades: @scrapalilla o [https://www.instagram.com/scrapalilla/](https://www.instagram.com/scrapalilla/ "https://www.instagram.com/scrapalilla/")
+
+## Colaboradores
+
+Te vamos a ir presentando a todos los colaboradores que harán de este fin de semana un momento único lleno de sorpresas y regalos. Porque lo que más nos gusta, además de los papeles bonitos, son los regalos bonitos.
+
+Puedes conocerlos de cerca haciendo click en sus logos.
+
+[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)    [![](/uploads/flores-de-guirior2-2020-08-24.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)   [![](/uploads/quely-logo-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/nuneka-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/sweetmoma-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/whayssa-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/scrapealo-2020-09-05.png) ![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/coquitoscrapero-2020-09-05.png)[![Tombow](/uploads/tombow-2020-09-07.jpg "Tombow")](https://www.instagram.com/tombow.spain/ "Tombow Spain")[![Arte Laser Design](/uploads/artlaser-2020-09-07.png "Arte Laser Design")](https://www.artelaserdesign.com/ "Arte Laser Design")[![Scrap Menorca](/uploads/scrap_menorca-2020-09-09.png "Scrap Menorca")](https://www.instagram.com/scrapmenorca/ "Scrap Menorca")[![Pega Papel o Tijeras](/uploads/pega-papel-o-tijeras-2020-09-09.png "Pega Papel o Tijeras")](https://www.pegapapelotijeras.com/ "Pega Papel o Tijeras")[![Coses d'scrap](/uploads/logoquim-2020-09-09.jpg "Coses d'scrap")](www.cosesdscrap.com "Coses d'scrap")
