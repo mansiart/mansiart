@@ -78,6 +78,14 @@ Creaciones originales y personalizadas.</span></div>
 
 <div class="3u$"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería.</span></div>
 
+<div class="3u"><span><img src="/uploads/artlaser-2020-09-07.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Especialistas en madera. Conócelos en su tienda <a href="[https://www.artelaserdesign.com/](https://www.artelaserdesign.com/ "https://www.artelaserdesign.com/")"></a></span></div>
+
+<div class="3u"><span><img src="/uploads/scrap_menorca-2020-09-09.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Desde Menorca trabaja creando esta escrapera. Pásate por su <a href="[https://www.instagram.com/scrapmenorca/](https://www.instagram.com/scrapmenorca/ "https://www.instagram.com/scrapmenorca/")">Instagram</a> para saber más.</span></div>
+
 </div><!--ROW 50 UNIFORM-->
 
 </div><!--ROW-->
