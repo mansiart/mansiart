@@ -44,7 +44,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--Prueba Marga-->
 
-<p><span><img src="/uploads/[scrapealo-2020-09-05.png](https://github.com/mansiart/mansiart/blob/master/static/uploads/scrapealo-2020-09-05.png "scrapealo-2020-09-05.png")" alt="" /></span><a href="[https://scrapealo.es/](https://scrapealo.es/ "https://scrapealo.es/")">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.</p>
+<p><span><img src="/uploads/scrapealo-2020-09-05.png" alt="" /></span><a href="[https://scrapealo.es/](https://scrapealo.es/ "https://scrapealo.es/")">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.</p>
 
 <div class="row">
 
