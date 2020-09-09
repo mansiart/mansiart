@@ -60,7 +60,9 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/coquitoscrapero-2020-09-05.png" alt="" /></span>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+<p><span><img src="/uploads/coquitoscrapero-2020-09-05.png" alt="" /></span>Creación y venta de proyectos hechos a mano.
+
+Creaciones originales y personalizadas</p>
 
 </div>
 
