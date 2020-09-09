@@ -102,7 +102,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="6u$ 12u$(small)">
 
-<p>Tienda online.</p>
+<p>Distribuidores de material creativo para scrapbooking y otras manualidades. Accede a sus ideas, inspiración y tutoriales desde su <a href="[https://www.instagram.com/basiccrea2/](https://www.instagram.com/basiccrea2/ "https://www.instagram.com/basiccrea2/")">Instagram</a>.</p>
 
 </div>
 
@@ -114,7 +114,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="6u$ 12u$(small)">
 
-<p>Tienda online.</p>
+<p>Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="[https://www.pegapapelotijeras.com/](https://www.pegapapelotijeras.com/ "https://www.pegapapelotijeras.com/")">página web</a>.</p>
 
 </div>
 
@@ -126,7 +126,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="6u$ 12u$(small)">
 
-<p>Tienda online.</p>
+<p>Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="[https://www.cosesdscrap.com/](https://www.cosesdscrap.com/ "https://www.cosesdscrap.com/")">página web</a>.</p>
 
 </div>
 
