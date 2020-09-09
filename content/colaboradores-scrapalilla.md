@@ -44,9 +44,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--Prueba Marga-->
 
+<div class="3u"><span><img src="/uploads/trucos-y-dulces-2020-08-11.jpg" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Con Trucos y Dulces Eventos tus celebraciones serán espectaculares. Mesas dulces, decoraciones de bodas, cumpleaños... Contacta con ella en su <a href="[https://www.facebook.com/trucosydulceseventos](https://www.facebook.com/trucosydulceseventos "https://www.facebook.com/trucosydulceseventos")">página de facebook</a> o en su cuenta de <a href="[https://www.instagram.com/trucosydulces_eventos/](https://www.instagram.com/trucosydulces_eventos/ "https://www.instagram.com/trucosydulces_eventos/")">instagram</a>.</span></div>
+
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
-										<div class="row">
+<div class="row">
 
 											<div class="6u 12u$(small)">
 
@@ -64,6 +68,4 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 											</div>
 
-											<!-- Break -->
-
-{{< /rawhtml >}}
+{{< rawhtml >}}
