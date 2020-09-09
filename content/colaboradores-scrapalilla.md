@@ -56,6 +56,10 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <p><a href="[https://scrapealo.es/](https://scrapealo.es/ "https://scrapealo.es/")">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.</p>
 
+</div>
+
+</div>
+
 <div class="row">
 
 <div class="6u 12u$(small)">
@@ -69,6 +73,8 @@ Creaciones originales y personalizadas</p>
 <div class="6u$ 12u$(small)">
 
 <p><span><img src="/uploads/tombow-2020-09-07.jpg" alt="" /></span>Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería.</p>
+
+</div>
 
 </div>
 
