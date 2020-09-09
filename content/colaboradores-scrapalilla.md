@@ -32,11 +32,11 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/sweetmoma-2020-09-05.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Sweet Möma<a href="[https://www.facebook.com/trucosydulceseventos](https://www.facebook.com/trucosydulceseventos "https://www.facebook.com/trucosydulceseventos")">página de facebook</a> o en su cuenta de <a href="[https://www.instagram.com/trucosydulces_eventos/](https://www.instagram.com/trucosydulces_eventos/ "https://www.instagram.com/trucosydulces_eventos/")">instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Sweet Möma<a href="[https://sweetmoma.com/es/](https://sweetmoma.com/es/ "https://sweetmoma.com/es/")"> su tienda</a> o en su cuenta de <a href="[https://www.instagram.com/sweetmomabcn/](https://www.instagram.com/sweetmomabcn/ "https://www.instagram.com/sweetmomabcn/")">instagram</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/whayssa-2020-09-05.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Whassya <a href="[https://www.instagram.com/flores_de_guirior/](https://www.instagram.com/flores_de_guirior/ "https://www.instagram.com/flores_de_guirior/")">instagram</a> o en su <a href="[https://esmosaik.com/es/flores-de-guirior/](https://esmosaik.com/es/flores-de-guirior/ "https://esmosaik.com/es/flores-de-guirior/")">tienda</a>.</span></div>
+<div class="3u$"><span class="image fit">Whassya <a href="[https://www.instagram.com/whassya/](https://www.instagram.com/whassya/ "https://www.instagram.com/whassya/")">instagram</a> o en su <a href="[https://www.youtube.com/c/WhassyaMaspirosa](https://www.youtube.com/c/WhassyaMaspirosa "https://www.youtube.com/c/WhassyaMaspirosa")">YouTube</a>.</span></div>
 
 </div>
 
