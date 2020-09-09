@@ -48,7 +48,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span class="image fit">Con Trucos y Dulces Eventos tus celebraciones serán espectaculares. Mesas dulces, decoraciones de bodas, cumpleaños... Contacta con ella en su <a href="[https://www.facebook.com/trucosydulceseventos](https://www.facebook.com/trucosydulceseventos "https://www.facebook.com/trucosydulceseventos")">página de facebook</a> o en su cuenta de <a href="[https://www.instagram.com/trucosydulces_eventos/](https://www.instagram.com/trucosydulces_eventos/ "https://www.instagram.com/trucosydulces_eventos/")">instagram</a>.</span></div>
 
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p><span><img src="/uploads/[scrapealo-2020-09-05.png](https://github.com/mansiart/mansiart/blob/master/static/uploads/scrapealo-2020-09-05.png "scrapealo-2020-09-05.png")" alt="" /></span>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 
 <div class="row">
 
@@ -65,7 +65,5 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 <p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
 
 </div>
-
-    									
 
 {{< /rawhtml >}}
