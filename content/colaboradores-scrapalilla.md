@@ -90,4 +90,48 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 </div><!--ROW-->
 
+<!-- Para logo grande. izquierda imagen, derecha texto-->
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<p><span><img src="/uploads/basiccrea-2020-09-09.png" alt="" /></span></p>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+<p>Tienda online.</p>
+
+</div>
+
+<div class="6u 12u$(small)">
+
+<p><span><img src="/uploads/pega-papel-o-tijeras-2020-09-09.png" alt="" /></span></p>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+<p>Tienda online.</p>
+
+</div>
+
+<div class="6u 12u$(small)">
+
+<p><span><img src="/uploads/logoquim-2020-09-09.jpg" alt="" /></span></p>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+<p>Tienda online.</p>
+
+</div>
+
+</div>
+
+<!--FIN logo grande-->
+
 {{< /rawhtml >}}
