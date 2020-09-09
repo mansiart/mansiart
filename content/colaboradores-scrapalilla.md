@@ -48,13 +48,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/scrapealo-2020-09-05.png" alt="" /></span><a href="[https://scrapealo.es/](https://scrapealo.es/ "https://scrapealo.es/")"></p>
+<p><span><img src="/uploads/scrapealo-2020-09-05.png" alt="" /></span></p>
 
 </div>
 
 <div class="6u$ 12u$(small)">
 
-<p>scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.</p>
+<p><a href="[https://scrapealo.es/](https://scrapealo.es/ "https://scrapealo.es/")">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.</p>
 
 <div class="row">
 
