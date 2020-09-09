@@ -80,7 +80,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="3u"><span><img src="/uploads/artlaser-2020-09-07.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Especialistas en madera. Conócelos en su tienda <a href="[https://www.artelaserdesign.com/](https://www.artelaserdesign.com/ "https://www.artelaserdesign.com/")"></a></span></div>
+<div class="3u"><span class="image fit">Especialistas en madera. Conócelos en su <a href="[https://www.artelaserdesign.com/](https://www.artelaserdesign.com/ "https://www.artelaserdesign.com/")">tienda</a></span></div>
 
 <div class="3u"><span><img src="/uploads/scrap_menorca-2020-09-09.png" alt="" /></span></div>
 
