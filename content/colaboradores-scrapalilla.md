@@ -78,8 +78,8 @@ Creaciones originales y personalizadas.</span></div>
 
 <div class="3u$"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería.</span></div>
 
-</div>
+</div><!--ROW 50 UNIFORM-->
 
-</div>
+</div><!--ROW-->
 
 {{< /rawhtml >}}
