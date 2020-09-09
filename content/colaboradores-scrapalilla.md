@@ -68,7 +68,7 @@ Creaciones originales y personalizadas</p>
 
 <div class="6u$ 12u$(small)">
 
-<p><span><img src="/uploads/tombow-2020-09-07.jpg" alt="" /></span>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+<p><span><img src="/uploads/tombow-2020-09-07.jpg" alt="" /></span>Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería.</p>
 
 </div>
 
