@@ -64,26 +64,22 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--FIN logo grande-->
 
-<!--Para parejas de logos pequeños-->
-
 <div class="row">
 
-<div class="6u 12u$(small)">
+<div class="row 50% uniform">
 
-<p><span><img src="/uploads/coquitoscrapero-2020-09-05.png" alt="" /></span>Creación y venta de proyectos hechos a mano.
+<div class="3u"><span><img src="/uploads/coquitoscrapero-2020-09-05.png" alt="" /></span></div>
 
-Creaciones originales y personalizadas</p>
+<div class="3u"><span class="image fit">Creación y venta de proyectos hechos a mano.
 
-</div>
+Creaciones originales y personalizadas.</span></div>
 
-<div class="6u$ 12u$(small)">
+<div class="3u"><span><img src="/uploads/tombow-2020-09-07.jpg" alt="" /></span></div>
 
-<p><span><img src="/uploads/tombow-2020-09-07.jpg" alt="" /></span>Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería.</p>
-
-</div>
+<div class="3u$"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería.</span></div>
 
 </div>
 
-<!--FIN Para parejas de logos pequeños-->
+</div>
 
 {{< /rawhtml >}}
