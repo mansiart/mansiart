@@ -44,6 +44,8 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--Prueba Marga-->
 
+<!-- Para logo grande. izquierda imagen, derecha texto-->
+
 <div class="row">
 
 <div class="6u 12u$(small)">
@@ -59,6 +61,10 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 </div>
 
 </div>
+
+<!--FIN logo grande-->
+
+<!--Para parejas de logos pequeños-->
 
 <div class="row">
 
@@ -77,5 +83,7 @@ Creaciones originales y personalizadas</p>
 </div>
 
 </div>
+
+<!--FIN Para parejas de logos pequeños-->
 
 {{< /rawhtml >}}
