@@ -160,9 +160,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Creación y venta de proyectos hechos a mano.
-
-Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="[https://www.instagram.com/](https://www.instagram.com/ "https://www.instagram.com/coquitoscrapero/")">Instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="[https://www.instagram.com/](https://www.sonrisasdepapel.es/ "https://www.sonrisasdepapel.es/")">página web</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/img-20200510-wa0025-2020-09-10.jpg" alt="" /></span></div>
 
