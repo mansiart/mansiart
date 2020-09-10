@@ -154,4 +154,42 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <!--FIN logo grande-->
 
+<div class="row">
+
+<div class="row 50% uniform">
+
+<div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Creación y venta de proyectos hechos a mano.
+
+Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="[https://www.instagram.com/](https://www.instagram.com/ "https://www.instagram.com/coquitoscrapero/")">Instagram</a>.</span></div>
+
+<div class="3u"><span><img src="/uploads/img-20200510-wa0025-2020-09-10.jpg" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Digital Art para Crafters. Visita su<a href="[https://www.instagram.com/beadesign.bcn/](https://www.instagram.com/beadesign.bcn/ "https://www.instagram.com/beadesign.bcn/")">Instagram</a> para ver todo lo que tiene para tí.</span></div>
+
+</div><!--ROW 50 UNIFORM-->
+
+</div><!--ROW-->
+
+<!-- Para logo grande. izquierda imagen, derecha texto-->
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<p><span><img src="/uploads/esrscrapfbookcover-firma-2020-09-10.jpg" alt="" /></span></p>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+<p>Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="[https://www.instagram.com/manolinavarro/](https://www.instagram.com/manolinavarro/ "https://www.instagram.com/manolinavarro/")">Instagram.</a></p>
+
+</div>
+
+</div>
+
+<!--FIN logo grande-->
+
 {{< /rawhtml >}}
