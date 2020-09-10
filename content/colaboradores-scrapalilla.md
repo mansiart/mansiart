@@ -134,4 +134,24 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <!--FIN logo grande-->
 
+<!-- Para logo grande. izquierda imagen, derecha texto-->
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<p><span><img src="/uploads/2logo-samigarra-2020-09-10.png" alt="" /></span></p>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+<p>Ilustradora, artesana, fotógrafa y feliz, así se presenta Sami Garra. Esto y mucho más lo encontrarás en su <a href="[https://samigarra.com/](https://samigarra.com/ "https://samigarra.com/")">página web.</a></p>
+
+</div>
+
+</div>
+
+<!--FIN logo grande-->
+
 {{< /rawhtml >}}
