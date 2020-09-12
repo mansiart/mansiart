@@ -246,4 +246,20 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <!--FIN logo grande-->
 
+<div class="row">
+
+<div class="row 50% uniform">
+
+<div class="3u"><span><img src="/uploads/lasonadoramilcraftslogo-2020-09-12.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="[https://www.instagram.com/lasonadora.milcrafts/](https://www.instagram.com/lasonadora.milcrafts/ "https://www.instagram.com/lasonadora.milcrafts/")">Instagram</a>.</span></div>
+
+<!--<div class="3u"><span><img src="/uploads/nany-montejo-2020-09-12.jpg" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Somniart encontrarás material de scrapbooking y Mix media. También talleres mixed media y scrapbooking. Visita su <a href="[https://www.instagram.com/somniart_palma/](https://www.vintageodyssey.net/ "https://www.vintageodyssey.net/")">Instagram</a> para ampliar la información.</span></div>-->
+
+</div><!--ROW 50 UNIFORM-->
+
+</div><!--ROW-->
+
 {{< /rawhtml >}}
