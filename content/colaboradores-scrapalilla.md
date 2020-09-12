@@ -32,11 +32,11 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/sweetmoma-2020-09-05.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Sweet Möma<a href="https://sweetmoma.com/es/"> su tienda</a> o en su cuenta de <a href="https://www.instagram.com/sweetmomabcn/">instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Sweet Möma es una marca que diseña y fabrica productos para despertar tu creatividad. Desde materiales para scrapbooking, papelería creativa y regalos originales para sorprender a quien más quieres. Convierte tus mejores momentos, en recuerdos memorables. Conócelos en<a href="https://sweetmoma.com/es/"> su tienda</a> o en su cuenta de <a href="https://www.instagram.com/sweetmomabcn/">instagram</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/whayssa-2020-09-05.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Whassya <a href="https://www.instagram.com/whassya/">instagram</a> o en su <a href="https://www.youtube.com/c/WhassyaMaspirosa">YouTube</a>.</span></div>
+<div class="3u$"><span class="image fit">Whassya, artista que combina el scrap, el lettering con su pasión por la fotografía. Sus colecciones están hechas con muchísimo cariño y con mucho trabajo totalmente a mano y con sus particulares dibujos. Visita su <a href="https://www.instagram.com/whassya/">instagram</a> o su canal de <a href="https://www.youtube.com/c/WhassyaMaspirosa">YouTube</a>.</span></div>
 
 </div>
 
