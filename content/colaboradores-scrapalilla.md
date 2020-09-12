@@ -150,7 +150,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 </div>
 
-<div class="2u$">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="https://www.vintageodyssey.net/">web</a>.</span></div>
+<div class="2u">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="https://www.vintageodyssey.net/">web</a>.</span></div>
 
 <div class="2u">Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.
 
@@ -160,7 +160,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 </div>
 
-<div class="2u">Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
+<div class="2u$">Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
 
 </div>
 
