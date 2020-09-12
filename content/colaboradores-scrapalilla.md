@@ -192,12 +192,12 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.sonrisasdepapel.es/">página web</a>.</span></div>
+<div class="3u"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.sonrisasdepapel.es/">página web</a>.</span></div>
+
+<div class="3u"><span class="image fit">Fin.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
 </div><!--ROW-->
-
-Fin
 
 {{< /rawhtml >}}
