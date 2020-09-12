@@ -140,7 +140,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/2logo-samigarra-2020-09-10.png" alt="" /></span></p>
+<p><span><img src="/uploads/2logo-samigarra-2020-09-12.jpg" alt="" /></span></p>
 
 </div>
 
@@ -160,7 +160,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="[https://www.instagram.com/](https://www.sonrisasdepapel.es/ "https://www.sonrisasdepapel.es/")">página web</a>.</span></div>
+<div class="3u"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="[https://www.sonrisasdepapel.es/](https://www.sonrisasdepapel.es/ "https://www.sonrisasdepapel.es/")">página web</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/img-20200510-wa0025-2020-09-10.jpg" alt="" /></span></div>
 
@@ -189,5 +189,21 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 </div>
 
 <!--FIN logo grande-->
+
+<div class="row">
+
+<div class="row 50% uniform">
+
+<div class="3u"><span><img src="/uploads/logovintageodyssey-2020-09-09.jpg" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="[https://www.vintageodyssey.net/](https://www.vintageodyssey.net/ "https://www.vintageodyssey.net/")">página web</a>.</span></div>
+
+<div class="3u"><span><img src="/uploads/logo-montejo_page-0001-2020-09-12.jpg.jpg" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su <a href="[https://www.instagram.com/artemontejo/](https://www.instagram.com/artemontejo/ "https://www.instagram.com/artemontejo/")">Instagram</a> para ver todo lo que tiene para tí.</span></div>
+
+</div><!--ROW 50 UNIFORM-->
+
+</div><!--ROW-->
 
 {{< /rawhtml >}}
