@@ -80,7 +80,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="3u"><span><img src="/uploads/tombow-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería. <a href="https://www.instagram.com/tombow.spain/">Tombow Spain</a></span></div>
+<div class="3u"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería. Y los amantes del lettering pueden disfrutar de una amplia gama de rotuladores.<a href="https://www.instagram.com/tombow.spain/">Tombow Spain</a></span></div>
 
 <div class="3u"><span><img src="/uploads/scrapmenorca-2020-09-12.png" alt="" /></span></div>
 
