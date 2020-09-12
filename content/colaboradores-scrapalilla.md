@@ -36,7 +36,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/whayssa-2020-09-05.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Whassya, artista que combina el scrap, el lettering con su pasión por la fotografía. Sus colecciones están hechas con muchísimo cariño y con mucho trabajo totalmente a mano y con sus particulares dibujos. Visita su <a href="https://www.instagram.com/whassya/">instagram</a> o su canal de <a href="https://www.youtube.com/c/WhassyaMaspirosa">YouTube</a>.</span></div>
+<div class="3u$"><span class="image fit">Whassya, artista que combina el scrap y el lettering con su pasión por la fotografía. Sus colecciones están hechas con muchísimo cariño y con mucho trabajo totalmente a mano y con sus particulares dibujos. Visita su <a href="https://www.instagram.com/whassya/">instagram</a> o su canal de <a href="https://www.youtube.com/c/WhassyaMaspirosa">YouTube</a>.</span></div>
 
 </div>
 
@@ -50,13 +50,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/scrapealo-2020-09-05.png" alt="" /></span></p>
+<span><img src="/uploads/scrapealo-2020-09-05.png" alt="" /></span>
 
 </div>
 
 <div class="6u$ 12u$(small)">
 
-<p><a href="https://scrapealo.es/">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.</p>
+<a href="https://scrapealo.es/">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.
 
 </div>
 
