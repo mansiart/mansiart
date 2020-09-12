@@ -70,9 +70,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/coquitoscrapero-2020-09-05.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Creación y venta de proyectos hechos a mano.
-
-Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.instagram.com/coquitoscrapero/">Instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Creación y venta de proyectos hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.instagram.com/coquitoscrapero/">Instagram</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/artelaserdesign-2020-09-12.png" alt="" /></span></div>
 
@@ -96,19 +94,19 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/basiccrea-2020-09-12.png" alt="" /></span></p>
+<span><img src="/uploads/basiccrea-2020-09-12.png" alt="" /></span>
 
 </div>
 
 <div class="6u$ 12u$(small)">
 
-<p>Distribuidores de material creativo para scrapbooking y otras manualidades. Accede a sus ideas, inspiración y tutoriales desde su <a href="https://www.instagram.com/basiccrea2/">Instagram</a>.</p> Y gracias a ellos vamos a contar con material de diseñadores como Pega Papel o Tijeras, Vintage Odyssey, Coses d'scrap, Samigarra y Manoli Navarro
+Distribuidores de material creativo para scrapbooking y otras manualidades. Accede a sus ideas, inspiración y tutoriales desde su<a href="https://www.instagram.com/basiccrea2/"> Instagram</a>. Y gracias a ellos vamos a contar con material de diseñadores como Pega Papel o Tijeras, Vintage Odyssey, Coses d'scrap, Samigarra y Manoli Navarro
 
 </div>
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span></p>
+<span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
