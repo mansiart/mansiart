@@ -49,7 +49,7 @@ summaryLength = 20
   [params.error404]
     heading = """La página que estás buscando no existe.  
     Lo sentimos."""
-    text = "Please visit [this page](/)"
+    text = "Por favor, vuelve a [incio](/)"
 
   # Navigation Section
   [params.navigation]
