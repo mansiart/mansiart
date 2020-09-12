@@ -124,13 +124,13 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="2u">
 
-<span><img src="/uploads/cosesdscrap2-2020-09-12.png" alt="" /></span>
+<span><img src="/uploads/vintageodyssey-2020-09-12.png" alt="" /></span>
 
 </div>
 
 <div class="2u">
 
-<span><img src="/uploads/vintageodyssey-2020-09-12.png" alt="" /></span>
+<span><img src="/uploads/cosesdscrap2-2020-09-12.png" alt="" /></span>
 
 </div>
 
@@ -142,13 +142,15 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="2u$">
 
-<span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
+<span><img src="/uploads/esrscrap-2020-09-12.png" alt="" /></span>
 
 </div>
 
 <div class="2u">Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="https://www.pegapapelotijeras.com/">página web</a>.
 
 </div>
+
+<div class="2u$">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="https://www.vintageodyssey.net/">web</a>.</span></div>
 
 <div class="2u">Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.
 
@@ -162,11 +164,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 </div>
 
-<div class="2u$">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="https://www.vintageodyssey.net/">web</a>.</span></div>
-
 </div>
-
-<p></p>
 
 <!--FIN prueba Vanessa-->
 
@@ -176,6 +174,8 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="row 50% uniform">
 
+<p>
+
 <div class="3u"><span><img src="/uploads/beadesign-2020-09-12.png" alt="" /></span></div>
 
 <div class="3u"><span class="image fit">Digital Art para Crafters. Visita su <a href="https://www.instagram.com/beadesign.bcn/">Instagram</a> para ver todo lo que tiene para tí.</span></div>
@@ -183,6 +183,8 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 <div class="3u"><span><img src="/uploads/lasonadoramilcrafts-2020-09-12.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
+
+</p>
 
 <div class="3u"><span><img src="/uploads/montejo-2020-09-12.png" alt="" /></span></div>
 
