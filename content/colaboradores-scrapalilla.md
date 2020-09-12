@@ -74,13 +74,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.instagram.com/coquitoscrapero/">Instagram</a>.</span></div>
 
-<div class="3u"><span><img src="/uploads/tombow-2020-09-07.jpg" alt="" /></span></div>
-
-<div class="3u$"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería. <a href="https://www.instagram.com/tombow.spain/">Tombow Spain</a></span></div>
-
 <div class="3u"><span><img src="/uploads/artlaser-2020-09-07.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Especialistas en madera. Conócelos en su <a href="https://www.artelaserdesign.com/">tienda</a></span></div>
+<div class="3u$"><span class="image fit">Especialistas en madera. Conócelos en su <a href="[https://www.artelaserdesign.com/](https://www.artelaserdesign.com/ "https://www.artelaserdesign.com/")">tienda</a></span></div>
+
+<div class="3u"><span><img src="/uploads/tombow-2020-09-07.jpg" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería. <a href="https://www.instagram.com/tombow.spain/">Tombow Spain</a></span></div>
 
 <div class="3u"><span><img src="/uploads/scrap_menorca-2020-09-09.png" alt="" /></span></div>
 
