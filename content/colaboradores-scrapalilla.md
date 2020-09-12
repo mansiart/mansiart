@@ -112,51 +112,53 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="row 50% uniform">
 
-<div class="3u">
+<div class="4u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="3u">
+<div class="4u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="3u">
+<div class="4u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="3u">
+<div class="4u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="3u$">
+<div class="4u$">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="3u">Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="https://www.pegapapelotijeras.com/">página web</a>.
+<div class="4u">Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="https://www.pegapapelotijeras.com/">página web</a>.
 
 </div>
 
-<div class="3u">Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.
+<div class="4u">Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.
 
 </div>
 
-<div class="3u">Ilustradora, artesana, fotógrafa y feliz, así se presenta Sami Garra. Esto y mucho más lo encontrarás en su <a href="https://samigarra.com/">página web.</a></p>
+<div class="4u">Ilustradora, artesana, fotógrafa y feliz, así se presenta Sami Garra. Esto y mucho más lo encontrarás en su <a href="https://samigarra.com/">página web.</a></p>
 
 </div>
 
-<div class="3u">Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
+<div class="4u">Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
 
 </div>
+
+<div class="4u$">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="https://www.vintageodyssey.net/">página web</a>.</span></div>
 
 </div>
 
@@ -189,10 +191,6 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 <div class="row">
 
 <div class="row 50% uniform">
-
-<div class="3u"><span><img src="/uploads/logovintageodyssey-2020-09-09.jpg" alt="" /></span></div>
-
-<div class="3u"><span class="image fit">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="https://www.vintageodyssey.net/">página web</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/nany-montejo-2020-09-12.jpg" alt="" /></span></div>
 
