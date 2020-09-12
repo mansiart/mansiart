@@ -220,7 +220,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="row 50% uniform">
 
-<div class="3u"><span><img src="/uploads/lasonadoramilcraftslogo-2020-09-12.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/lasonadoramilcrafts-2020-09-12.png" alt="" /></span></div>
 
 <div class="3u"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
 
