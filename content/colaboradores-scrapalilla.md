@@ -112,51 +112,49 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="row 50% uniform">
 
-<div class="5u">
+<div class="3u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="5u">
+<div class="3u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="5u">
+<div class="3u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="5u">
+<div class="3u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="5u$">
+<div class="3u$">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="5u">Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="https://www.pegapapelotijeras.com/">página web</a>.
+<div class="3u">Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="https://www.pegapapelotijeras.com/">página web</a>.
 
 </div>
 
-<div class="5u">Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.
+<div class="3u">Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.
 
 </div>
 
-<div class="5u">Ilustradora, artesana, fotógrafa y feliz, así se presenta Sami Garra. Esto y mucho más lo encontrarás en su <a href="https://samigarra.com/">página web.</a></p>
+<div class="3u">Ilustradora, artesana, fotógrafa y feliz, así se presenta Sami Garra. Esto y mucho más lo encontrarás en su <a href="https://samigarra.com/">página web.</a></p>
 
 </div>
 
-<div class="5u">
-
-Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
+<div class="3u">Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
 
 </div>
 
