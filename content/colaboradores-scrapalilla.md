@@ -166,6 +166,8 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 </div>
 
+<p></p>
+
 <!--FIN prueba Vanessa-->
 
 <!--Disposición clásica: 2 logos con su descripción-->
@@ -194,7 +196,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="3u"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.sonrisasdepapel.es/">página web</a>.</span></div>
 
-<div class="3u"><span class="image fit">yata.</span></div>
+<div class="3u"><span class="image fit">casi.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
