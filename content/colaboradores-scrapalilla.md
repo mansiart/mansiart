@@ -102,7 +102,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="6u$ 12u$(small)">
 
-<p>Distribuidores de material creativo para scrapbooking y otras manualidades. Accede a sus ideas, inspiración y tutoriales desde su <a href="https://www.instagram.com/basiccrea2/">Instagram</a>.</p>
+<p>Distribuidores de material creativo para scrapbooking y otras manualidades. Accede a sus ideas, inspiración y tutoriales desde su <a href="https://www.instagram.com/basiccrea2/">Instagram</a>.</p> Y gracias a ellos vamos a contar con material de#diseñadores como Pega Papel o Tijeras, Vintage Odyssey, Coses dscrap, Samigarra y Manoli Navarro
 
 </div>
 
