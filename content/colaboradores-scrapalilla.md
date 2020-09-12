@@ -44,7 +44,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--Prueba Marga-->
 
-<!-- Para logo grande. izquierda imagen, derecha texto-->
+<!-- Para logo grande. izquierda imagen, derecha texto Scrapealo-->
 
 <div class="row">
 
@@ -63,6 +63,8 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 </div>
 
 <!--FIN logo grande-->
+
+<!--Disposición clásica: 2 logos con su descripción-->
 
 <div class="row">
 
@@ -88,7 +90,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 </div><!--ROW-->
 
-<!-- Para logo grande. izquierda imagen, derecha texto-->
+<!-- Para logo grande. izquierda imagen, derecha texto BasicCrea-->
 
 <div class="row">
 
@@ -108,9 +110,11 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <!--FIN logo grande-->
 
-<div class="row">
+<!--Prueba Vanessa-->
 
-<div class="row 50% uniform">
+<!--Poner 5 logos y debajo su descripción-->
+
+<div class="row">
 
 <div class="6u">
 
@@ -162,7 +166,9 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 </div>
 
-<!--FIN logo grande-->
+<!--FIN prueba Vanessa-->
+
+<!--Disposición clásica: 2 logos con su descripción-->
 
 <div class="row">
 
@@ -178,7 +184,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="3u"><span><img src="/uploads/montejo-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su<a href="https://www.instagram.com/artemontejo/"> Instagram</a> para ver todo lo que tiene para tí. Y en Mallorca su distribuidora ofiacial es nuestra tallerista Nany, encuentra los productos en <a href="https://somniartpalma.com">Somniart</a></span></div>
+<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su <a href="https://www.instagram.com/artemontejo/">Instagram</a> para ver todo lo que tiene para tí. Y en Mallorca su distribuidora oficial es nuestra tallerista Nany, encuentra sus productos en <a href="https://somniartpalma.com">Somniart</a></span></div>
 
 <div class="3u"><span><img src="/uploads/lolita-2020-09-05.png" alt="" /></span></div>
 
@@ -192,10 +198,6 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 </div><!--ROW-->
 
-<!-- Para logo grande. izquierda imagen, derecha texto-->
-
-<div class="row">
-
-</div>
+Fin
 
 {{< /rawhtml >}}
