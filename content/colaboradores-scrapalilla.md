@@ -82,7 +82,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="3u"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería. <a href="https://www.instagram.com/tombow.spain/">Tombow Spain</a></span></div>
 
-<div class="3u"><span><img src="/uploads/scrap_menorca-2020-09-09.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/scrapmenorca-2020-09-12.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Desde Menorca trabaja creando esta escrapera. Pásate por su <a href="https://www.instagram.com/scrapmenorca/">Instagram</a> para saber más.</span></div>
 
