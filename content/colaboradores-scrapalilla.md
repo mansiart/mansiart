@@ -178,7 +178,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="3u"><span><img src="/uploads/montejo-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su<a href="https://www.instagram.com/artemontejo/"> Instagram</a> para ver todo lo que tiene para tí. Y en Mallorca su distribuidora ofiacial es nuestra tallerista Nany, encuentra los productos en Somniart</span></div>
+<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su<a href="https://www.instagram.com/artemontejo/"> Instagram</a> para ver todo lo que tiene para tí. Y en Mallorca su distribuidora ofiacial es nuestra tallerista Nany, encuentra los productos en <a href="https://somniartpalma.com">Somniart</a></span></div>
 
 <div class="3u"><span><img src="/uploads/lolita-2020-09-05.png" alt="" /></span></div>
 
