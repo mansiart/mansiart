@@ -112,31 +112,31 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="row 50% uniform">
 
-<div class="4u">
+<div class="6u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="4u">
+<div class="6u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="4u">
+<div class="6u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="4u">
+<div class="6u">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
 </div>
 
-<div class="4u$">
+<div class="6u$">
 
 <span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
 
