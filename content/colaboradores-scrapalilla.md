@@ -124,7 +124,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="2u">
 
-<span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
+<span><img src="/uploads/cosesdscrap2-2020-09-12.png" alt="" /></span>
 
 </div>
 
@@ -136,7 +136,7 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="2u">
 
-<span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span>
+<span><img src="/uploads/samigarra2-2020-09-12.png" alt="" /></span>
 
 </div>
 
