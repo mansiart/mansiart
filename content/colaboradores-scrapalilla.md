@@ -76,7 +76,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="3u"><span><img src="/uploads/artelaserdesign-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Tienda On line, dedicada a la fabricación y comercialización de productos en MDF en toda España. Su objetivo, es que en Arte Laser Design, encuentres todo lo que necesitas para tus celebraciones, tu casa y tu día a día. Conócelos en su <a href="[https://www.artelaserdesign.com/](https://www.artelaserdesign.com/ "https://www.artelaserdesign.com/")">tienda</a> o visita su <a href="[https://www.instagram.com/artelaserdesign/](https://www.instagram.com/artelaserdesign/ "https://www.instagram.com/artelaserdesign/")">instagram</a></span></div>
+<div class="3u$"><span class="image fit">Tienda On line, dedicada a la fabricación y comercialización de productos en MDF. Su objetivo es que encuentres todo lo que necesites para tus celebraciones, tu casa y tu día a día. Conócelos en su <a href="[https://www.artelaserdesign.com/](https://www.artelaserdesign.com/ "https://www.artelaserdesign.com/")">tienda</a> o visita su <a href="[https://www.instagram.com/artelaserdesign/](https://www.instagram.com/artelaserdesign/ "https://www.instagram.com/artelaserdesign/")">instagram</a></span></div>
 
 <div class="3u"><span><img src="/uploads/tombow-2020-09-12.png" alt="" /></span></div>
 
