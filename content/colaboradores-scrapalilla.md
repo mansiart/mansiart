@@ -168,13 +168,17 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="row 50% uniform">
 
-<div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
-
-<div class="3u"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.sonrisasdepapel.es/">página web</a>.</span></div>
-
 <div class="3u"><span><img src="/uploads/beadesign-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Digital Art para Crafters. Visita su <a href="https://www.instagram.com/beadesign.bcn/">Instagram</a> para ver todo lo que tiene para tí.</span></div>
+<div class="3u"><span class="image fit">Digital Art para Crafters. Visita su <a href="https://www.instagram.com/beadesign.bcn/">Instagram</a> para ver todo lo que tiene para tí.</span></div>
+
+<div class="3u"><span><img src="/uploads/lasonadoramilcrafts-2020-09-12.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
+
+<div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.sonrisasdepapel.es/">página web</a>.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
@@ -219,10 +223,6 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 <div class="row">
 
 <div class="row 50% uniform">
-
-<div class="3u"><span><img src="/uploads/lasonadoramilcrafts-2020-09-12.png" alt="" /></span></div>
-
-<div class="3u"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
 
 <!--<div class="3u"><span><img src="/uploads/nany-montejo-2020-09-12.jpg" alt="" /></span></div>
 
