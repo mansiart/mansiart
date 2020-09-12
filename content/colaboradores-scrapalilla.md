@@ -118,13 +118,13 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/logoquim-2020-09-09.jpg" alt="" /></span></p>
+<span><img src="/uploads/logoquim-2020-09-09.jpg" alt="" /></span>
 
 </div>
 
 <div class="6u$ 12u$(small)">
 
-<p>Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.</p>
+Quim Díaz es desarrollador de productos de scrap. Ha diseñado 4 colecciones de papeles. Puedes saber todo acerca de él en su <a href="https://www.cosesdscrap.com/">página web</a>.
 
 </div>
 
