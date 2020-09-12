@@ -176,6 +176,14 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 
 <div class="3u$"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
 
+<div class="3u"><span><img src="/uploads/montejo-2020-09-12.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su<a href="https://www.instagram.com/artemontejo/"> Instagram</a> para ver todo lo que tiene para tí. Y en Mallorca su distribuidora ofiacial es nuestra tallerista Nany, encuentra los productos en Somniart</span></div>
+
+<div class="3u"><span><img src="/uploads/lolita-2020-09-05.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">En Lolita Store encontrarás todo lo necesario para poder realizar tus proyectos de manualidades, home decor y scrapbooking, y un taller donde podrás realizar todas tus creaciones artísticas. Descubre mucho más en su  <a href="https://www.instagram.com/elmundodelolita/">Instagram.</a></span></div>
+
 <div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Creación y venta de proyectos de decoración hechos a mano. Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href="https://www.sonrisasdepapel.es/">página web</a>.</span></div>
@@ -189,47 +197,5 @@ Distribuidores de material creativo para scrapbooking y otras manualidades. Acce
 <div class="row">
 
 </div>
-
-<!--FIN logo grande-->
-
-<div class="row">
-
-<div class="row 50% uniform">
-
-<div class="3u"><span><img src="/uploads/nany-montejo-2020-09-12.jpg" alt="" /></span></div>
-
-<div class="3u$"><span class="image fit">Somniart encontrarás material de scrapbooking y Mix media. También talleres mixed media y scrapbooking. Visita su <a href="https://www.instagram.com/somniart_palma/">Instagram</a> para ampliar la información.</span></div>
-
-</div><!--ROW 50 UNIFORM-->
-
-</div><!--ROW-->
-
-<div class="row">
-
-<div class="row 50% uniform">
-
-<div class="3u"><span><img src="/uploads/logo-montejo_page-0001-2020-09-12.jpg" alt="" /></span></div>
-
-<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su <a href="https://www.instagram.com/artemontejo/">Instagram</a> para ver todo lo que tiene para tí.</span></div>
-
-<div class="3u"><span><img src="/uploads/lolita-2020-09-05.png" alt="" /></span></div>
-
-<div class="3u$"><span class="image fit">En Lolita Store encontrarás todo lo necesario para poder realizar tus proyectos de manualidades, home decor y scrapbooking, y un taller donde podrás realizar todas tus creaciones artísticas. Descubre mucho más en su  <a href="https://www.instagram.com/elmundodelolita/">Instagram.</a></span></div>
-
-</div><!--ROW 50 UNIFORM-->
-
-</div><!--ROW-->
-
-<div class="row">
-
-<div class="row 50% uniform">
-
-<!--<div class="3u"><span><img src="/uploads/nany-montejo-2020-09-12.jpg" alt="" /></span></div>
-
-<div class="3u$"><span class="image fit">Somniart encontrarás material de scrapbooking y Mix media. También talleres mixed media y scrapbooking. Visita su <a href="https://www.instagram.com/somniart_palma/">Instagram</a> para ampliar la información.</span></div>-->
-
-</div><!--ROW 50 UNIFORM-->
-
-</div><!--ROW-->
 
 {{< /rawhtml >}}
