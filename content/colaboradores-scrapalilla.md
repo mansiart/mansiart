@@ -108,7 +108,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="6u 12u$(small)">
 
-<p><span><img src="/uploads/pega-papel-o-tijeras-2020-09-09.png" alt="" /></span></p>
+<p><span><img src="/uploads/pegapapelotijeras2-2020-09-12.png" alt="" /></span></p>
 
 </div>
 
