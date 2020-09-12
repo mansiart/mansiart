@@ -198,7 +198,7 @@ Creaciones originales y personalizadas. Encuentra todo lo que hace en su <a href
 
 <div class="3u"><span class="image fit">Alberto Juárez está detrás de Vintage Odissey. Productos, cursos, proyectos vintage y más en su <a href="[https://www.vintageodyssey.net/](https://www.vintageodyssey.net/ "https://www.vintageodyssey.net/")">página web</a>.</span></div>
 
-<div class="3u"><span><img src="/uploads/logo-montejo_page-0001-2020-09-12.jpg.jpg" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/logo-montejo_page-0001-2020-09-12.jpg" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su <a href="[https://www.instagram.com/artemontejo/](https://www.instagram.com/artemontejo/ "https://www.instagram.com/artemontejo/")">Instagram</a> para ver todo lo que tiene para tí.</span></div>
 
