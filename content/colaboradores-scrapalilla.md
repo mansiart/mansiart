@@ -120,7 +120,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/basiccrea-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Distribuidores de material creativo para scrapbooking y otras manualidades. Accede a sus ideas, inspiración y tutoriales desde su <a href="https://www.instagram.com/basiccrea2/">Instagram</a>. Y gracias a ellos vamos a contar con material de diseñadores como Pega Papel o Tijeras, Vintage Odyssey, Coses d'scrap, Samigarra y Manoli Navarro.<br/></span></div>
+<div class="3u"><span class="image fit">Distribuidores de material creativo para scrapbooking y otras manualidades. Accede a sus ideas, inspiración y tutoriales desde su <a href="https://www.instagram.com/basiccrea2/">Instagram</a>. Y gracias a ellos vamos a contar con material de diseñadores como Pega Papel o Tijeras, Vintage Odyssey, Coses d'scrap, Samigarra y Manoli Navarro.</span><br/></div>
 
 <div class="3u"><span><img src="/uploads/logo_sonrisas-de-papel-2020-09-10.jpg" alt="" /></span></div>
 
