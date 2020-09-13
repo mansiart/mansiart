@@ -188,7 +188,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 </div>
 
-</div>
+<br/></div>
 
 <!--FIN prueba Vanessa-->
 
