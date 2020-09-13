@@ -96,7 +96,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span><img src="/uploads/tombow-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería. Y los amantes del lettering pueden disfrutar de una amplia gama de rotuladores. <a href="https://www.instagram.com/tombow.spain/">Tombow Spain</a></br></br></span></div>
+<div class="3u"><span class="image fit">Consigue los mejores acabados con los adhesivos de la marca Tombow, especializados en scrapbooking, fotografía y tarjetería. Y los amantes del lettering pueden disfrutar de una amplia gama de rotuladores. <a href="https://www.instagram.com/tombow.spain/">Tombow Spain</a></span></br></div>
 
 <div class="3u"><span><img src="/uploads/scrapmenorca-2020-09-12.png" alt="" /></span></div>
 
@@ -133,6 +133,8 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 <!--Prueba Vanessa-->
 
 <!--Poner 5 logos y debajo su descripción ELENA ROCHE + ODISSEY + QUIM DIAZ + SAMIGARRA + ESRSCRAP-->
+
+<div>
 
 <div class="row">
 
@@ -181,6 +183,8 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 </div>
 
 <div class="2u$">Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
+
+</div>
 
 </div>
 
