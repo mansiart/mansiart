@@ -132,7 +132,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--Prueba Vanessa-->
 
-<!--Poner 5 logos y debajo su descripción-->
+<!--Poner 5 logos y debajo su descripción ELENA ROCHE + ODISSEY + QUIM DIAZ + SAMIGARRA + ESRSCRAP-->
 
 <div class="row">
 
@@ -188,13 +188,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--FIN prueba Vanessa-->
 
-<!--Disposición clásica: 2 logos con su descripción-->
+<!-----------------------Disposición clásica: 2 logos con su descripción---------------->
+
+<!-------------------------------------BEADESIGN + LA SOÑADORA-------------------------->
 
 <div class="row">
 
 <div class="row 50% uniform">
-
-<p>
 
 <div class="3u"><span><img src="/uploads/beadesign-2020-09-12.png" alt="" /></span></div>
 
@@ -204,11 +204,11 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u$"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
 
-</p>
+<!-------------------------------------MONTEJO + LOLITA--------------------------------------------->
 
 <div class="3u"><span><img src="/uploads/montejo-2020-09-12.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su <a href="https://www.instagram.com/artemontejo/">Instagram</a> para ver todo lo que tiene para tí. Y en Mallorca su distribuidora oficial es nuestra tallerista Nany, encuentra sus productos en <a href="https://somniartpalma.com">Somniart</a></span></div>
+<div class="3u"><span class="image fit">Distribuidores de productos para manualidades, artes decorativas y bellas artes. Visita su <a href="https://www.instagram.com/artemontejo/">Instagram</a> para ver todo lo que tiene para tí. Y en Mallorca su distribuidora oficial es nuestra tallerista Nany, encuentra sus productos en <a href="https://somniartpalma.com">Somniart</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/lolita-2020-09-05.png" alt="" /></span></div>
 
