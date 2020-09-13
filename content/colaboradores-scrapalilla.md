@@ -134,6 +134,8 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--Poner 5 logos y debajo su descripción ELENA ROCHE + ODISSEY + QUIM DIAZ + SAMIGARRA + ESRSCRAP-->
 
+<div>
+
 <div class="row">
 
 <div class="2u">
@@ -181,6 +183,8 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 </div>
 
 <div class="2u$">Manoli Navarro está detrás de esta marca. Conóce todo lo que hace en su <a href="https://www.instagram.com/manolinavarro/">Instagram.</a>
+
+</div>
 
 </div>
 
