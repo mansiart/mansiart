@@ -54,7 +54,27 @@ Durante este fin de semana realizaremos dos talleres.
 
 {{< /rawhtml >}}
 
-#### Segundo taller por descubrir.
+#### Taller de Scrapbooking
+
+{{< rawhtml >}}
+
+<div>
+
+<span style="display: inline-block;width: 20%; padding-bottom: 2.25em"><img src="/uploads/interrogante-2020-09-14.png"></span>
+
+<span style="display: inline-block;vertical-align: top;width: 75%;">Segundo taller por descubrir.</span>
+
+</div>
+
+<div>
+
+<span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Konxi, scrapera a la que le encanta montar un álbúm desde cero: estructuras, decoración y toques personales. También la papelería creativa. Puedes conocerla en sus redes sociales como Konxi Scrap (<a href="https://www.instagram.com/konxi.scrap/">@konxi.scrap</a>), o con su nueva faceta Toppercreaciones (<a href="https://www.instagram.com/toppercreaciones[/](https://www.instagram.com/somniart_palma/ "https://www.instagram.com/somniart_palma/")">@toppercreaciones.</a>)
+
+<span style="display: inline-block; width: 20%; text-align: right; padding-bottom: 2.25em"><img src="/uploads/konxi-2020-09-14.png"></span>
+
+</div>
+
+{{< /rawhtml >}}
 
 ## Juegos
 
