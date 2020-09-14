@@ -168,7 +168,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 </div>
 
-<div class="2u">Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="https://www.pegapapelotijeras.com/">página web</a>.
+<div class="2u">Elena Roche es diseñadora de productos escraperos y produce cursos y tutoriales. Encontrarás todo su mundo pink en su <a href="https://www.pegapapelotijeras.com/">página web</a>.<br/>
 
 </div>
 
