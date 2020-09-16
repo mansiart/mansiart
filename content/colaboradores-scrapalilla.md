@@ -228,9 +228,9 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u"><span class="image fit">Pásate por su <a href="https://www.instagram.com/mokka.stitches/">Instagram</a> para conocer sus creaciones, todas con mucho cariño y dedicación. !Disfruta de sus puntadas¡.</span></div>
 
-<div class="3u"><span><img src="/uploads/lasonadoramilcrafts-2020-09-12.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/bekangaroo-2020-09-16.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
+<div class="3u$"><span class="image fit">Ella es Laura. Gestora cultural y diseñadora de procesos creativos y de desarrollo personal a través del arte. Es la creadora de Be Kangaroo una comunidad de mujeres con interés por las artes visuales tradicionales y con ganas de aprender cada día un poco más ¡Corre a echar un ojo a su <a href="https://www.instagram.com/bekangaroo/">Instagram</a>.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
