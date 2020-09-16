@@ -48,6 +48,8 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 </div>
 
+<!-----------SCRAPEALO------------------------------------------------------------------------>
+
 <!--Prueba Marga-->
 
 <!----------------Para logo grande. izquierda imagen, derecha texto Scrapealo--------------------->
@@ -68,11 +70,9 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 </div>
 
-<!-----------------------------------FIN logo grande--------------------------------------------------->
+<!-----------------------------------FIN logo grande------------------------------------------->
 
-<!-------------------------------------------------------------------------------------------------------------->
-
-<!-------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 
 <!---------------Disposición clásica: 2 logos con su descripción---------------------------->
 
@@ -80,7 +80,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="row 50% uniform">
 
-<!-------------------------INICIO COQUITO ESCRAPERO + ARTE LASER----------------------->
+<!------------------------- COQUITO ESCRAPERO + ARTE LASER------------------------------>
 
 <div class="3u"><span><img src="/uploads/coquitoscrapero-2020-09-05.png" alt="" /></span></div>
 
@@ -90,9 +90,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u$"><span class="image fit">Tienda On line, dedicada a la fabricación y comercialización de productos en MDF. Su objetivo es que encuentres todo lo que necesites para tus celebraciones, tu casa y tu día a día. Conócelos en su <a href="https://www.artelaserdesign.com/">tienda</a> o visita su <a href="https://www.instagram.com/artelaserdesign/">instagram</a></span></div>
 
-<!-----------------------FIN COQUITO ESCRAPERO + ARTE LASER--------------------------->
-
-<!-------------------------------INICIO TOMBOW + SCRAP MENORCA------------------------->
+<!-------------------------------TOMBOW + SCRAP MENORCA------------------------>
 
 <div class="3u"><span><img src="/uploads/tombow-2020-09-12.png" alt="" /></span></div>
 
@@ -102,15 +100,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u$"><span class="image fit">Desde Menorca trabaja creando esta escrapera. Pásate por su <a href="https://www.instagram.com/scrapmenorca/">Instagram</a> para saber más.</span></div>
 
-<!----------------------------FIN TOMBOW + SCRAP MENORCA----------------------------------------->
+<!----------------------------FIN TOMBOW + SCRAP MENORCA------------------------------>
 
 </div><!--ROW 50 UNIFORM-->
 
 </div><!--ROW-->
 
-<!------------------------------------------------------------------------------------------------------------------------------->
-
-<!-------------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------->
 
 <!--INICIO BASIC CREA + SONRISAS DE PAPEL-->
 
@@ -128,7 +124,11 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 </div>
 
-</div><!--FIN BASIC CREA + SONRISAS DE PAPEL-->
+</div>
+
+<!------------------------FIN BASIC CREA + SONRISAS DE PAPEL---------------------->
+
+<!------------------------LOS 5 DE BASIC CREA ---------------------------------------->
 
 <!--Prueba Vanessa-->
 
@@ -208,7 +208,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <div class="3u$"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
 
-<!-------------------------------------MONTEJO + LOLITA--------------------------------------------->
+<!-------------------------------------MONTEJO + LOLITA------------------------------------->
 
 <div class="3u"><span><img src="/uploads/montejo-2020-09-12.png" alt="" /></span></div>
 
@@ -217,6 +217,20 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 <div class="3u"><span><img src="/uploads/lolita-2020-09-05.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">En Lolita Store encontrarás todo lo necesario para poder realizar tus proyectos de manualidades, home decor y scrapbooking, y un taller donde podrás realizar todas tus creaciones artísticas. Descubre mucho más en su  <a href="https://www.instagram.com/elmundodelolita/">Instagram.</a></span></div>
+
+<!-------------------------------------MOKKA STICHES + BE KANGAROO-------------------------->
+
+<div class="row">
+
+<div class="row 50% uniform">
+
+<div class="3u"><span><img src="/uploads/mokkastitches-2020-09-16.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Pásate por su <a href="https://www.instagram.com/mokka.stitches/">Instagram</a> para conocer sus creaciones, todas con mucho cariño y dedicación. !Disfruta de sus puntadas¡.</span></div>
+
+<div class="3u"><span><img src="/uploads/lasonadoramilcrafts-2020-09-12.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Atrapasueños personalizados, cestas y chupeteros a juego, cactus grandes tejidos y personalizados y mucho más en su <a href="https://www.instagram.com/lasonadora.milcrafts/">Instagram</a>.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
