@@ -243,13 +243,13 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 <div class="3u"><span class="image fit">Si te gusta todo lo relacionado con el scrapbooking, manualidades, mixed media, lettering, acuarela o diseño gráfico, este es tu sitio. Te invitamos a echar un vistazo por las secciones de su <a href="https://pliegaycreascrap.com/">web</a> o su <a href="https://www.instagram.com/_mayra_rubi/">instagram</a>, no tienen desperdicio.  
 iA disfrutar!  </span></div>
 
-<!-
+<!--
 
 <div class="3u"><span><img src="/uploads/bekangaroo-2020-09-16.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Ella es Laura. Gestora cultural y diseñadora de procesos creativos y de desarrollo personal a través del arte. Es la creadora de Be Kangaroo una comunidad de mujeres con interés por las artes visuales tradicionales y con ganas de aprender cada día un poco más ¡Corre a echar un ojo a su <a href="https://www.instagram.com/bekangaroo/">Instagram</a>.</span></div>
 
-\->
+\-->
 
 </div><!--ROW 50 UNIFORM-->
 
