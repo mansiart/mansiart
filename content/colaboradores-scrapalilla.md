@@ -243,13 +243,9 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 <div class="3u"><span class="image fit">Si te gusta todo lo relacionado con el scrapbooking, manualidades, mixed media, lettering, acuarela o diseño gráfico, este es tu sitio. Te invitamos a echar un vistazo por las secciones de su <a href="https://pliegaycreascrap.com/">web</a> o su <a href="https://www.instagram.com/_mayra_rubi/">instagram</a>, no tienen desperdicio.  
 iA disfrutar!  </span></div>
 
-<!--
-
 <div class="3u"><span><img src="/uploads/petitcuky-2020-09-17.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit"><a href="https://petitcuky.com/">Tienda</a> de diseño creativo y de productos personalizados, la cual se basa en dar armonía y elegancia a todo lo relacionado en el mundo planner, bulletjournal y art-book.</span></div>
-
-\-->
 
 </div><!--ROW 50 UNIFORM-->
 
