@@ -245,9 +245,9 @@ iA disfrutar!  </span></div>
 
 <!--
 
-<div class="3u"><span><img src="/uploads/bekangaroo-2020-09-16.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/petitcuky-2020-09-17.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Ella es Laura. Gestora cultural y diseñadora de procesos creativos y de desarrollo personal a través del arte. Es la creadora de Be Kangaroo una comunidad de mujeres con interés por las artes visuales tradicionales y con ganas de aprender cada día un poco más ¡Corre a echar un ojo a su <a href="https://www.instagram.com/bekangaroo/">Instagram</a>.</span></div>
+<div class="3u$"><span class="image fit"><a href="https://petitcuky.com/">Tienda</a> de diseño creativo y de productos personalizados, la cual se basa en dar armonía y elegancia a todo lo relacionado en el mundo planner, bulletjournal y art-book.</span></div>
 
 \-->
 
