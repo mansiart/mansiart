@@ -18,6 +18,7 @@ fields:
   name: title
   label: title
 pages:
+- content/bases-sorteo-de-una-plaza-en-ier-encuentro-scrap-a-l-illa.md
 - content/busca-tiendas-cercanas.md
 - content/calendario.md
 - content/colaboradores-scrapalilla.md
