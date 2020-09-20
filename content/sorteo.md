@@ -56,9 +56,7 @@ Se sortea un único premio que consiste en:
 
 \- Si no se reclama la devolución en estos días o si se reclama pero su plaza no puede ser ocupada por otra persona, no se efectuará la devolución.
 
-### 
-
-Protección de datos personales
+### Protección de datos personales
 
 * Finalidad y legitimación:
 
