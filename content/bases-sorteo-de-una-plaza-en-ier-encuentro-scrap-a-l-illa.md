@@ -24,7 +24,7 @@ Quien desee participar deberá:
 
 \- Ingresar 30€, que aproximadamente es el 20% del precio final del evento, en la cuenta bancaria ES38 0073 0100 5606 3145 9104, indicando en el concepto “Reserva Scrapal’illa 2020”.
 
-\- Enviar el justificante de ingreso al correo electrónico [scrapalilla@gmail.com](mailto:scrapalilla@gmail.com "correo"), indicando tu nombre, apellidos y la cuenta de instagram a la que pertenece. Se confirmará la participación en el sorteo con un correo.
+\- Enviar el justificante de ingreso al correo electrónico [scrapalilla@gmail.com](mailto:scrapalilla@gmail.com "correo"), indicando tu nombre, apellidos, población y la cuenta de instagram a la que pertenece. Se confirmará la participación en el sorteo con un correo.
 
 ### Premio
 
