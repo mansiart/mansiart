@@ -18,7 +18,7 @@ Quien desee participar deberá:
 
 \- Dar like a la publicación del sorteo de @scrapalilla en Instagram.
 
-\- Comentar en la publicación del sorteo etiquetando algún amig@ (Quedan excluidas las cuentas de sorteos y famosos).
+\- Comentar en la publicación del sorteo etiquetando algún amig@. (Quedan excluidas las cuentas de sorteos y famosos).
 
 \- Publicar en stories el sorteo con el hashtag **#sorteoscrapalilla2020** y etiquetarnos (@scrapalilla). Si tienes el perfil privado, recuerda enviarnos una captura de pantalla del stories compartido.
 
