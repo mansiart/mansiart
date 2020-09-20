@@ -8,7 +8,7 @@ title = "Bases sorteo de una plaza en Ier encuentro Scrap a l’Illa"
 +++
 ### Plazo y modo de participar
 
-El plazo para participar es desde el día de su publicación hasta el 13 de octubre (a las 23:59 hora peninsular), ambos incluidos.
+El plazo para participar es desde el día de su publicación, el 20 de septiembre, hasta el 13 de octubre (a las 23:59 hora peninsular), ambos incluidos.
 
 Quien desee participar deberá:
 
@@ -50,9 +50,9 @@ Se sortea un único premio que consiste en:
 
 \- Las reservas que no hayan entrado en el sorteo por no cumplir las condiciones, pasarán al final de la lista de reservas o de la lista de espera por estricta fecha de ingreso de la reserva.
 
-\- Si después del sorteo se solicita la devolución de la reserva, ésta solamente se hará efectiva siempre y cuando se disponga de lista de espera para cubrir la vacante. En el caso de que la devolución la solicite la persona que está en lista de espera se le efectuará la devolución sin más requerimientos.
+\- Si después del sorteo se solicita la devolución de la reserva, ésta solamente se hará efectiva siempre y cuando se disponga de lista de espera para cubrir la vacante.
 
-\- Se podrá solicitar la devolución hasta (tiempo) antes de la realización del evento.
+\- Se podrá solicitar la devolución hasta el 23 de octubre incluido.
 
 \- Si no se reclama la devolución en estos días o si se reclama pero su plaza no puede ser ocupada por otra persona, no se efectuará la devolución.
 
