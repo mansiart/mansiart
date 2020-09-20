@@ -56,8 +56,7 @@ Se sortea un único premio que consiste en:
 
 \- Si no se reclama la devolución en estos días o si se reclama pero su plaza no puede ser ocupada por otra persona, no se efectuará la devolución.
 
-###   
-Protección de datos personales
+### Protección de datos personales
 
 * Finalidad y legitimación:
 
@@ -77,8 +76,8 @@ Una vez finalizado el evento, tus datos no serán tratados.
 
 ### Aceptación de las bases y responsabilidad
 
- 1. El mero hecho de participar en el Sorteo implica la aceptación íntegra de las presentes Bases.  
- 2. Mans & Art se reserva el derecho a modificar las Bases del Sorteo, parcial o totalmente en cualquier momento. Asimismo, se reserva también el derecho de anularlo o dejar el premio desierto en caso de detectarse alguna irregularidad. Realizada cualquier modificación, ésta será debidamente puesta en conocimiento de los participantes en la página Web de Mans & Art.  
- 3. Mans & Art se reserva el derecho de excluir de la participación en el Sorteo a todos aquellos participantes que, estime, están incumpliendo cualquier condición de participación incluida en las presentes Bases. La exclusión de un participante, cualquiera que sea la causa, conlleva la pérdida de todos los derechos derivados de su condición como tal.  
- 4. Cualquier utilización abusiva o fraudulenta de estas Bases dará lugar a la consiguiente descalificación del participante en el Sorteo.  
- 5. Mans & Art queda eximido de cualquier responsabilidad en el supuesto de existir algún error en los datos facilitados en su caso por los propios agraciados que impidiera su identificación.
+1. El mero hecho de participar en el Sorteo implica la aceptación íntegra de las presentes Bases.
+2. Mans & Art se reserva el derecho a modificar las Bases del Sorteo, parcial o totalmente en cualquier momento. Asimismo, se reserva también el derecho de anularlo o dejar el premio desierto en caso de detectarse alguna irregularidad. Realizada cualquier modificación, ésta será debidamente puesta en conocimiento de los participantes en la página Web de Mans & Art.
+3. Mans & Art se reserva el derecho de excluir de la participación en el Sorteo a todos aquellos participantes que, estime, están incumpliendo cualquier condición de participación incluida en las presentes Bases. La exclusión de un participante, cualquiera que sea la causa, conlleva la pérdida de todos los derechos derivados de su condición como tal.
+4. Cualquier utilización abusiva o fraudulenta de estas Bases dará lugar a la consiguiente descalificación del participante en el Sorteo.
+5. Mans & Art queda eximido de cualquier responsabilidad en el supuesto de existir algún error en los datos facilitados en su caso por los propios agraciados que impidiera su identificación.
