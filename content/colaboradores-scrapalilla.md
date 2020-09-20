@@ -255,7 +255,7 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/lamardewashitapes-2020-09-20.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">La Mar de Washi Tapes es un sitio web de comercio electrónico. Tiene los washitapes mas molones y cientos de boniteces. Conócelos en su <a href="https://www.lamardewashitapes.es/">web</a>.</span></div>
+<div class="3u"><span class="image fit">La Mar de Washi Tapes es un sitio <a href="https://www.lamardewashitapes.es/">web</a> de comercio electrónico. Tiene los washitapes mas molones y cientos de boniteces. ¡Descúbrelos! .</span></div>
 
 <!--
 
