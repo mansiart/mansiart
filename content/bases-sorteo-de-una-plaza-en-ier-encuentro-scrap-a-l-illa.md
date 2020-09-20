@@ -32,7 +32,7 @@ Se sortea un único premio que consiste en:
 
 \- Una plaza al Ier encuentro de Scrap a l’Illa.
 
-\- Si además, el ganador, es socio de Mans & Art, se devuelve el importe de la reserva. De otro modo, la asistencia al evento sale por el importe de la reserva.
+\- Si además, el ganador es socio de Mans & Art, se devuelve el importe de la reserva. De otro modo, la asistencia al evento sale por el importe de la reserva.
 
 \- El premio es intransferible y no se podrá canjear por dinero.
 
