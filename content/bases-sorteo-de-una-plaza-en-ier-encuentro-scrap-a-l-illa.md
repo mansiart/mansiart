@@ -8,7 +8,7 @@ title = "Bases sorteo de una plaza en Ier encuentro Scrap a l’Illa"
 +++
 ### Plazo y modo de participar
 
-El plazo para participar es desde el día de su publicación, el 20 de septiembre, hasta el 13 de octubre (a las 23:59 hora peninsular), ambos incluidos.
+El plazo para participar es desde el día de su publicación, el 20 de septiembre, hasta el 13 de octubre (a las 23:59h. hora peninsular), ambos incluidos.
 
 Quien desee participar deberá:
 
