@@ -81,7 +81,7 @@ summaryLength = 20
       url = "busca-tiendas-cercanas"
       
       [[params.navigation.links]]
-      name = "Concurso Scrap a l'Illa"
+      name = "Sorteo Scrap a l'Illa"
       url = "bases-sorteo-de-una-plaza-en-ier-encuentro-scrap-a-l-illa"
       
       [[params.navigation.links]]
