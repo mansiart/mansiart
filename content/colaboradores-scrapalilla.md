@@ -247,7 +247,21 @@ iA disfrutar!  </span></div>
 
 <div class="3u$"><span class="image fit"><a href="https://petitcuky.com/">Tienda</a> de diseño creativo y de productos personalizados, la cual se basa en dar armonía y elegancia a todo lo relacionado en el mundo planner, bulletjournal y art-book.</span></div>
 
-<!-------------------------------------LA MAR DE WASHITAPE + -------------------------->
+<!-------------------------------LA MAR DE WASHITAPE + ES FERRERET---------------------->
+
+<div class="row">
+
+<div class="row 50% uniform">
+
+<div class="3u"><span><img src="/uploads/lamardewashitapes-2020-09-20.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">La Mar de Washi Tapes es un sitio <a href="https://www.lamardewashitapes.es/">web</a> de comercio electrónico. Tiene los washitapes mas molones y cientos de boniteces. ¡Descúbrelos! .</span></div>
+
+<div class="3u"><span><img src="/uploads/esferreret-2020-09-16.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto artículos de papelería. Puedes encontrarlos en la calle Torcuato Luca de Tena, 37 de Palma.</span></div>
+
+<!-------------------------------ANSKUKU + ---------------------->
 
 <div class="row">
 
@@ -259,9 +273,9 @@ iA disfrutar!  </span></div>
 
 <!--
 
-<div class="3u"><span><img src="/uploads/petitcuky-2020-09-17.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/esferreret-2020-09-16.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit"><a href="https://petitcuky.com/">Tienda</a> de diseño creativo y de productos personalizados, la cual se basa en dar armonía y elegancia a todo lo relacionado en el mundo planner, bulletjournal y art-book.</span></div>
+<div class="3u$"><span class="image fit">Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto artículos de papelería. Puedes encontrarlos en la calle Torcuato Luca de Tena, 37 de Palma.</span></div>
 
 \-->
 
