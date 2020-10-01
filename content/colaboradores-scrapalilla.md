@@ -267,9 +267,9 @@ iA disfrutar!  </span></div>
 
 <div class="row 50% uniform">
 
-<div class="3u"><span><img src="/uploads/lamardewashitapes-2020-09-20.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/anskuku-2020-10-01.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">La Mar de Washi Tapes es un sitio <a href="https://www.lamardewashitapes.es/">web</a> de comercio electrónico. Tiene los washitapes mas molones y cientos de boniteces. ¡Descúbrelos! .</span></div>
+<div class="3u"><span class="image fit">En Anskuku podrás encontrar protectores de tela para tus libros y e-readers personalizados. También tienes otros productos personalizables con las telas disponibles, como mascarillas, fundas para tazas, bolsos, marcapáginas...Descubre todo lo que tiene para ti en su <a href="http://anskuku.com/">web</a> o en su <a href="https://www.instagram.com/anskuku.diy/">instagram</a>.</span></div>
 
 <!--
 
