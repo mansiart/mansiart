@@ -24,7 +24,15 @@ Conoce a nuestros colaboradores
 
 <div class="6u$ 12u$(small)">
 
-<a href="https://scrapealo.es/">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.
+<a href="https://valdesoiro.es/">Valdesoiro</a>es una artesana de crochet y costura que realiza trabajos a máquina y a mano, para tí y para regalar. También te enseña a hacerlo tú mismo. <br/>Estas son las ventajas para los socios de Mans&Art:
+
+<ul>
+
+<li>Descuento del 5% en telas</li>
+
+<li>La primera clase de costura gratuita</li>
+
+</ul>
 
 </div>
 
