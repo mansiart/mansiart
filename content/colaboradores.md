@@ -18,7 +18,7 @@ Conoce a nuestros colaboradores
 
 <div class="6u 12u$(small)">
 
-<span><img src="/uploads/valdesoiro-2020-10-16.png" alt="" /></span>
+<span><img src="/uploads/valdesoiro-2020-10-16.jpg" alt="" /></span>
 
 </div>
 
