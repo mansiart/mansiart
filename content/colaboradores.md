@@ -12,6 +12,26 @@ Conoce a nuestros colaboradores
 
 {{< rawhtml >}}
 
+<!----------------Para logo grande. izquierda imagen, derecha texto Scrapealo--------------------->
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<span><img src="/uploads/scrapealo-2020-09-05.png" alt="" /></span>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+<a href="https://scrapealo.es/">scrapealo.es</a> Tienda online donde puedes encontrar, entre otras cosas, la Scrapéalo Box, suscripción mensual de cajas con contenido escrapero sorpresa.
+
+</div>
+
+</div>
+
+<!-----------------------------------FIN logo grande------------------------------------------->
+
 <div class="box alt">
 
 <div class="row 50% uniform">
