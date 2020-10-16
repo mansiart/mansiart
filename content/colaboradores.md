@@ -24,7 +24,7 @@ Conoce a nuestros colaboradores
 
 <div class="6u$ 12u$(small)">
 
-<a href="https://valdesoiro.es/">Valdesoiro</a>es una artesana de crochet y costura que realiza trabajos a máquina y a mano, para tí y para regalar. También te enseña a hacerlo tú mismo. <br/>Estas son las ventajas para los socios de Mans&Art:
+<a href="https://valdesoiro.es/">Valdesoiro</a> es una artesana de crochet y costura que realiza trabajos a máquina y a mano, para tí y para regalar. También te enseña a hacerlo tú mismo. <br/>Estas son las ventajas para los socios de Mans&Art:
 
 <ul>
 
