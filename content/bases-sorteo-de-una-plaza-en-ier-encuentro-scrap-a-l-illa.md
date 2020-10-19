@@ -8,7 +8,7 @@ title = "Bases sorteo de una plaza en Ier encuentro Scrap a l’Illa"
 +++
 ### Plazo y modo de participar
 
-El plazo para participar es desde el día de su publicación, el 20 de septiembre, hasta el 13 de octubre (a las 23:59h. hora peninsular), ambos incluidos.
+El plazo para participar es desde el día de su publicación, el 17 de octubre, hasta el 29 de octubre (a las 23:59h. hora peninsular), ambos incluidos.
 
 Quien desee participar deberá:
 
@@ -22,9 +22,9 @@ Quien desee participar deberá:
 
 \- Publicar en stories el sorteo con el hashtag **#sorteoscrapalilla2020** y etiquetarnos (@scrapalilla). Si tienes el perfil privado, recuerda enviarnos una captura de pantalla del stories compartido.
 
-\- Ingresar 30€, que aproximadamente es el 20% del precio final del evento, en la cuenta bancaria ES38 0073 0100 5606 3145 9104, indicando en el concepto “Reserva Scrapal’illa 2020”.
+\- Ingresar 30€ en la cuenta bancaria ES38 0073 0100 5606 3145 9104, indicando en el concepto “Reserva Scrapal’illa 2020”.
 
-\- Enviar el justificante de ingreso al correo electrónico [scrapalilla@gmail.com](mailto:scrapalilla@gmail.com "correo"), indicando tu nombre, apellidos, población y la cuenta de instagram a la que pertenece. Se confirmará la participación en el sorteo con un correo.
+\- Enviar el justificante de ingreso al correo electrónico [scrapalilla@gmail.com](mailto:scrapalilla@gmail.com "correo"), indicando tu nombre, apellidos, población y la cuenta de Instagram a la que pertenece. Se confirmará la participación en el sorteo con un correo.
 
 ### Premio
 
@@ -38,7 +38,7 @@ Se sortea un único premio que consiste en:
 
 ### Sorteo
 
-\- El Sorteo se realizará el 17 de octubre, con una aplicación de sorteos.
+\- El Sorteo se realizará el 31 de octubre, con una aplicación de sorteos.
 
 \- Se comprobará que el ganador cumpla con todas las condiciones del sorteo y que estén vigentes el día del sorteo. Si el ganador del sorteo no cumple alguna condición o renuncia al premio, se efectuará de nuevo el sorteo hasta encontrar un ganador.
 
@@ -52,7 +52,7 @@ Se sortea un único premio que consiste en:
 
 \- Si después del sorteo se solicita la devolución de la reserva, ésta solamente se hará efectiva siempre y cuando se disponga de lista de espera para cubrir la vacante.
 
-\- Se podrá solicitar la devolución hasta el 23 de octubre incluido.
+\- Se podrá solicitar la devolución hasta el 7 de noviembre incluido.
 
 \- Si no se reclama la devolución en estos días o si se reclama pero su plaza no puede ser ocupada por otra persona, no se efectuará la devolución.
 
