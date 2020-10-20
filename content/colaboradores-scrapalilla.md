@@ -273,6 +273,20 @@ iA disfrutar!  </span></div>
 
 <div class="3u$"><span class="image fit">Artista local y miembro del equipo de diseño de Laura Cinder y El desvan de Esther. Pásate por su cuenta de <a href="https://www.instagram.com/passionart_bycarol/">instagram</a> para conocer los trabajos tan bonitos que realiza con mucha pasion</span></div>
 
+<!-------------------------------TROQUELANDO + HUELLA LAURA ---------------------->
+
+<div class="row">
+
+<div class="row 50% uniform">
+
+<div class="3u"><span><img src="/uploads/anskuku-2020-10-01.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
+
+<div class="3u"><span><img src="/uploads/passionart-2020-10-20.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Artista local y miembro del equipo de diseño de Laura Cinder y El desvan de Esther. Pásate por su cuenta de <a href="https://www.instagram.com/passionart_bycarol/">instagram</a> para conocer los trabajos tan bonitos que realiza con mucha pasion</span></div>
+
 </div><!--ROW 50 UNIFORM-->
 
 </div><!--ROW-->
