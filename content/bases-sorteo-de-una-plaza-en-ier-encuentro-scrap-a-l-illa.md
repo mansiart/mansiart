@@ -20,7 +20,7 @@ Quien desee participar deberá:
 
 \- Comentar en la publicación del sorteo etiquetando algún amig@. (Quedan excluidas las cuentas de sorteos y famosos).
 
-\- Publicar en stories el sorteo con el hashtag **#sorteoscrapalilla2020** y etiquetarnos (@scrapalilla). Si tienes el perfil privado, recuerda enviarnos una captura de pantalla del stories compartido.
+\- Publicar en un post el sorteo con el hashtag **#sorteoscrapalilla2020** y etiquetarnos (@scrapalilla). Si tienes el perfil privado, recuerda hacerlo público para que podamos comprobarlo.
 
 \- Ingresar 30€ en la cuenta bancaria ES38 0073 0100 5606 3145 9104, indicando en el concepto “Reserva Scrapal’illa 2020”.
 
