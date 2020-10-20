@@ -84,7 +84,7 @@ En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoc
 
 ![](/uploads/117920257_356684985500009_7411904159935708540_n-2020-10-20.jpg)   El I encuentro Scrapal'illa será en el [Hotel Marina Portals](https://www.hotelmarinaportals.com/es) de 4*. Un precioso hotel ubicado en Portals Nous (costa de Calvià), donde entre talleres podremos disfrutar de sus jardines, terrazas y vistas a la bahía. Todo pensado para que además de divertirte creando, te relajes y disfrutes aún más de esta experiencia.
 
-![](/uploads/117726542_611894692847979_2919382916457674732_n-1-2020-10-20.jpg)![](/uploads/118117798_226444265361587_4701201538243687867_n-2020-10-20.jpg)![](/uploads/118693879_2589408217988975_2039656387498527521_n-2020-10-20.jpg)![](/uploads/87820472_194631638530892_9089760560921315984_n-2020-10-20.jpg)
+![](/uploads/117726542_611894692847979_2919382916457674732_n-1-2020-10-20.jpg)![](/uploads/118117798_226444265361587_4701201538243687867_n-2020-10-20.jpg)![](/uploads/118693879_2589408217988975_2039656387498527521_n-2020-10-20.jpg)![](/uploads/87820472_194631638530892_9089760560921315984_n-2020-10-20.jpg)![](/uploads/95664994_272903300546827_2386494825276256300_n-2020-10-20.jpg)
 
 ## Acción solidaria
 
