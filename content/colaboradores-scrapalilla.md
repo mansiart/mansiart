@@ -295,7 +295,7 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/modasyaya-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerseys, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/"instagram</a>.</span></div>
 
 <!--
 
