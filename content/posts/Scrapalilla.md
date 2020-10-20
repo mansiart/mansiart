@@ -26,7 +26,7 @@ Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. Y la noche d
 
 ## ¿Cuándo será el I encuentro Scrapal'illa?
 
-Será un fin de semana que os desvelaremos más adelante. Pero será muy especial, así que no te lo puedes perder.
+Será el fin de semana del **21 y 22 de noviembre**. Y será muy especial, así que no te lo puedes perder.
 
 ## Talleres
 
@@ -82,7 +82,7 @@ En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoc
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
-Te lo desvelaremos en su momento.
+El I encuentro Scrapal'illa será en el [Hotel Marina Portals](https://www.hotelmarinaportals.com/es) de 4*. Un precioso hotel ubicado en Portals Nous (costa de Calvià), donde entre talleres podremos disfrutar de sus jardines, terrazas y vistas a la bahía. Todo pensado para que además de divertirte creando, te relajes y disfrutes aún más de esta experiencia.
 
 ## Acción solidaria
 
