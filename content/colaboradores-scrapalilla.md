@@ -279,13 +279,13 @@ iA disfrutar!  </span></div>
 
 <div class="row 50% uniform">
 
-<div class="3u"><span><img src="/uploads/anskuku-2020-10-01.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/troquelando-2020-10-20.png" alt="" /></span></div>
 
 <div class="3u"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
 
-<div class="3u"><span><img src="/uploads/passionart-2020-10-20.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/lahuelladelaura-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Artista local y miembro del equipo de diseño de Laura Cinder y El desvan de Esther. Pásate por su cuenta de <a href="https://www.instagram.com/passionart_bycarol/">instagram</a> para conocer los trabajos tan bonitos que realiza con mucha pasion</span></div>
+<div class="3u$"><span class="image fit">Artista local, diseñadora gráfica, ilustración, lettering. Conocimientos que combina para crear trabajos muy cuidados y únicos. Puedes contactar con ella y conocer su maravillo trabajo a través de <a href="https://www.instagram.com/lahuelladelaura/">instagram</a>.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
