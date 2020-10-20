@@ -287,6 +287,24 @@ iA disfrutar!  </span></div>
 
 <div class="3u$"><span class="image fit">Artista local, diseñadora gráfica, ilustración, lettering. Conocimientos que combina para crear trabajos muy cuidados y únicos. Puedes contactar con ella y conocer su maravillo trabajo a través de <a href="https://www.instagram.com/lahuelladelaura/">instagram</a>.</span></div>
 
+<!-------------------------------MODAS YAYA +  ---------------------->
+
+<div class="row">
+
+<div class="row 50% uniform">
+
+<div class="3u"><span><img src="/uploads/modasyaya-2020-10-20.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
+
+<!--
+
+<div class="3u"><span><img src="/uploads/lahuelladelaura-2020-10-20.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerseys, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/">instagram</a>.</span></div>
+
+\-->
+
 </div><!--ROW 50 UNIFORM-->
 
 </div><!--ROW-->
