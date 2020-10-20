@@ -52,7 +52,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 <!--Prueba Marga-->
 
-<!----------------Para logo grande. izquierda imagen, derecha texto Scrapealo--------------------->
+<!--------Para logo grande. izquierda imagen, derecha texto Scrapealo--------------------->
 
 <div class="row">
 
@@ -71,8 +71,6 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 </div>
 
 <!-----------------------------------FIN logo grande------------------------------------------->
-
-<!------------------------------------------------------------------------------------------------>
 
 <!---------------Disposición clásica: 2 logos con su descripción---------------------------->
 
@@ -106,7 +104,7 @@ Conoce a los colaboradores que participaran con nosotros en hacer de Scrapal'ill
 
 </div><!--ROW-->
 
-<!--------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------->
 
 <!--INICIO BASIC CREA + SONRISAS DE PAPEL-->
 
@@ -255,13 +253,13 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/lamardewashitapes-2020-09-20.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">La Mar de Washi Tapes es un sitio <a href="https://www.lamardewashitapes.es/">web</a> de comercio electrónico. Tiene los washitapes mas molones y cientos de boniteces. ¡Descúbrelos! .</span></div>
+<div class="3u"><span class="image fit">La Mar de Washi Tapes es un sitio <a href="https://www.lamardewashitapes.es/">web</a> de comercio electrónico. Tiene los washitapes mas molones y cientos de boniteces. ¡Descúbrelos!</span></div>
 
 <div class="3u"><span><img src="/uploads/esferreret-2020-09-16.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto artículos de papelería. Puedes encontrarlos en la calle Torcuato Luca de Tena, 37 de Palma.</span></div>
 
-<!-------------------------------ANSKUKU + ---------------------->
+<!-------------------------------ANSKUKU + PASSION ART---------------------->
 
 <div class="row">
 
@@ -271,13 +269,9 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span class="image fit">En Anskuku podrás encontrar protectores de tela para tus libros y e-readers personalizados. También tienes otros productos personalizables con las telas disponibles, como mascarillas, fundas para tazas, bolsos, marcapáginas...Descubre todo lo que tiene para ti en su <a href="http://anskuku.com/">web</a> o en su <a href="https://www.instagram.com/anskuku.diy/">instagram</a>.</span></div>
 
-<!--
+<div class="3u"><span><img src="/uploads/passionart-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u"><span><img src="/uploads/esferreret-2020-09-16.png" alt="" /></span></div>
-
-<div class="3u$"><span class="image fit">Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto artículos de papelería. Puedes encontrarlos en la calle Torcuato Luca de Tena, 37 de Palma.</span></div>
-
-\-->
+<div class="3u$"><span class="image fit">Artista local y miembro del equipo de diseño de Laura Cinder y El desvan de Esther. Pásate por su cuenta de <a href="https://www.instagram.com/passionart_bycarol/">instagram</a> para conocer los trabajos tan bonitos que realiza con mucha pasion</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
