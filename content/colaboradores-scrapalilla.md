@@ -287,7 +287,7 @@ iA disfrutar!  </span></div>
 
 <div class="3u$"><span class="image fit">Artista local, diseñadora gráfica, ilustración, lettering. Conocimientos que combina para crear trabajos muy cuidados y únicos. Puedes contactar con ella y conocer su maravillo trabajo a través de <a href="https://www.instagram.com/lahuelladelaura/">instagram</a>.</span></div>
 
-<!-------------------------------MODAS YAYA +  ---------------------->
+<!-------------------------------MODAS YAYA + Karina Cappato ---------------------->
 
 <div class="row">
 
@@ -295,15 +295,11 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/modasyaya-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerseys, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/"instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerseys, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/">Instagram</a>.</span></div>
 
-<!--
+<div class="3u"><span><img src="/uploads/karinacapatto-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u"><span><img src="/uploads/lahuelladelaura-2020-10-20.png" alt="" /></span></div>
-
-<div class="3u$"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerseys, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/">instagram</a>.</span></div>
-
-\-->
+<div class="3u$"><span class="image fit">Descubre las maravillas que hace Karina Cappato. Pinta, decora y transforma objetos. Visita su <a href="https://www.instagram.com/karina_cappato/?hl=es/">Instagram</a>.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
