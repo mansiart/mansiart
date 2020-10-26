@@ -42,6 +42,8 @@ Conoce a nuestros colaboradores
 
 <!----------------Para logo grande. izquierda imagen, derecha texto Somniart--------------------->
 
+<br/>
+
 <div class="row">
 
 <div class="6u 12u$(small)">
