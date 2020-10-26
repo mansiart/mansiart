@@ -46,7 +46,7 @@ Conoce a nuestros colaboradores
 
 <div class="6u 12u$(small)">
 
-<span><img src="/uploads/valdesoiro2-2020-10-16.jpg" alt="" /></span>
+<span><img src="/uploads/somniart-2020-10-26.jpg" alt="" /></span>
 
 </div>
 
