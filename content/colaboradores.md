@@ -46,13 +46,13 @@ Conoce a nuestros colaboradores
 
 <div class="6u 12u$(small)">
 
-<span><img src="/uploads/somniart-2020-10-26.jpg" alt="" /></span>
+<span><img src="/uploads/somniart-2020-10-26.png" alt="" /></span>
 
 </div>
 
 <div class="6u$ 12u$(small)">
 
-<a href="https://www.somniartpalma.com/">Somniart</a> es una tienda de productos para Scrapbooking y Mixed Media. También se imparten talleres y puedes ir al talle a desarrollar tus proyectos.<br/>Nos ofrece estas ventajas para los socios de Mans&Art:
+<a href="https://www.somniartpalma.com/">Somniart</a> es una tienda de productos para Scrapbooking y Mixed Media. También se imparten talleres y puedes ir al taller a desarrollar tus proyectos.<br/>Nos ofrece estas ventajas para los socios de Mans&Art:
 
 <ul>
 
