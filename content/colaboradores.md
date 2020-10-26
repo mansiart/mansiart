@@ -12,7 +12,7 @@ Conoce a nuestros colaboradores
 
 {{< rawhtml >}}
 
-<!----------------Para logo grande. izquierda imagen, derecha texto Scrapealo--------------------->
+<!----------------Para logo grande. izquierda imagen, derecha texto Valdesoiro--------------------->
 
 <div class="row">
 
@@ -40,34 +40,32 @@ Conoce a nuestros colaboradores
 
 <!-----------------------------------FIN logo grande------------------------------------------->
 
-<!--<div class="box alt">
+<!----------------Para logo grande. izquierda imagen, derecha texto Somniart--------------------->
 
-<div class="row 50% uniform">
+<div class="row">
 
-<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
+<div class="6u 12u$(small)">
 
-<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
-
-<div class="4u$"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>-->
-
-<!-- Break -->
-
-<!--<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
-
-<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
-
-<div class="4u$"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>-->
-
-<!-- Break -->
-
-<!--<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
-
-<div class="4u"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
-
-<div class="4u$"><span class="image fit"><img src="/uploads/pic08-2020-08-03.jpg" alt="" /></span></div>
+<span><img src="/uploads/valdesoiro2-2020-10-16.jpg" alt="" /></span>
 
 </div>
 
-</div>-->
+<div class="6u$ 12u$(small)">
+
+<a href="https://www.somniartpalma.com/">Somniart</a> es una tienda de productos para Scrapbooking y Mixed Media. También se imparten talleres y puedes ir al talle a desarrollar tus proyectos.<br/>Nos ofrece estas ventajas para los socios de Mans&Art:
+
+<ul>
+
+<li>Descuento del 10% en la tienda</li>
+
+<li>Una sesión de taller gratuita</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<!-----------------------------------FIN logo grande------------------------------------------->
 
 {{< /rawhtml >}}
