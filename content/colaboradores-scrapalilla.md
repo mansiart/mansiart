@@ -271,7 +271,7 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/anskuku-2020-10-01.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">En Anskuku podrás encontrar protectores de tela para tus libros y e-readers personalizados. También tienes otros productos personalizables con las telas disponibles, como mascarillas, fundas para tazas, bolsos, marcapáginas...Descubre todo lo que tiene para ti en su <a href="http://anskuku.com/">web</a> o en su <a href="https://www.instagram.com/anskuku.diy/">instagram</a>.</span></div>
+<div class="3u$"><span class="image fit">En Anskuku podrás encontrar protectores de tela para tus libros y e-readers personalizados. También tienes otros productos personalizables con las telas disponibles, como mascarillas, fundas para tazas, bolsos, marcapáginas...Descubre todo lo que tiene para ti en su <a href="http://anskuku.com/">web</a> o en su <a href="https://www.instagram.com/anskuku.diy/">instagram</a>.</span></div>
 
 <!-------------------------------PASSION ART + CAJA DE   ---------------------->
 
@@ -281,13 +281,13 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/passionart-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Artista local y miembro del equipo de diseño de Laura Cinder y El desvan de Esther. Pásate por su cuenta de <a href="https://www.instagram.com/passionart_bycarol/">instagram</a> para conocer los trabajos tan bonitos que realiza con mucha pasion</span></div>
+<div class="3u"><span class="image fit">Artista local y miembro del equipo de diseño de Laura Cinder y El desvan de Esther. Pásate por su cuenta de <a href="https://www.instagram.com/passionart_bycarol/">instagram</a> para conocer los trabajos tan bonitos que realiza con mucha pasion</span></div>
 
-<div class="3u"><span><img src="/uploads/troquelando-2020-10-20.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/cajade-2020-10-27.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
+<div class="3u$"><span class="image fit">Subscripción mensual con la que recibes una caja sorpresa cada mes repleta de material creativo y una propuesta de proyecto. ¡Atrévete a experimentar y acepta el reto!. Conócelos en su <a href="https://www.cajade.es/">web</a> o en su <a href="https://www.instagram.com/cajade.es/">instagram</a>.</span></div>
 
-<!-------------------------------TROQUELANDO + HUELLA LAURA + MODAS YAYA ---------------------->
+<!-------------------------------TROQUELANDO + HUELLA LAURA  ---------------------->
 
 <div class="row">
 
@@ -295,11 +295,13 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/troquelando-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/lahuelladelaura-2020-10-20.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Artista local, diseñadora gráfica, ilustración, lettering. Conocimientos que combina para crear trabajos muy cuidados y únicos. Puedes contactar con ella y conocer su maravillo trabajo a través de <a href="https://www.instagram.com/lahuelladelaura/">instagram</a>.</span></div>
+
+<!-------------------------------MODAS YAYA ---------------------->
 
 <div class="row">
 
@@ -307,7 +309,7 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/modasyaya-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerseys, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/">Instagram</a>.</span></div>
+<div class="3u"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerséis, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/">Instagram</a>.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
