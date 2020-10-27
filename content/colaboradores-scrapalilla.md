@@ -245,7 +245,7 @@ iA disfrutar!  </span></div>
 
 <div class="3u$"><span class="image fit"><a href="https://petitcuky.com/">Tienda</a> de diseño creativo y de productos personalizados, la cual se basa en dar armonía y elegancia a todo lo relacionado en el mundo planner, bulletjournal y art-book.</span></div>
 
-<!-------------------------------LA MAR DE WASHITAPE + ES FERRERET---------------------->
+<!-------------------------------LA MAR DE WASHITAPE + Karina Cappato ------------------>
 
 <div class="row">
 
@@ -255,25 +255,39 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span class="image fit">La Mar de Washi Tapes es un sitio <a href="https://www.lamardewashitapes.es/">web</a> de comercio electrónico. Tiene los washitapes mas molones y cientos de boniteces. ¡Descúbrelos!</span></div>
 
-<div class="3u"><span><img src="/uploads/esferreret-2020-09-16.png" alt="" /></span></div>
+<div class="3u"><span><img src="/uploads/karinacapatto-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u$"><span class="image fit">Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto artículos de papelería. Puedes encontrarlos en la calle Torcuato Luca de Tena, 37 de Palma.</span></div>
+<div class="3u$"><span class="image fit">Descubre las maravillas que hace Karina Cappato. Pinta, decora y transforma objetos. Visita su <a href="https://www.instagram.com/karina_cappato/?hl=es/">Instagram</a>.</span></div>
 
-<!-------------------------------ANSKUKU + PASSION ART---------------------->
+<!-------------------------------ES FERRERET + ANSKUKU ------------------------------------>
 
 <div class="row">
 
 <div class="row 50% uniform">
 
+<div class="3u"><span><img src="/uploads/esferreret-2020-09-16.png" alt="" /></span></div>
+
+<div class="3u"><span class="image fit">Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto artículos de papelería. Puedes encontrarlos en la calle Torcuato Luca de Tena, 37 de Palma.</span></div>
+
 <div class="3u"><span><img src="/uploads/anskuku-2020-10-01.png" alt="" /></span></div>
 
 <div class="3u"><span class="image fit">En Anskuku podrás encontrar protectores de tela para tus libros y e-readers personalizados. También tienes otros productos personalizables con las telas disponibles, como mascarillas, fundas para tazas, bolsos, marcapáginas...Descubre todo lo que tiene para ti en su <a href="http://anskuku.com/">web</a> o en su <a href="https://www.instagram.com/anskuku.diy/">instagram</a>.</span></div>
+
+<!-------------------------------PASSION ART + CAJA DE   ---------------------->
+
+<div class="row">
+
+<div class="row 50% uniform">
 
 <div class="3u"><span><img src="/uploads/passionart-2020-10-20.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Artista local y miembro del equipo de diseño de Laura Cinder y El desvan de Esther. Pásate por su cuenta de <a href="https://www.instagram.com/passionart_bycarol/">instagram</a> para conocer los trabajos tan bonitos que realiza con mucha pasion</span></div>
 
-<!-------------------------------TROQUELANDO + HUELLA LAURA ---------------------->
+<div class="3u"><span><img src="/uploads/troquelando-2020-10-20.png" alt="" /></span></div>
+
+<div class="3u$"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
+
+<!-------------------------------TROQUELANDO + HUELLA LAURA + MODAS YAYA ---------------------->
 
 <div class="row">
 
@@ -281,13 +295,11 @@ iA disfrutar!  </span></div>
 
 <div class="3u"><span><img src="/uploads/troquelando-2020-10-20.png" alt="" /></span></div>
 
-<div class="3u"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
+<div class="3u$"><span class="image fit">Herramientas muy útiles para encuadernar y proyectos de scrap. Y también detallitos preciosos para dar a tu trabajo un toque personal...Descubre todo lo que tiene para ti en su <a href="http://troquelando.com/">web</a> o en su <a href="https://www.instagram.com/troquelando/">instagram</a>.</span></div>
 
 <div class="3u"><span><img src="/uploads/lahuelladelaura-2020-10-20.png" alt="" /></span></div>
 
 <div class="3u$"><span class="image fit">Artista local, diseñadora gráfica, ilustración, lettering. Conocimientos que combina para crear trabajos muy cuidados y únicos. Puedes contactar con ella y conocer su maravillo trabajo a través de <a href="https://www.instagram.com/lahuelladelaura/">instagram</a>.</span></div>
-
-<!-------------------------------MODAS YAYA + Karina Cappato ---------------------->
 
 <div class="row">
 
@@ -296,10 +308,6 @@ iA disfrutar!  </span></div>
 <div class="3u"><span><img src="/uploads/modasyaya-2020-10-20.png" alt="" /></span></div>
 
 <div class="3u"><span class="image fit">Artista local que realiza trabajos en ganchillo y dos agujas: jerseys, faldas, complementos, accesorios de moda y decoración para el hogar. Conócela en <a href="https://www.instagram.com/modas_yaya/">Instagram</a>.</span></div>
-
-<div class="3u"><span><img src="/uploads/karinacapatto-2020-10-20.png" alt="" /></span></div>
-
-<div class="3u$"><span class="image fit">Descubre las maravillas que hace Karina Cappato. Pinta, decora y transforma objetos. Visita su <a href="https://www.instagram.com/karina_cappato/?hl=es/">Instagram</a>.</span></div>
 
 </div><!--ROW 50 UNIFORM-->
 
