@@ -32,6 +32,28 @@ Será el fin de semana del **21 y 22 de noviembre**. Y será muy especial, así 
 
 Durante este fin de semana realizaremos dos talleres.
 
+#### Taller de Scrapbooking
+
+{{< rawhtml >}}
+
+<div>
+
+<span style="display: inline-block;width: 20%; padding-bottom: 2.25em"><img src="/uploads/proyectoscrap-2020-10-29.png"></span>
+
+<span style="display: inline-block;vertical-align: top;width: 75%;">El sábado realizaremos este precioso proyecto compuesto por un mini álbum y una caja en la que guardarlo. Un trabajo de cartonaje y scrap lleno de sueños y dedtalles.</span>
+
+</div>
+
+<div>
+
+<span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Konxi, scrapera a la que le encanta montar un álbúm desde cero: estructuras, decoración y toques personales. También la papelería creativa. Puedes conocerla en sus redes sociales como Konxi Scrap (<a href="[https://www.instagram.com/konxi.scrap/](https://www.instagram.com/konxi.scrap/ "https://www.instagram.com/konxi.scrap/")">@konxi.scrap</a>), o con su nueva faceta Toppercreaciones (<a href="[https://www.instagram.com/toppercreaciones/](https://www.instagram.com/toppercreaciones/ "https://www.instagram.com/toppercreaciones/")">@toppercreaciones.</a>)</span>
+
+<span style="display: inline-block; width: 20%; text-align: right; padding-bottom: 2.25em"><img src="/uploads/konxi-2020-09-14.png"></span>
+
+</div>
+
+{{< /rawhtml >}}
+
 #### Taller de MixMedia
 
 {{< rawhtml >}}
@@ -40,7 +62,7 @@ Durante este fin de semana realizaremos dos talleres.
 
 <span style="display: inline-block;width: 20%; padding-bottom: 2.25em"><img src="/uploads/proyectomixmedia-2020-07-28.png"></span>
 
-<span style="display: inline-block;vertical-align: top;width: 75%;">En el primer taller de este fin de semana especial dedicado a las manualidades que más nos gustan realizaremos estos tags con la técnica de MixMedia. Están realizados en acetato rígido y son preciosos.</span>
+<span style="display: inline-block;vertical-align: top;width: 75%;">En el segundo taller de este fin de semana especial dedicado a las manualidades que más nos gustan realizaremos estos tags XXL con la técnica de MixMedia, aplicando varias técnicas. Están realizados en acetato rígido y son preciosos.</span>
 
 </div>
 
@@ -49,28 +71,6 @@ Durante este fin de semana realizaremos dos talleres.
 <span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Nany, una artista apasionada del mixmedia que desde hace 2 años nos sorprende con sus proyectos en esta técnica con trabajos tanto de estilo Steampunk como Vintage. Puedes conocerla en sus redes sociales como Nany (<a href="https://www.instagram.com/niara.art/">@niara.art</a>), o como su negocio SomniArt Palma (<a href="https://www.instagram.com/somniart_palma/">@somniart_palma</a>) o también en su web <a href="https://somniartpalma.com">Somniart</a>, donde entre otras cosas, podrás apuntarte a sus talleres.</span>
 
 <span style="display: inline-block; width: 20%; text-align: right; padding-bottom: 2.25em"><img src="/uploads/nany-2020-08-01.png"></span>
-
-</div>
-
-{{< /rawhtml >}}
-
-#### Taller de Scrapbooking
-
-{{< rawhtml >}}
-
-<div>
-
-<span style="display: inline-block;width: 20%; padding-bottom: 2.25em"><img src="/uploads/interrogante-2020-09-14.png"></span>
-
-<span style="display: inline-block;vertical-align: top;width: 75%;">Segundo taller por descubrir.</span>
-
-</div>
-
-<div>
-
-<span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Konxi, scrapera a la que le encanta montar un álbúm desde cero: estructuras, decoración y toques personales. También la papelería creativa. Puedes conocerla en sus redes sociales como Konxi Scrap (<a href="https://www.instagram.com/konxi.scrap/">@konxi.scrap</a>), o con su nueva faceta Toppercreaciones (<a href="https://www.instagram.com/toppercreaciones/">@toppercreaciones.</a>)</span>
-
-<span style="display: inline-block; width: 20%; text-align: right; padding-bottom: 2.25em"><img src="/uploads/konxi-2020-09-14.png"></span>
 
 </div>
 
@@ -104,4 +104,4 @@ Te vamos a ir presentando a todos los colaboradores que harán de este fin de se
 
 Puedes conocerlos de cerca haciendo click en sus logos.
 
-[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/flores-de-guirior2-2020-08-24.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)   [![](/uploads/quely-logo-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/nuneka-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Nuneka") [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/sweetmoma-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Sweet Moma") [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/whayssa-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Colaboradores") [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/scrapealo-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Scrapealo") [![](/uploads/scrapmenorca-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/coquitoscrapero-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/artelaserdesign-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/tombow-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/basiccrea-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/beadesign-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/lasonadoramilcrafts-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/montejo-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/)  [![](/uploads/lolita-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/logo_sonrisas-de-papel-2020-09-10.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/mokkastitches-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/bekangaroo-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/mayrarubi-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/petitcuky-2020-09-17.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/lamardewashitapes-2020-09-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/karinacapatto-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/esferreret-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/anskuku-2020-10-01.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/passionart-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/cajade-2020-10-27.png)](https://mansiart.js.org/colaboradores-scrapalilla/)[![](/uploads/troquelando-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/lahuelladelaura-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/modasyaya-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/)
+[![](/uploads/trucos-y-dulces-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/flores-de-guirior2-2020-08-24.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/)   [![](/uploads/quely-logo-2020-08-11.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/nuneka-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Nuneka") [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/sweetmoma-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Sweet Moma") [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/whayssa-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Colaboradores") [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/scrapealo-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/ "Scrapealo") [![](/uploads/scrapmenorca-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![https://mansiart.js.org/colaboradores-scrapalilla/](/uploads/coquitoscrapero-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/artelaserdesign-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/tombow-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/basiccrea-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/beadesign-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/lasonadoramilcrafts-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/montejo-2020-09-12.png)](https://mansiart.js.org/colaboradores-scrapalilla/)  [![](/uploads/lolita-2020-09-05.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/logo_sonrisas-de-papel-2020-09-10.jpg)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/mokkastitches-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/bekangaroo-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/mayrarubi-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/petitcuky-2020-09-17.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/lamardewashitapes-2020-09-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/karinacapatto-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/esferreret-2020-09-16.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/anskuku-2020-10-01.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/passionart-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/cajade-2020-10-27.png)![](/uploads/troquelando-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/lahuelladelaura-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/) [![](/uploads/modasyaya-2020-10-20.png)](https://mansiart.js.org/colaboradores-scrapalilla/)
