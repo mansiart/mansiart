@@ -78,17 +78,13 @@ Conoce a nuestros colaboradores
 
 <div class="6u 12u$(small)">
 
-<span><img src="/uploads/decaprint-2020-11-06.jpng" alt="" /></span>
+<span><img src="/uploads/decaprint-2020-11-06.jpeg" alt="" /></span>
 
 </div>
 
 <div class="6u$ 12u$(small)">
 
-<a href="https://decaprint.com/">Decaprint</a> es una empresa con amplia experiencia en el mundo de la publicidad y el diseño, adaptada a las nuevas tecnologías, contando en su cartera de clientes con diferentes sectores como hoteleros, náutica, restauración,… en general todo tipo de empresas y comercios que apuestan por la publicidad para aumentar sus ingresos y fondo de mercado.<br/>
-
-Enfocada a ayudar a los comercios y empresas a difundir su marca a través de plasmar sus ideas en todo tipo de soportes, incluidas las nuevas tecnologías, marketing online y la mirada puesta al futuro.<br/>
-
-Entre los servicios que ofrece decaprint puedes encontrar estampación textil, rotulación, imprenta offset, imprenta digital, gran formato, todo tipo de letreros y carteles, flotas de vehiculos personalizadas, gestión de redes sociales, diseño de paginas web, tiendas online, imagen corporativa, marketing online… y muchos más que ayudan a los comercios y empresas a publicitarse con calidad y acierto..<br/>Nos ofrece estas ventajas para los socios de Mans&Art:
+Entre los servicios que ofrece <a href="https://decaprint.com/">decaprint</a> puedes encontrar estampación textil, rotulación, imprenta offset, imprenta digital, gran formato, todo tipo de letreros y carteles, flotas de vehiculos personalizadas, gestión de redes sociales, diseño de paginas web, tiendas online, imagen corporativa, marketing online… y muchos más que ayudan a los comercios y empresas a publicitarse con calidad y acierto.<br/><br/>Nos ofrece estas ventajas para los socios de Mans&Art:
 
 <ul>
 
