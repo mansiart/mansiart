@@ -52,14 +52,13 @@ Durante este fin de semana realizaremos dos talleres.
 
 </div>
 
+{{< /rawhtml >}}
+
 ##### Herramientas básicas para el taller
 
 Para este taller tendrás que traer de casa:
 
 * Base de corte
-* 
-
-{{< /rawhtml >}}
 
 #### Taller de MixMedia
 
