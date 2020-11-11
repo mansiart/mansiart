@@ -46,7 +46,13 @@ Durante este fin de semana realizaremos dos talleres.
 
 <div>
 
-<span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Konxi, scrapera a la que le encanta montar un álbúm desde cero: estructuras, decoración y toques personales. También la papelería creativa. Puedes conocerla en sus redes sociales como Konxi Scrap (<a href="https://www.instagram.com/konxi.scrap/">@konxi.scrap</a>), o con su nueva faceta Toppercreaciones (<a href="https://www.instagram.com/toppercreaciones/">@toppercreaciones.</a>)</span>
+<span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Konxi, scrapera a la que le encanta montar un álbúm desde cero: estructuras, decoración y toques personales. También la papelería creativa. Puedes conocerla en sus redes sociales como Konxi Scrap (<a href="https://www.instagram.com/konxi.scrap/">@konxi.scrap</a>), o con su nueva faceta Toppercreaciones (<a href="https://www.instagram.com/toppercreaciones/">@toppercreaciones.</a>)
+
+<p>
+
+<br> Herramientas básicas para el taller: </br>
+
+</span>
 
 <span style="display: inline-block; width: 20%; text-align: right; padding-bottom: 2.25em"><img src="/uploads/konxi-2020-09-14.png"></span>
 
