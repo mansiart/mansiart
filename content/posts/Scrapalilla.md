@@ -58,7 +58,22 @@ Durante este fin de semana realizaremos dos talleres.
 
 Para este taller tendrás que traer de casa:
 
+**Básicos**
+
 * Base de corte
+* Cutter
+* Regla
+* Tijeras
+* Cizalla
+* Plegadera
+* Pegamento en cola para papel
+* Cinta doble cara
+
+**Opcionales**
+
+* Cola blok
+* Punzón 
+* Crop a dile
 
 #### Taller de MixMedia
 
