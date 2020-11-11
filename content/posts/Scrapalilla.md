@@ -50,7 +50,9 @@ Durante este fin de semana realizaremos dos talleres.
 
 <p>
 
-<br> Herramientas básicas para el taller: </br>
+<br> Herramientas básicas para el taller: </br> Base de corte, cutter, regla, tijeras, plegadera, cizalla, pegamento en cola para papel, cinta de doble cara.
+
+<br> Herramientas opcionales:</br> cola block, punzón, crop-a-dile
 
 </span>
 
@@ -59,27 +61,6 @@ Durante este fin de semana realizaremos dos talleres.
 </div>
 
 {{< /rawhtml >}}
-
-##### Herramientas básicas para el taller
-
-Para este taller tendrás que traer de casa:
-
-**Básicos**
-
-* Base de corte
-* Cutter
-* Regla
-* Tijeras
-* Cizalla
-* Plegadera
-* Pegamento en cola para papel
-* Cinta doble cara
-
-**Opcionales**
-
-* Cola blok
-* Punzón 
-* Crop a dile
 
 #### Taller de MixMedia
 
