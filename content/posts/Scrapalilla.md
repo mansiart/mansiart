@@ -48,11 +48,13 @@ Durante este fin de semana realizaremos dos talleres.
 
 <span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Konxi, scrapera a la que le encanta montar un álbúm desde cero: estructuras, decoración y toques personales. También la papelería creativa. Puedes conocerla en sus redes sociales como Konxi Scrap (<a href="https://www.instagram.com/konxi.scrap/">@konxi.scrap</a>), o con su nueva faceta Toppercreaciones (<a href="https://www.instagram.com/toppercreaciones/">@toppercreaciones.</a>)
 
-<p>
+</br>
 
-<br> Herramientas básicas para el taller: </br> Base de corte, cutter, regla, tijeras, plegadera, cizalla, pegamento en cola para papel, cinta de doble cara.
+<strong> Herramientas básicas para el taller: </strong> Base de corte, cutter, regla, tijeras, plegadera, cizalla, pegamento en cola para papel, cinta de doble cara.
 
-<br> Herramientas opcionales:</br> cola block, punzón, crop-a-dile
+</br> 
+
+<strong>Herramientas opcionales:</strong> cola block, punzón, crop-a-dile
 
 </span>
 
