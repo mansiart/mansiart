@@ -74,7 +74,13 @@ Durante este fin de semana realizaremos dos talleres.
 
 <div>
 
-<span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Nany, una artista apasionada del mixmedia que desde hace 2 años nos sorprende con sus proyectos en esta técnica con trabajos tanto de estilo Steampunk como Vintage. Puedes conocerla en sus redes sociales como Nany (<a href="https://www.instagram.com/niara.art/">@niara.art</a>), o como su negocio SomniArt Palma (<a href="https://www.instagram.com/somniart_palma/">@somniart_palma</a>) o también en su web <a href="https://somniartpalma.com">Somniart</a>, donde entre otras cosas, podrás apuntarte a sus talleres.</span>
+<span style="display: inline-block;width: 75%; vertical-align:top">El taller será impartido por Nany, una artista apasionada del mixmedia que desde hace 2 años nos sorprende con sus proyectos en esta técnica con trabajos tanto de estilo Steampunk como Vintage. Puedes conocerla en sus redes sociales como Nany (<a href="https://www.instagram.com/niara.art/">@niara.art</a>), o como su negocio SomniArt Palma (<a href="https://www.instagram.com/somniart_palma/">@somniart_palma</a>) o también en su web <a href="https://somniartpalma.com">Somniart</a>, donde entre otras cosas, podrás apuntarte a sus talleres.</br>
+
+</br><strong><u>Herramientas básicas para el taller:</strong></u> Base de corte, tijeras, punzón, pegamento siliconado tipo block, silicona fría... o pistola de silicona, toallitas.</br>
+
+<strong><u>Herramientas opcionales:</strong></u> espátulas.
+
+</span>
 
 <span style="display: inline-block; width: 20%; text-align: right; padding-bottom: 2.25em"><img src="/uploads/nany-2020-08-01.png"></span>
 
