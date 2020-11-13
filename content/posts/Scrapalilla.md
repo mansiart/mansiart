@@ -22,7 +22,7 @@ En fin, de lo que un encuentro se trata, de conocernos entre risas y colores. Y 
 
 Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un entorno precioso de Mallorca.
 
-Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. 
+Durante el fin de semana realizaremos 2 talleres, juegos y sorteos.
 
 ## ¿Cuándo será el I encuentro Scrapal'illa?
 
@@ -94,9 +94,9 @@ En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoc
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
-![](/uploads/117920257_356684985500009_7411904159935708540_n-2020-10-20.jpg)   El I encuentro Scrapal'illa será en el [Hotel Marina Portals](https://www.hotelmarinaportals.com/es) de 4*. Un precioso hotel ubicado en Portals Nous (costa de Calvià), donde entre talleres podremos disfrutar de sus jardines, terrazas y vistas a la bahía. Todo pensado para que además de divertirte creando, te relajes y disfrutes aún más de esta experiencia.
+![](/uploads/logo-2020-11-13.jpg)El I encuentro Scrapal'illa será en el [LoftOtel Canet](http://www.weloftcanet.com/). Un precioso hotel ubicado en Esporles, donde entre talleres podremos disfrutar de sus jardines, terrazas y vistas a la serra de Tramuntana. Todo pensado para que además de divertirte creando, te relajes y disfrutes aún más de esta experiencia.
 
-![](/uploads/117726542_611894692847979_2919382916457674732_n-1-2020-10-20.jpg)![](/uploads/118117798_226444265361587_4701201538243687867_n-2020-10-20.jpg)![](/uploads/118693879_2589408217988975_2039656387498527521_n-2020-10-20.jpg)![](/uploads/87820472_194631638530892_9089760560921315984_n-2020-10-20.jpg)![](/uploads/95664994_272903300546827_2386494825276256300_n-2020-10-20.jpg)
+![](/uploads/381vk4-events-mallorca-11-2020-11-13.jpg) ![](/uploads/h6wede-events-mallorca-1-2020-11-13.jpg) ![](/uploads/hueqb0-rooms-mallorca-7-2020-11-13.jpg)
 
 ## Acción solidaria
 
