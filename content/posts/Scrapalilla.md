@@ -94,7 +94,9 @@ En caso necesario te revelaremos un poquito, pero no todo, para mantener la emoc
 
 ## ¿Dónde será este I encuentro Scrapal'Illa?
 
-El I encuentro Scrapal'illa será en el [LoftOtel Canet](http://www.weloftcanet.com/). Un precioso hotel ubicado en Esporles, donde entre talleres podremos disfrutar de sus jardines, terrazas y vistas a la serra de Tramuntana. Todo pensado para que además de divertirte creando, te relajes y disfrutes aún más de esta experiencia.
+![](/uploads/logo-2020-11-13.png)El I encuentro Scrapal'illa será en el [LoftOtel Canet](http://www.weloftcanet.com/). Un precioso hotel ubicado en Esporles, donde entre talleres podremos disfrutar de sus jardines, terrazas y vistas a la serra de Tramuntana. Todo pensado para que además de divertirte creando, te relajes y disfrutes aún más de esta experiencia.
+
+![](/uploads/r2ns35-events-mallorca-6-2020-11-13.png) ![](/uploads/o2qbn9-events-mallorca-14-2020-11-13.png) ![](/uploads/hueqb0-rooms-mallorca-7-2020-11-13.png)
 
 ## Acción solidaria
 
