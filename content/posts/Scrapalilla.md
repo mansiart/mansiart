@@ -20,9 +20,9 @@ En fin, de lo que un encuentro se trata, de conocernos entre risas y colores. Y 
 
 ## ¿Qué incluye este evento?
 
-Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un precioso hotel de Mallorca.
+Scrapal'illa será un evento de un fin de semana: el sábado por la mañana nos esperaran en un entorno precioso de Mallorca.
 
-Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. Y la noche del sábado seguiremos las risas y la fiesta para conocernos mejor
+Durante el fin de semana realizaremos 2 talleres, juegos y sorteos. 
 
 ## ¿Cuándo será el I encuentro Scrapal'illa?
 
