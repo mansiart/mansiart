@@ -10,6 +10,8 @@ Scrapal'illa es el encuentro dedicado al scrapbooking y el mixmedia que desde Ma
 
 Un primer encuentro para conocernos y compartir nuestras aficiones, reírnos y desconectar.
 
+[Programa de Scrapal'illa](/uploads/programa_scrapalilla-2020-11-17.pdf)
+
 ## La esencia
 
 La esencia de Scrapal'illa reside en que en las islas podamos hacer talleres sin tener que coger un vuelo e ir a la península. Porque aquí, en las islas, tenemos artistas maravillos@s de todas las modalidades.
