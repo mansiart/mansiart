@@ -112,7 +112,7 @@ Entre los servicios que ofrece <a href="https://decaprint.com/">decaprint</a> pu
 
 <div class="6u$ 12u$(small)">
 
-Joyería artesanal hecha en plata y oro con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en <a href="https://www.instagram.com/flores_de_guirior/">instagram </a>o en su<a href="https://esmosaik.com/es/flores-de-guirior/"> tienda</a>.<br/><br/>Nos ofrece estas ventajas para los socios de Mans&Art:
+Joyería artesanal hecha en plata y oro con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en <a href="https://www.instagram.com/flores_de_guirior/">instagram </a>o en su<a href="https://hibiscusmarket.com/flores-de-guirior/"> tienda</a>.<br/><br/>Nos ofrece estas ventajas para los socios de Mans&Art:
 
 <ul>
 
