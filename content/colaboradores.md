@@ -112,11 +112,39 @@ Entre los servicios que ofrece <a href="https://decaprint.com/">decaprint</a> pu
 
 <div class="6u$ 12u$(small)">
 
-Joyería artesanal hecha en plata y oro con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en <a href="https://www.instagram.com/flores_de_guirior/"> instagram </a>o en su <a href="https://esmosaik.com/es/flores-de-guirior/"> tienda</a>.<br/><br/>Nos ofrece estas ventajas para los socios de Mans&Art:
+Joyería artesanal hecha en plata y oro con mucho cariño. Diseños elegantes inspirados en la naturaleza y personalizados. Puedes consultar su catálogo en <a href="https://www.instagram.com/flores_de_guirior/">instagram </a>o en su<a href="https://esmosaik.com/es/flores-de-guirior/"> tienda</a>.<br/><br/>Nos ofrece estas ventajas para los socios de Mans&Art:
 
 <ul>
 
 <li>Descuento del 15% en la tienda</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<!-----------------------------------FIN logo grande------------------------------------------->
+
+<!----------------Para logo grande. izquierda imagen, derecha texto Topper Creaciones--------------------->
+
+<br/>
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<span><img src="/uploads/toppercreaciones-2020-12-02.png" alt="" /></span>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+Topper creaciones es papelería creativa y accesorios para cumples. Tu sueñas algo y Konxi lo hace realidad. Mira todos los diseños de topper para tartas y más en su <a href="https://www.instagram.com/toppercreaciones/">Instagram</a>.<br/><br/>Nos ofrece estas ventajas para los socios de Mans&Art:
+
+<ul>
+
+<li>Descuento del 20% en los pedidos</li>
 
 </ul>
 
