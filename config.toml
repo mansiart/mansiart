@@ -127,8 +127,8 @@ summaryLength = 20
     [[params.tiles.showcase]]
       title = "Colaboradores"
       subtitle = "Conoce a nuestros colaboradores"
-      image = "../colaboradores2-2020-12-07.jpg"
-      url = "pages/colaboradores"
+      image = "../uploads/colaboradores2-2020-12-07.jpg"
+      url = "colaboradores"
 
     [[params.tiles.showcase]]
       title = "Talleres"
