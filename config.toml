@@ -160,7 +160,7 @@ summaryLength = 20
       image = "../uploads/pintura-2020-07-27.png"
       url = "calendario"
       
-      [[params.tiles.showcase]]
+     [[params.tiles.showcase]]
       title = "Scrapal'illa"
       subtitle = "Toda la información de este I encuentro en Mallorca"
       image = "../uploads/scrapalilla_inicio-2020-07-13.jpg"
