@@ -125,10 +125,10 @@ summaryLength = 20
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Scrapal'illa"
-      subtitle = "Toda la información de este I encuentro en Mallorca"
-      image = "../uploads/scrapalilla_inicio-2020-07-13.jpg"
-      url = "posts/scrapalilla"
+      title = "Colaboradores"
+      subtitle = "Conoce a nuestros colaboradores"
+      image = "../uploads/colaboradores2-2020-12-07.jpg"
+      url = "pages/colaboradores"
 
     [[params.tiles.showcase]]
       title = "Talleres"
@@ -159,6 +159,12 @@ summaryLength = 20
       subtitle = "No te pierdas ninguna de nuestras actividades."
       image = "../uploads/pintura-2020-07-27.png"
       url = "calendario"
+      
+      [[params.tiles.showcase]]
+      title = "Scrapal'illa"
+      subtitle = "Toda la información de este I encuentro en Mallorca"
+      image = "../uploads/scrapalilla_inicio-2020-07-13.jpg"
+      url = "posts/scrapalilla"
       
     # You can make more showcases by copy and pasting the code above
 
