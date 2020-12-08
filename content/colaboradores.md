@@ -158,9 +158,9 @@ Topper creaciones es papelería creativa y accesorios para cumples. Tu sueñas a
 
 <tbody>
 
-<tr><!----------------Topper Creaciones--------------------->
+<tr><!----------------------------------------------Topper Creaciones------------------------------------------------>
 
-<td><img src="/uploads/toppercreaciones-2020-12-02.png" alt="" `width="300px"` /></td>
+<td><img src="/uploads/toppercreaciones-2020-12-02.png" alt="" width="300px" /></td>
 
 <td valign="top">Topper creaciones es papelería creativa y accesorios para cumples. Tu sueñas algo y Konxi lo hace realidad. Mira todos los diseños de topper para tartas y más en su <a href="https://www.instagram.com/toppercreaciones/">Instagram</a>.<br/>Nos ofrece estas ventajas para los socios de Mans&Art:
 
@@ -170,7 +170,7 @@ Topper creaciones es papelería creativa y accesorios para cumples. Tu sueñas a
 
 </ul></td>
 
-</tr><!--Fin topper creaciones-->
+</tr><!-------------------------------------------Fin topper creaciones---------------------------------------------->
 
 <tr>
 
