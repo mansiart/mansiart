@@ -154,7 +154,7 @@ Topper creaciones es papelería creativa y accesorios para cumples. Tu sueñas a
 
 <!-----------------------------------FIN logo grande------------------------------------------->
 
-<table>
+<table style="border:1px">
 
 <tbody>
 
