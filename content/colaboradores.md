@@ -154,6 +154,64 @@ Topper creaciones es papelería creativa y accesorios para cumples. Tu sueñas a
 
 <!-----------------------------------FIN logo grande------------------------------------------->
 
+<!----------------Para logo grande. izquierda imagen, derecha texto Anskuku--------------------->
+
+<br/>
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<span><img src="/uploads/anskuku-2020-10-01.png" alt="" /></span>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+En Anskuku podrás encontrar protectores de tela para tus libros y e-readers personalizados. También tienes otros productos personalizables con las telas disponibles, como mascarillas, fundas para tazas, bolsos, marcapáginas...Descubre todo lo que tiene para ti en su <a href="http://anskuku.com/">web</a> o en su <a href="https://www.instagram.com/anskuku.diy/">Instagram</a>.<br/><br/>Nos ofrece estas ventajas para los socios de Mans&Art:
+
+<ul>
+
+<li>Descuento del 15% en los pedidos</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<!-----------------------------------FIN logo grande------------------------------------------->
+
+<!----------------Para logo grande. izquierda imagen, derecha texto Es Ferreret--------------------->
+
+<br/>
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<span><img src="/uploads/esferreret-2020-09-16.png" alt="" /></span>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto artículos de papelería. Puedes encontrarlos en la calle Torcuato Luca de Tena, 37 de Palma.<br/><br/>Los socios de Mans&Art tienen estas ventajas:
+
+<ul>
+
+<li>10% en los productos de manualidades y regalo</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<!-----------------------------------FIN logo grande------------------------------------------->
+
+<!-------------------PROBANDO PROBANDO------------------------------->
+
 <table style="border:1px">
 
 <tbody>
