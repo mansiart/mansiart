@@ -48,7 +48,7 @@ Conoce a nuestros colaboradores
 
 <div class="6u 12u$(small)">
 
-<span><img src="/uploads/somniart-2020-10-26.png" alt="" /></span>
+<span><img src="/uploads/somniart-2020-10-26.png" alt="" width="50%" /></span>
 
 </div>
 
@@ -134,7 +134,7 @@ Joyería artesanal hecha en plata y oro con mucho cariño. Diseños elegantes in
 
 <div class="6u 12u$(small)">
 
-<span><img src="/uploads/toppercreaciones-2020-12-02.png" alt="" /></span>
+<span><img src="/uploads/toppercreaciones-2020-12-02.png" alt="" width="50%" /></span>
 
 </div>
 
