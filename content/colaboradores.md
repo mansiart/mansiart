@@ -212,11 +212,13 @@ Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto 
 
 <!-------------------PROBANDO PROBANDO------------------------------->
 
-<table style="border:1px">
+<!----------------------------------------------Topper Creaciones------------------------------------------------>
+
+<!--<table style="border:1px">
 
 <tbody>
 
-<tr><!----------------------------------------------Topper Creaciones------------------------------------------------>
+<tr>
 
 <td><img src="/uploads/toppercreaciones-2020-12-02.png" alt="" width="300px" /></td>
 
@@ -228,9 +230,11 @@ Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto 
 
 </ul></td>
 
-</tr><!-------------------------------------------Fin topper creaciones---------------------------------------------->
+</tr>-->
 
-<tr>
+<!-------------------------------------------Fin topper creaciones---------------------------------------------->
+
+<!--<tr>
 
 <td>Alice</td>
 
@@ -240,6 +244,6 @@ Papelería local donde podrás encontrar prensa, regalos, juegos y por supuesto 
 
 </tbody>
 
-</table>
+</table>-->
 
 {{< /rawhtml >}}
