@@ -12,6 +12,32 @@ Conoce a nuestros colaboradores
 
 {{< rawhtml >}}
 
+<!----------------Para logo grande. izquierda imagen, derecha texto Passion art by Carol--------------------->
+
+<div class="row">
+
+<div class="6u 12u$(small)">
+
+<span><img src="/uploads/passioncarol-2021-03-17.jpg" alt="" width="50%" /></span>
+
+</div>
+
+<div class="6u$ 12u$(small)">
+
+<a href="https://www.passionartbycarol.com/">Carol</a> es una apasionada del Scrapbooking & DIY.<br/><br/> Si eres un apasionado como nosotros del scrapbooking y del DIY aquí encontrarás todos los materiales necesarios para hacer tus proyectos.<br/><br/>Además de esto, ofrece: tutoriales, ideas y cursos para tu inspiración.<br/>Estas son las ventajas para los socios de Mans&Art:
+
+<ul>
+
+<li>Descuento del 10% en productos y servicios</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<!-----------------------------------FIN logo grande------------------------------------------->
+
 <!----------------Para logo grande. izquierda imagen, derecha texto Valdesoiro--------------------->
 
 <div class="row">
