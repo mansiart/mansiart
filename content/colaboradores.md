@@ -24,7 +24,7 @@ Conoce a nuestros colaboradores
 
 <div class="6u$ 12u$(small)">
 
-<a href="https://www.passionartbycarol.com/">Carol</a> es una apasionada del Scrapbooking & DIY.<br/><br/> Si eres un apasionado como nosotros del scrapbooking y del DIY aquí encontrarás todos los materiales necesarios para hacer tus proyectos.<br/><br/>Además de esto, ofrece: tutoriales, ideas y cursos para tu inspiración.<br/>Estas son las ventajas para los socios de Mans&Art:
+<a href="https://www.passionartbycarol.com/">Carol</a> es una apasionada del Scrapbooking & DIY. Si eres un apasionado como nosotros del scrapbooking y del DIY aquí encontrarás todos los materiales necesarios para hacer tus proyectos.<br/><br/>Además de esto, ofrece: tutoriales, ideas y cursos para tu inspiración.<br/><br/>Estas son las ventajas para los socios de Mans&Art:
 
 <ul>
 
