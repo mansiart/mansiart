@@ -240,6 +240,11 @@ summaryLength = 20
       icon = "fa-instagram"
       url= "https://www.instagram.com/mansiart_mallorca/"
       label = "Instagram"
+      
+    [[params.footer.social]]
+      icon = "fa-youtube"
+      url= "https://www.youtube.com/channel/UCD0jy7n2T07HIG3fjii24Iw/"
+      label = "YouTube"
     
     #[[params.footer.social]]
     #  icon = "fa-github"
