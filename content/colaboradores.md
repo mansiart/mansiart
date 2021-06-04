@@ -98,9 +98,9 @@ Entre los servicios que ofrece <a href="https://decaprint.com/">decaprint</a> pu
 
 <!-----------------------------------FIN logo grande------------------------------------------->
 
-<!----------------Para logo grande. izquierda imagen, derecha texto Passion art by Carol--------------------->
+<!----------------NO PAGÓ -------------------------------------Para logo grande. izquierda imagen, derecha texto Passion art by Carol--------------------->
 
-<div class="row">
+<!--<div class="row">
 
 <div class="6u 12u$(small)">
 
@@ -120,7 +120,7 @@ Entre los servicios que ofrece <a href="https://decaprint.com/">decaprint</a> pu
 
 </div>
 
-</div>
+</div>-->
 
 <!-----------------------------------FIN logo grande------------------------------------------->
 
