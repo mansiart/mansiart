@@ -14,7 +14,7 @@ Aquí podrás ver todos los talleres que iremos organizando. Para inscribirte pu
 
 ### Taller Vuelta al cole
 
-Empieza el nuevo curso con un lapicero personalizado precioso y muy útil. En este taller [@MorganaWolfLion](https://www.instagram.com/stories/MorganaWolfLion "@MorganaWolfLion") tienes dos modelos para elegir según tu estilo, romántico o colorido. Todos los materiales incluidos.
+Empieza el nuevo curso con un lapicero personalizado precioso y muy útil. En este taller [@MorganaWolfLion](https://www.instagram.com/stories/MorganaWolfLion "@MorganaWolfLion") te ofrece dos modelos para elegir según tu estilo, romántico o colorido. Todos los materiales incluidos.
 
 ¡Te esperamos!
 
